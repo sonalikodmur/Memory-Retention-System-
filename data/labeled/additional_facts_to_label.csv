@@ -1,0 +1,12 @@
+memory_id,text,type,created_at,last_accessed_at,access_count,feedback,heuristic_score,days_since_accessed,human_label,human_score,notes
+4b8a7332,User has two younger siblings,fact,2026-05-01,2026-05-01,23,none,0.473,89,,,
+3236d751,User owns a dog named Max,fact,2026-07-20,2026-07-22,2,negative,0.51,7,,,
+95ca1cb2,User owns a dog named Max,fact,2026-03-18,2026-04-28,1,positive,0.388,92,,,
+b7f4506d,User has two younger siblings,fact,2026-05-10,2026-06-16,3,positive,0.539,43,,,
+a38ff727,User has a cat named Whiskers,fact,2026-03-14,2026-04-19,19,none,0.447,101,,,
+b614d940,User works part-time at a bakery,fact,2026-03-12,2026-03-17,1,none,0.259,134,,,
+8e047a0c,User works part-time at a bakery,fact,2026-04-05,2026-05-23,8,positive,0.535,67,,,
+053ccdb3,User has two younger siblings,fact,2026-06-23,2026-07-15,0,negative,0.379,14,,,
+e08e2ceb,User has two younger siblings,fact,2026-05-22,2026-06-01,4,none,0.412,58,,,
+ae500911,User's favorite color is blue,fact,2026-04-16,2026-04-27,1,positive,0.387,93,,,
+de63c648,User has a cat named Whiskers,fact,2026-04-18,2026-05-26,4,none,0.398,64,,,

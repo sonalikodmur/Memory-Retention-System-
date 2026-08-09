@@ -1,0 +1,341 @@
+memory_id,text,days_since_created,days_since_accessed,feedback_encoded,access_count_log,type_event,type_fact,type_goal,type_preference,type_task,human_score,human_label
+00a1edc5,User attended a wedding last weekend,116,75,-1,0.0,True,False,False,False,False,0.3,delete
+00dacb82,Renew driving license this month,112,11,0,3.044522437723423,False,False,False,False,True,0.15,delete
+0390aeda,User had a job interview last week,52,6,-1,0.0,True,False,False,False,False,0.15,delete
+0396fbaa,User wears glasses,64,45,-1,0.0,False,True,False,False,False,0.8,keep
+042c7438,User works part-time at a bakery,131,49,0,1.6094379124341003,False,True,False,False,False,0.6,keep
+04d53bbc,User dislikes long meetings,13,10,1,0.6931471805599453,False,False,False,True,False,0.85,keep
+053ccdb3,User has two younger siblings,36,14,-1,0.0,False,True,False,False,False,0.18,delete
+06d48efa,Book flight tickets before price increase,41,20,0,1.6094379124341003,False,False,False,False,True,0.75,keep
+08b93e13,User had a job interview last week,84,3,0,0.6931471805599453,True,False,False,False,False,0.55,keep
+0afe7f69,User wants to publish a research paper,100,53,0,0.6931471805599453,False,False,True,False,False,0.9,keep
+0ef27a04,Finish reading the assigned book by next week,23,12,0,2.4849066497880004,False,False,False,False,True,0.75,keep
+0faa538f,User visited the doctor last month,67,21,0,1.6094379124341003,True,False,False,False,False,0.15,delete
+0fbfc4fc,User wants to learn guitar,126,67,0,0.6931471805599453,False,False,True,False,False,0.65,keep
+1011f2ba,User wants to run a marathon next year,132,127,0,2.302585092994046,False,False,True,False,False,0.65,keep
+106060ca,User wants to learn Spanish,26,13,0,0.6931471805599453,False,False,True,False,False,0.7,keep
+12ec94ff,User prefers tea over coffee,156,36,0,0.6931471805599453,False,False,False,True,False,0.85,keep
+12eff540,User prefers working late at night,78,66,0,0.0,False,False,False,True,False,0.85,keep
+13de16a5,User owns a dog named Max,52,1,0,0.0,False,True,False,False,False,0.6,keep
+15fd0076,User wants to publish a research paper,127,37,0,0.6931471805599453,False,False,True,False,False,0.48,delete
+167fda3b,User's hometown is Pune,117,11,0,1.3862943611198906,False,True,False,False,False,0.8,keep
+19a4bb16,User is left-handed,146,15,-1,3.332204510175204,False,True,False,False,False,0.8,keep
+1a13a3ce,User wants to switch careers into AI,116,4,1,2.8903717578961645,False,False,True,False,False,0.91,keep
+1bb96bef,User wears glasses,112,0,0,0.6931471805599453,False,True,False,False,False,0.8,keep
+1bfffb66,User dislikes spicy food,20,5,0,0.6931471805599453,False,False,False,True,False,0.85,keep
+1d0ffb76,User wants to buy a house within five years,166,152,0,1.6094379124341003,False,False,True,False,False,0.65,keep
+1fbfddeb,User wants to buy a house within five years,139,126,0,1.791759469228055,False,False,True,False,False,0.7,keep
+1fe308d3,Submit assignment by Monday,93,32,0,1.3862943611198906,False,False,False,False,True,0.15,delete
+2047b7a2,User studied at NK Orchid College,179,111,0,0.6931471805599453,False,True,False,False,False,0.8,keep
+20b3bd33,User wants to learn Spanish,121,67,-1,1.6094379124341003,False,False,True,False,False,0.7,keep
+21de5852,User likes detailed explanations,25,20,1,1.0986122886681098,False,False,False,True,False,0.85,keep
+21e89f8d,User prefers Android over iOS,140,62,1,1.9459101490553132,False,False,False,True,False,0.75,keep
+23efa631,User wants to buy a house within five years,125,80,0,0.6931471805599453,False,False,True,False,False,0.7,keep
+2494c296,User has a cat named Whiskers,104,65,0,3.332204510175204,False,True,False,False,False,0.6,keep
+25f5726f,User is saving up to buy a house,81,15,0,0.6931471805599453,False,False,True,False,False,0.7,keep
+2611f952,Submit assignment by Monday,77,20,0,3.2188758248682006,False,False,False,False,True,0.15,delete
+261d259e,User's birthday is in March,108,67,0,0.0,False,True,False,False,False,0.8,keep
+26ee0a15,User prefers dark mode,67,53,-1,0.0,False,False,False,True,False,0.25,delete
+275bb01d,User attended a wedding last weekend,151,55,0,1.3862943611198906,True,False,False,False,False,0.6,keep
+28560818,Call the dentist to reschedule appointment,47,1,0,0.6931471805599453,False,False,False,False,True,0.75,keep
+29c7e870,User attended a college hackathon,16,16,0,2.1972245773362196,True,False,False,False,False,0.55,keep
+29fe05e0,User plans to run a marathon next year,172,63,1,1.6094379124341003,False,False,True,False,False,0.65,keep
+2a8c62e3,Submit assignment by Monday,99,48,0,0.6931471805599453,False,False,False,False,True,0.15,delete
+2c12f73f,User likes minimalist design,31,15,0,0.0,False,False,False,True,False,0.85,keep
+2cfef8c2,Renew driving license this month,117,0,0,1.6094379124341003,False,False,False,False,True,0.15,delete
+2d3386db,Renew driving license this month,178,76,1,0.6931471805599453,False,False,False,False,True,0.15,delete
+2f70dccf,User visited the doctor last month,31,2,0,0.6931471805599453,True,False,False,False,False,0.55,keep
+2fca32d8,Finish reading the assigned book by next week,174,153,1,1.0986122886681098,False,False,False,False,True,0.15,delete
+30359715,User wants to lose 5 kg,117,34,0,0.6931471805599453,False,False,True,False,False,0.7,keep
+30a33a4f,User is left-handed,163,43,-1,0.6931471805599453,False,True,False,False,False,0.8,keep
+30ba93d3,User's favorite color is blue,26,8,0,1.3862943611198906,False,True,False,False,False,0.6,keep
+3236d751,User owns a dog named Max,9,7,-1,1.0986122886681098,False,True,False,False,False,0.18,delete
+329e758d,Finish reading the assigned book by next week,70,13,0,0.0,False,False,False,False,True,0.15,delete
+3405e3b4,User prefers Android over iOS,109,101,0,0.6931471805599453,False,False,False,True,False,0.75,keep
+34301a13,User has a cat named Whiskers,86,31,0,0.6931471805599453,False,True,False,False,False,0.6,keep
+366fa612,Return the library books by Thursday,143,61,0,1.791759469228055,False,False,False,False,True,0.15,delete
+37ef3363,User is preparing for interviews,15,7,0,1.0986122886681098,False,False,True,False,False,0.78,keep
+37fc3b4d,User prefers Android over iOS,34,15,-1,0.6931471805599453,False,False,False,True,False,0.25,delete
+3818af63,User is allergic to peanuts,85,14,0,0.6931471805599453,False,True,False,False,False,0.8,keep
+395f34f8,User's mother tongue is Marathi,30,21,1,1.6094379124341003,False,True,False,False,False,0.8,keep
+3b78ebc9,Send the report to manager by end of day,163,31,0,0.6931471805599453,False,False,False,False,True,0.15,delete
+3b86ae58,User owns a dog named Max,12,6,0,1.791759469228055,False,True,False,False,False,0.6,keep
+3c52f4f6,User wants to learn Spanish,82,33,0,0.6931471805599453,False,False,True,False,False,0.52,keep
+3d2ade40,User wants to publish a research paper,146,49,0,3.258096538021482,False,False,True,False,False,0.7,keep
+3f418d62,User is saving up to buy a house,54,45,0,1.6094379124341003,False,False,True,False,False,0.4,delete
+40cd8972,User watched a movie yesterday,119,90,0,1.3862943611198906,True,False,False,False,False,0.15,delete
+40eb9e6c,User likes minimalist design,168,39,-1,1.0986122886681098,False,False,False,True,False,0.25,delete
+413e7cca,User's favorite color is blue,165,147,0,0.6931471805599453,False,True,False,False,False,0.25,delete
+41ac99a2,User is saving up to buy a house,124,24,-1,1.3862943611198906,False,False,True,False,False,0.2,delete
+43f5bb6c,Return the library books by Thursday,37,36,0,0.6931471805599453,False,False,False,False,True,0.75,keep
+45108770,User is saving up to buy a house,147,2,-1,0.6931471805599453,False,False,True,False,False,0.2,delete
+451195ac,User visited the doctor last month,63,63,0,1.6094379124341003,True,False,False,False,False,0.15,delete
+45f26580,User likes detailed explanations,126,13,0,0.6931471805599453,False,False,False,True,False,0.85,keep
+4727e5c5,User likes minimalist design,162,47,0,1.3862943611198906,False,False,False,True,False,0.85,keep
+47b42bcf,User attended a college hackathon,20,15,0,0.6931471805599453,True,False,False,False,False,0.55,keep
+488c00a9,User prefers written instructions over videos,99,29,0,0.6931471805599453,False,False,False,True,False,0.85,keep
+498c28d8,User owns a dog named Max,108,49,0,1.0986122886681098,False,True,False,False,False,0.6,keep
+4a85b68d,User prefers Android over iOS,29,1,0,1.791759469228055,False,False,False,True,False,0.85,keep
+4b8a7332,User has two younger siblings,89,89,0,3.1780538303479458,False,True,False,False,False,0.22,delete
+4c0a4fa0,User plans to run a marathon next year,156,130,1,2.9444389791664403,False,False,True,False,False,0.7,keep
+4cab7857,User is saving up to buy a house,87,64,0,1.791759469228055,False,False,True,False,False,0.65,keep
+4cabbfd7,User prefers working late at night,90,27,0,1.3862943611198906,False,False,False,True,False,0.8,keep
+4cdbd9d4,User watched a movie yesterday,154,82,0,0.0,True,False,False,False,False,0.15,delete
+4d117192,User watched a movie yesterday,90,28,1,3.4339872044851463,True,False,False,False,False,0.15,delete
+4db569aa,User's phone number ends in 4471,27,25,0,0.0,False,True,False,False,False,0.8,keep
+4e6aca9b,User celebrated their birthday recently,6,6,0,0.0,True,False,False,False,False,0.55,keep
+4eec7375,User is saving up to buy a house,168,135,-1,3.332204510175204,False,False,True,False,False,0.2,delete
+4f2d192b,User is preparing for interviews,95,40,-1,1.791759469228055,False,False,True,False,False,0.7,keep
+4fd81819,User watched a movie yesterday,29,2,0,0.0,True,False,False,False,False,0.55,keep
+4fdcbb25,User went on a trip to Goa,83,13,0,1.0986122886681098,True,False,False,False,False,0.55,keep
+503f8e5a,User owns a dog named Max,122,78,0,0.6931471805599453,False,True,False,False,False,0.6,keep
+5061f9e7,User had a job interview last week,170,81,0,0.0,True,False,False,False,False,0.15,delete
+509cb9b1,User wants to lose 5 kg,144,46,0,0.0,False,False,True,False,False,0.39,delete
+515d8519,User wants to lose 5 kg,17,3,0,0.6931471805599453,False,False,True,False,False,0.7,keep
+516f8f18,User attended a wedding last weekend,136,93,-1,1.791759469228055,True,False,False,False,False,0.15,delete
+5193c191,User watched a movie yesterday,166,108,1,0.6931471805599453,True,False,False,False,False,0.15,delete
+52077403,User celebrated their birthday recently,133,37,0,0.6931471805599453,True,False,False,False,False,0.15,delete
+524c3a03,Renew driving license this month,117,95,0,1.6094379124341003,False,False,False,False,True,0.15,delete
+527336d8,User wants to run a marathon next year,13,13,0,0.0,False,False,True,False,False,0.7,keep
+52c98861,Return the library books by Thursday,175,132,0,2.3978952727983707,False,False,False,False,True,0.15,delete
+539c393a,User has two younger siblings,132,71,0,3.044522437723423,False,True,False,False,False,0.6,keep
+53d23963,User prefers dark mode,102,80,-1,1.6094379124341003,False,False,False,True,False,0.3,delete
+54052f9c,User is saving up to buy a house,65,3,0,2.6390573296152584,False,False,True,False,False,0.7,keep
+558ea917,User likes minimalist design,125,61,1,2.9444389791664403,False,False,False,True,False,0.85,keep
+5874d7d1,User's phone number ends in 4471,34,11,0,0.6931471805599453,False,True,False,False,False,0.8,keep
+58dba2c8,User wants to learn guitar,179,169,0,1.791759469228055,False,False,True,False,False,0.65,keep
+5908e605,Return the library books by Thursday,44,22,0,1.3862943611198906,False,False,False,False,True,0.75,keep
+5913b2bb,User prefers working late at night,99,14,1,1.3862943611198906,False,False,False,True,False,0.85,keep
+59b314f3,User likes concise answers,4,1,0,0.6931471805599453,False,False,False,True,False,0.85,keep
+5a0be95b,User wants to buy a house within five years,70,53,0,0.6931471805599453,False,False,True,False,False,0.7,keep
+5c49112e,User wants to learn Spanish,60,18,1,3.367295829986474,False,False,True,False,False,0.9,keep
+5c79c33b,User attended a college hackathon,114,1,1,0.6931471805599453,True,False,False,False,False,0.55,keep
+5cf583a9,User works part-time at a bakery,174,98,0,1.6094379124341003,False,True,False,False,False,0.25,delete
+5d92bc75,User went on a trip to Goa,26,14,1,3.1354942159291497,True,False,False,False,False,0.55,keep
+5e9aae1d,Call the dentist to reschedule appointment,115,29,0,2.772588722239781,False,False,False,False,True,0.15,delete
+609045bd,User is allergic to peanuts,34,16,0,0.6931471805599453,False,True,False,False,False,0.8,keep
+61e485e8,User wants to switch careers into AI,22,18,0,0.0,False,False,True,False,False,0.67,keep
+62ec4773,User lives in Solapur,37,22,-1,0.6931471805599453,False,True,False,False,False,0.25,delete
+634e952b,User's phone number ends in 4471,30,9,0,0.6931471805599453,False,True,False,False,False,0.8,keep
+6369d4f5,User is vegetarian,156,127,0,1.6094379124341003,False,True,False,False,False,0.25,delete
+65ec8866,Return the library books by Thursday,74,51,-1,0.0,False,False,False,False,True,0.15,delete
+678cc463,Call the dentist to reschedule appointment,56,48,-1,0.6931471805599453,False,False,False,False,True,0.75,keep
+6873f290,User owns a dog named Max,113,56,-1,0.6931471805599453,False,True,False,False,False,0.25,delete
+688909ce,Finish reading the assigned book by next week,16,15,0,0.0,False,False,False,False,True,0.75,keep
+68a345f9,User's birthday is in March,129,74,0,1.3862943611198906,False,True,False,False,False,0.8,keep
+68ea42ad,User went on a trip to Goa,170,72,0,0.0,True,False,False,False,False,0.15,delete
+695736b1,User celebrated their birthday recently,84,78,0,0.0,True,False,False,False,False,0.15,delete
+6a48e42a,User prefers Android over iOS,58,53,-1,0.0,False,False,False,True,False,0.3,delete
+6a8bb4f0,User is saving up to buy a house,180,70,1,3.1354942159291497,False,False,True,False,False,0.7,keep
+6ba34efd,User's mother tongue is Marathi,53,45,0,2.1972245773362196,False,True,False,False,False,0.8,keep
+6c348e5f,User visited the doctor last month,62,45,0,1.3862943611198906,True,False,False,False,False,0.15,delete
+6c566013,Send the report to manager by end of day,51,4,0,1.3862943611198906,False,False,False,False,True,0.75,keep
+6c66b726,User likes detailed explanations,76,63,1,0.6931471805599453,False,False,False,True,False,0.75,keep
+6e513d39,User dislikes spicy food,34,30,1,3.091042453358316,False,False,False,True,False,0.85,keep
+704f718a,User wants to buy a house within five years,34,18,1,0.6931471805599453,False,False,True,False,False,0.7,keep
+72839287,User lives in Solapur,136,55,1,0.6931471805599453,False,True,False,False,False,0.6,keep
+7396a4da,Return the library books by Thursday,72,23,0,3.295836866004329,False,False,False,False,True,0.15,delete
+74668785,User wants to publish a research paper,32,24,0,2.8903717578961645,False,False,True,False,False,0.61,keep
+74e1c63b,User likes concise answers,64,30,0,3.1780538303479458,False,False,False,True,False,0.85,keep
+7507b89e,User dislikes long meetings,27,4,1,0.0,False,False,False,True,False,0.85,keep
+759e44dd,User went on a trip to Goa,19,12,0,1.791759469228055,True,False,False,False,False,0.55,keep
+76969b6d,User's favorite color is blue,118,79,0,1.0986122886681098,False,True,False,False,False,0.6,keep
+771453fa,User wants to switch careers into AI,3,2,0,1.3862943611198906,False,False,True,False,False,0.7,keep
+796746fb,User wants to publish a research paper,54,44,0,0.6931471805599453,False,False,True,False,False,0.7,keep
+798fdf20,User prefers written instructions over videos,146,77,0,3.1780538303479458,False,False,False,True,False,0.85,keep
+79e264eb,Renew driving license this month,28,3,0,0.0,False,False,False,False,True,0.75,keep
+7abe326c,User prefers Android over iOS,31,30,-1,1.3862943611198906,False,False,False,True,False,0.25,delete
+7c16dd48,User's favorite color is blue,71,31,0,1.3862943611198906,False,True,False,False,False,0.6,keep
+7c2624fa,User's hometown is Pune,161,76,1,0.6931471805599453,False,True,False,False,False,0.8,keep
+7cade074,User wants to learn Spanish,30,0,0,0.0,False,False,True,False,False,0.7,keep
+7e999a50,User prefers email over calls,9,7,1,2.8903717578961645,False,False,False,True,False,0.1,delete
+7fd5789b,Pay electricity bill by Friday,68,56,-1,0.6931471805599453,False,False,False,False,True,0.15,delete
+8081e367,User lives in Solapur,100,71,-1,0.6931471805599453,False,True,False,False,False,0.25,delete
+80d983c0,User wants to switch careers into AI,142,135,0,2.995732273553991,False,False,True,False,False,0.7,keep
+811d9e34,User wants to lose 5 kg,165,70,0,2.9444389791664403,False,False,True,False,False,0.7,keep
+834525f0,User wants to learn Spanish,137,32,0,2.0794415416798357,False,False,True,False,False,0.7,keep
+8375e183,User prefers Android over iOS,179,98,0,0.6931471805599453,False,False,False,True,False,0.75,keep
+83a54f10,Renew driving license this month,108,25,0,3.295836866004329,False,False,False,False,True,0.15,delete
+84d13817,Return the library books by Thursday,112,105,0,2.833213344056216,False,False,False,False,True,0.15,delete
+85032c4d,Submit assignment by Monday,13,10,0,2.1972245773362196,False,False,False,False,True,0.75,keep
+868ca2db,User wants to buy a house within five years,77,21,1,0.0,False,False,True,False,False,0.74,keep
+89fd8b78,User visited the doctor last month,92,28,0,0.6931471805599453,True,False,False,False,False,0.15,delete
+8a0c8e15,User is left-handed,151,66,1,1.9459101490553132,False,True,False,False,False,0.8,keep
+8acc7930,User likes detailed explanations,157,11,0,0.6931471805599453,False,False,False,True,False,0.85,keep
+8b2a0977,User wants to buy a house within five years,97,82,0,1.6094379124341003,False,False,True,False,False,0.7,keep
+8ba72f92,User plans to run a marathon next year,34,23,1,0.6931471805599453,False,False,True,False,False,0.7,keep
+8e047a0c,User works part-time at a bakery,115,67,1,2.1972245773362196,False,True,False,False,False,0.68,keep
+8fa910df,User wants to publish a research paper,117,82,0,2.3978952727983707,False,False,True,False,False,0.7,keep
+9.91E+10,User likes detailed explanations,174,36,0,1.0986122886681098,False,False,False,True,False,0.85,keep
+91214ef1,Call the dentist to reschedule appointment,99,83,1,1.791759469228055,False,False,False,False,True,0.15,delete
+91f8971a,User likes concise answers,9,5,0,0.6931471805599453,False,False,False,True,False,0.85,keep
+92bdc783,User wants to run a marathon next year,98,35,0,2.70805020110221,False,False,True,False,False,0.7,keep
+932be6c1,User attended a college hackathon,125,19,1,0.6931471805599453,True,False,False,False,False,0.55,keep
+9347bf1f,Call the dentist to reschedule appointment,87,14,0,0.0,False,False,False,False,True,0.15,delete
+93ef16ba,Renew driving license this month,119,23,-1,0.6931471805599453,False,False,False,False,True,0.15,delete
+942d8275,User wants to learn Spanish,169,101,0,1.6094379124341003,False,False,True,False,False,0.65,keep
+94cfb07a,User prefers dark mode,82,12,-1,0.0,False,False,False,True,False,0.3,delete
+94ffcc0b,User celebrated their birthday recently,81,33,-1,1.3862943611198906,True,False,False,False,False,0.15,delete
+95ca1cb2,User owns a dog named Max,133,92,1,0.6931471805599453,False,True,False,False,False,0.48,delete
+966f7184,Renew driving license this month,172,165,0,0.6931471805599453,False,False,False,False,True,0.15,delete
+972670f4,User has two younger siblings,87,85,0,0.0,False,True,False,False,False,0.6,keep
+9742ae38,Finish reading the assigned book by next week,122,12,0,1.791759469228055,False,False,False,False,True,0.15,delete
+9749b760,User's hometown is Pune,135,93,0,1.0986122886681098,False,True,False,False,False,0.8,keep
+98385824,User has a cat named Whiskers,41,27,0,0.0,False,True,False,False,False,0.6,keep
+98e82175,Pay electricity bill by Friday,76,25,0,2.5649493574615367,False,False,False,False,True,0.15,delete
+98f3713c,User attended a wedding last weekend,115,47,0,1.791759469228055,True,False,False,False,False,0.15,delete
+99a93444,Renew driving license this month,114,11,1,0.6931471805599453,False,False,False,False,True,0.15,delete
+99b1d7b6,User visited the doctor last month,93,73,0,0.0,True,False,False,False,False,0.15,delete
+9ba19fb2,User is preparing for interviews,163,48,0,1.6094379124341003,False,False,True,False,False,0.7,keep
+9c313272,User celebrated their birthday recently,59,37,0,0.0,True,False,False,False,False,0.15,delete
+9c6c87f8,User dislikes long meetings,50,8,0,0.0,False,False,False,True,False,0.85,keep
+9d27a69b,Pay electricity bill by Friday,74,39,-1,1.6094379124341003,False,False,False,False,True,0.15,delete
+9dded6f0,Send the report to manager by end of day,26,25,0,1.0986122886681098,False,False,False,False,True,0.75,keep
+9e03ee07,User owns a dog named Max,30,14,0,3.295836866004329,False,True,False,False,False,0.6,keep
+9e0ec121,User is learning Spanish,53,33,1,0.6931471805599453,False,False,True,False,False,0.62,keep
+9e81b5f5,Renew driving license this month,109,23,0,0.6931471805599453,False,False,False,False,True,0.15,delete
+9ef5d898,Submit assignment by Monday,81,54,0,0.6931471805599453,False,False,False,False,True,0.15,delete
+9f4b979e,User has a cat named Whiskers,149,85,0,0.6931471805599453,False,True,False,False,False,0.6,keep
+9f98090c,User had a job interview last week,55,34,0,0.6931471805599453,True,False,False,False,False,0.15,delete
+9fb02dc5,User attended a college hackathon,88,1,0,0.0,True,False,False,False,False,0.55,keep
+a07a3cde,User has a cat named Whiskers,42,19,0,0.0,False,True,False,False,False,0.6,keep
+a1d3f2a6,User is preparing for interviews,39,33,0,2.0794415416798357,False,False,True,False,False,0.7,keep
+a2f00dff,Return the library books by Thursday,41,30,0,1.791759469228055,False,False,False,False,True,0.75,keep
+a30fde0c,User had a job interview last week,135,78,0,0.6931471805599453,True,False,False,False,False,0.15,delete
+a38ff727,User has a cat named Whiskers,137,101,0,2.995732273553991,False,True,False,False,False,0.22,delete
+a49bc5cf,User wants to publish a research paper,178,162,0,1.791759469228055,False,False,True,False,False,0.65,keep
+a5025a6c,User wants to run a marathon next year,101,89,-1,0.6931471805599453,False,False,True,False,False,0.2,delete
+a5198cc5,User is learning Spanish,60,55,0,0.6931471805599453,False,False,True,False,False,0.7,keep
+a64c9454,User has a cat named Whiskers,8,5,-1,1.791759469228055,False,True,False,False,False,0.25,delete
+a6a17521,User celebrated their birthday recently,44,20,0,1.6094379124341003,True,False,False,False,False,0.55,keep
+a6ff20c6,User wants to lose 5 kg,34,5,1,1.6094379124341003,False,False,True,False,False,0.9,keep
+a76edc0e,User wants to lose 5 kg,31,18,0,0.6931471805599453,False,False,True,False,False,0.67,keep
+aa1b816a,User prefers written instructions over videos,137,6,1,1.791759469228055,False,False,False,True,False,0.85,keep
+aa8902b0,User wants to publish a research paper,20,18,0,1.6094379124341003,False,False,True,False,False,0.7,keep
+aa8b4013,Return the library books by Thursday,167,81,0,3.367295829986474,False,False,False,False,True,0.15,delete
+aa8ba5ce,User is left-handed,122,33,0,0.0,False,True,False,False,False,0.8,keep
+ad9496f3,User dislikes spicy food,83,36,0,1.791759469228055,False,False,False,True,False,0.85,keep
+adcc8b2c,Pay electricity bill by Friday,33,4,0,1.3862943611198906,False,False,False,False,True,0.75,keep
+add9b05e,User plans to run a marathon next year,94,14,1,3.2188758248682006,False,False,True,False,False,0.7,keep
+ae500911,User's favorite color is blue,104,93,1,0.6931471805599453,False,True,False,False,False,0.48,delete
+aeffe543,User prefers Python over Java,138,83,0,1.791759469228055,False,False,False,True,False,0.85,keep
+b204529e,User wears glasses,118,68,-1,0.0,False,True,False,False,False,0.8,keep
+b3693684,User's birthday is in March,179,170,0,1.0986122886681098,False,True,False,False,False,0.8,keep
+b388b083,User plans to run a marathon next year,94,5,1,1.791759469228055,False,False,True,False,False,0.9,keep
+b3d744d5,User wants to lose 5 kg,160,62,0,1.791759469228055,False,False,True,False,False,0.7,keep
+b614d940,User works part-time at a bakery,139,134,0,0.6931471805599453,False,True,False,False,False,0.22,delete
+b7ee9c6b,User is vegetarian,35,16,1,1.0986122886681098,False,True,False,False,False,0.6,keep
+b7f4506d,User has two younger siblings,80,43,1,1.3862943611198906,False,True,False,False,False,0.75,keep
+b82e3176,User's hometown is Pune,24,23,0,1.791759469228055,False,True,False,False,False,0.8,keep
+b85b53ee,User wants to buy a house within five years,152,27,0,0.6931471805599453,False,False,True,False,False,0.58,keep
+bb0e01cb,User likes minimalist design,116,113,0,0.6931471805599453,False,False,False,True,False,0.75,keep
+bb18b08d,User wants to switch careers into AI,133,115,0,0.6931471805599453,False,False,True,False,False,0.3,delete
+bb1d70c5,Renew driving license this month,123,9,0,0.0,False,False,False,False,True,0.15,delete
+bc4eead8,User is left-handed,153,129,0,1.791759469228055,False,True,False,False,False,0.8,keep
+bc783fae,User prefers tea over coffee,82,21,0,1.0986122886681098,False,False,False,True,False,0.85,keep
+bcf62861,Pay electricity bill by Friday,180,159,1,0.6931471805599453,False,False,False,False,True,0.15,delete
+bd7a66ad,User is saving up to buy a house,25,16,0,0.6931471805599453,False,False,True,False,False,0.69,keep
+be42fd9d,User's phone number ends in 4471,157,155,0,1.0986122886681098,False,True,False,False,False,0.8,keep
+be6c0ef2,Finish reading the assigned book by next week,24,12,0,1.0986122886681098,False,False,False,False,True,0.75,keep
+bf0746c9,User wants to learn guitar,105,14,0,2.0794415416798357,False,False,True,False,False,0.7,keep
+bf22b533,User wants to run a marathon next year,165,130,0,3.332204510175204,False,False,True,False,False,0.65,keep
+c21a5b7f,User wants to buy a house within five years,102,69,0,0.0,False,False,True,False,False,0.65,keep
+c427b43d,User prefers Android over iOS,113,5,-1,1.791759469228055,False,False,False,True,False,0.3,delete
+c5128e41,User wants to publish a research paper,87,70,0,3.2188758248682006,False,False,True,False,False,0.7,keep
+c5a797a6,User is allergic to peanuts,91,58,-1,1.3862943611198906,False,True,False,False,False,0.8,keep
+c6ad68d5,Renew driving license this month,157,22,0,0.6931471805599453,False,False,False,False,True,0.15,delete
+c6f0b441,User is allergic to peanuts,95,38,0,1.3862943611198906,False,True,False,False,False,0.8,keep
+c751089e,User visited the doctor last month,39,21,0,1.0986122886681098,True,False,False,False,False,0.15,delete
+c893bf7c,User prefers Python over Java,1,1,0,1.0986122886681098,False,False,False,True,False,0.85,keep
+c8be69cd,User has a cat named Whiskers,61,13,0,1.6094379124341003,False,True,False,False,False,0.6,keep
+ccc10870,User is allergic to peanuts,82,16,0,0.6931471805599453,False,True,False,False,False,0.8,keep
+cceae8a7,User celebrated their birthday recently,153,81,0,3.258096538021482,True,False,False,False,False,0.15,delete
+cd87c9db,Book flight tickets before price increase,122,38,0,2.9444389791664403,False,False,False,False,True,0.15,delete
+ce185c87,Renew driving license this month,125,81,-1,0.0,False,False,False,False,True,0.15,delete
+ce76b78c,User attended a college hackathon,45,40,0,0.6931471805599453,True,False,False,False,False,0.15,delete
+ceb82452,User visited the doctor last month,84,49,0,0.6931471805599453,True,False,False,False,False,0.15,delete
+cf79d101,Return the library books by Thursday,28,7,-1,0.6931471805599453,False,False,False,False,True,0.75,keep
+cf81d268,User wants to publish a research paper,164,83,0,1.6094379124341003,False,False,True,False,False,0.7,keep
+cfe95ba6,Send the report to manager by end of day,105,105,0,2.3978952727983707,False,False,False,False,True,0.15,delete
+d04774b4,User visited the doctor last month,140,96,0,2.833213344056216,True,False,False,False,False,0.15,delete
+d04be088,User likes minimalist design,144,129,0,1.791759469228055,False,False,False,True,False,0.85,keep
+d09d0273,User wants to get better at DSA,14,4,0,2.302585092994046,False,False,True,False,False,0.81,keep
+d0b643f6,User wants to publish a research paper,166,15,0,1.0986122886681098,False,False,True,False,False,0.7,keep
+d1eed8a9,User wants to publish a research paper,102,10,-1,0.6931471805599453,False,False,True,False,False,0.7,keep
+d35608b5,User attended a college hackathon,126,110,0,1.3862943611198906,True,False,False,False,False,0.15,delete
+d5394707,User's mother tongue is Marathi,140,99,0,2.8903717578961645,False,True,False,False,False,0.8,keep
+d55e422c,Book flight tickets before price increase,142,15,0,0.6931471805599453,False,False,False,False,True,0.15,delete
+d580275c,User attended a wedding last weekend,176,83,0,2.6390573296152584,True,False,False,False,False,0.15,delete
+d5c0d168,User's phone number ends in 4471,20,10,0,0.6931471805599453,False,True,False,False,False,0.8,keep
+d65c2c66,User is saving up to buy a house,98,81,0,1.6094379124341003,False,False,True,False,False,0.7,keep
+d7122c58,User attended a wedding last weekend,123,26,1,2.772588722239781,True,False,False,False,False,0.15,delete
+d7c6a5b4,User is allergic to peanuts,53,12,0,1.791759469228055,False,True,False,False,False,0.8,keep
+d879956b,User visited the doctor last month,49,21,0,1.3862943611198906,True,False,False,False,False,0.15,delete
+d9e3c3ab,User is learning Spanish,176,94,1,0.6931471805599453,False,False,True,False,False,0.7,keep
+da63b75b,Return the library books by Thursday,16,4,0,0.6931471805599453,False,False,False,False,True,0.75,keep
+da88ba1e,User prefers Python over Java,61,37,0,1.6094379124341003,False,False,False,True,False,0.85,keep
+dc2ef221,User prefers dark mode,122,117,0,0.0,False,False,False,True,False,0.85,keep
+dc73f311,User dislikes long meetings,133,11,0,2.1972245773362196,False,False,False,True,False,0.85,keep
+de63c648,User has a cat named Whiskers,102,64,0,1.6094379124341003,False,True,False,False,False,0.42,delete
+ded5a1f1,User's hometown is Pune,105,86,-1,1.791759469228055,False,True,False,False,False,0.8,keep
+df524148,User likes minimalist design,168,121,0,0.0,False,False,False,True,False,0.85,keep
+e03ea1d8,User's phone number ends in 4471,111,22,-1,1.3862943611198906,False,True,False,False,False,0.8,keep
+e08e2ceb,User has two younger siblings,68,58,0,1.6094379124341003,False,True,False,False,False,0.55,keep
+e09b7dfa,User is learning Spanish,112,108,0,0.6931471805599453,False,False,True,False,False,0.3,delete
+e11aafd4,User's birthday is in March,4,2,1,0.6931471805599453,False,True,False,False,False,0.8,keep
+e1b2177f,User likes minimalist design,149,82,-1,0.6931471805599453,False,False,False,True,False,0.3,delete
+e1c65e63,Call the dentist to reschedule appointment,138,2,-1,0.0,False,False,False,False,True,0.15,delete
+e1c93e8e,User likes detailed explanations,119,89,1,0.0,False,False,False,True,False,0.75,keep
+e2aa6f90,Renew driving license this month,121,57,-1,0.0,False,False,False,False,True,0.15,delete
+e2b5a417,Call the dentist to reschedule appointment,151,109,0,1.6094379124341003,False,False,False,False,True,0.15,delete
+e3a2e7ca,User is learning Spanish,104,2,0,2.4849066497880004,False,False,True,False,False,0.7,keep
+e3ef7491,User's favorite color is blue,136,70,0,1.6094379124341003,False,True,False,False,False,0.6,keep
+e4afa586,User has two younger siblings,92,61,0,2.8903717578961645,False,True,False,False,False,0.6,keep
+e4fe3c4d,User watched a movie yesterday,144,50,-1,0.6931471805599453,True,False,False,False,False,0.15,delete
+e5255f26,User dislikes spicy food,94,67,0,0.6931471805599453,False,False,False,True,False,0.85,keep
+e5547230,User had a job interview last week,151,39,0,0.0,True,False,False,False,False,0.15,delete
+e5db89ea,User dislikes spicy food,16,10,0,0.6931471805599453,False,False,False,True,False,0.85,keep
+e61acf90,User is preparing for interviews,85,82,1,3.044522437723423,False,False,True,False,False,0.65,keep
+e77c2bbb,User attended a wedding last weekend,168,89,0,2.4849066497880004,True,False,False,False,False,0.15,delete
+e7a825aa,User prefers Android over iOS,19,2,0,0.6931471805599453,False,False,False,True,False,0.85,keep
+e7cb5a97,User prefers tea over coffee,125,24,-1,0.0,False,False,False,True,False,0.25,delete
+e7e2f0d6,User attended a college hackathon,8,7,0,3.295836866004329,True,False,False,False,False,0.55,keep
+e7f7060d,User is saving up to buy a house,112,35,0,1.0986122886681098,False,False,True,False,False,0.7,keep
+e99eb5ee,User owns a dog named Max,78,27,0,0.6931471805599453,False,True,False,False,False,0.6,keep
+e9e8c145,User wants to lose 5 kg,84,72,0,0.0,False,False,True,False,False,0.7,keep
+ea3782fa,User is learning Spanish,135,129,1,2.9444389791664403,False,False,True,False,False,0.65,keep
+ea92a15b,User wears glasses,180,90,0,3.2188758248682006,False,True,False,False,False,0.8,keep
+eae70124,Call the dentist to reschedule appointment,17,6,0,1.6094379124341003,False,False,False,False,True,0.75,keep
+eaffe94f,User prefers tea over coffee,174,146,0,1.791759469228055,False,False,False,True,False,0.75,keep
+ec19dc3a,User prefers email over calls,161,150,-1,0.0,False,False,False,True,False,0.25,delete
+ec370579,User wants to buy a house within five years,11,11,0,0.6931471805599453,False,False,True,False,False,0.7,keep
+ec3be12c,User visited the doctor last month,171,55,0,1.3862943611198906,True,False,False,False,False,0.15,delete
+ec91d887,User had a job interview last week,102,63,1,1.0986122886681098,True,False,False,False,False,0.15,delete
+ed9f7e7a,User is learning Spanish,138,47,-1,1.3862943611198906,False,False,True,False,False,0.7,keep
+eea328fe,User prefers Android over iOS,100,40,0,0.0,False,False,False,True,False,0.85,keep
+ef4d30b2,User wants to publish a research paper,108,51,0,0.0,False,False,True,False,False,0.34,delete
+f0d52155,User dislikes spicy food,74,21,0,1.791759469228055,False,False,False,True,False,0.85,keep
+f1028f66,User prefers working late at night,151,141,0,0.0,False,False,False,True,False,0.3,delete
+f21f16b2,Send the report to manager by end of day,48,43,-1,1.791759469228055,False,False,False,False,True,0.75,keep
+f22ee63b,User plans to run a marathon next year,37,25,0,2.9444389791664403,False,False,True,False,False,0.7,keep
+f23d667f,User wears glasses,1,0,0,1.791759469228055,False,True,False,False,False,0.8,keep
+f28d5a20,User wants to run a marathon next year,23,17,-1,0.6931471805599453,False,False,True,False,False,0.7,keep
+f29c326d,User wants to get better at DSA,95,45,0,0.6931471805599453,False,False,True,False,False,0.4,delete
+f30c98f7,User prefers email over calls,176,20,0,0.6931471805599453,False,False,False,True,False,0.85,keep
+f3f7e204,User prefers tea over coffee,116,79,0,2.8903717578961645,False,False,False,True,False,0.85,keep
+f485ebf6,User's phone number ends in 4471,84,23,-1,0.6931471805599453,False,True,False,False,False,0.8,keep
+f48c71ff,User dislikes spicy food,156,135,-1,1.791759469228055,False,False,False,True,False,0.25,delete
+f50c04b9,User had a job interview last week,13,8,0,0.6931471805599453,True,False,False,False,False,0.55,keep
+f5ef7da0,User wants to run a marathon next year,111,18,0,0.6931471805599453,False,False,True,False,False,0.7,keep
+f71ff65d,User visited the doctor last month,174,40,0,2.3978952727983707,True,False,False,False,False,0.15,delete
+f73a764b,User had a job interview last week,35,33,0,0.0,True,False,False,False,False,0.15,delete
+f757b845,User celebrated their birthday recently,22,21,0,0.0,True,False,False,False,False,0.15,delete
+f7756272,User dislikes long meetings,138,69,0,0.0,False,False,False,True,False,0.85,keep
+f843792d,User had a job interview last week,81,22,0,0.6931471805599453,True,False,False,False,False,0.15,delete
+f8ed8d58,Renew driving license this month,75,4,1,1.0986122886681098,False,False,False,False,True,0.15,delete
+f977e22c,Pay electricity bill by Friday,102,64,1,0.6931471805599453,False,False,False,False,True,0.15,delete
+f9ad6168,Submit assignment by Monday,138,91,-1,0.6931471805599453,False,False,False,False,True,0.15,delete
+fba5f957,Book flight tickets before price increase,37,6,0,2.772588722239781,False,False,False,False,True,0.75,keep
+fbebc46a,User's birthday is in March,161,126,0,1.791759469228055,False,True,False,False,False,0.8,keep
+fd4ec8e2,User prefers email over calls,86,40,0,0.0,False,False,False,True,False,0.85,keep
+ff403fe9,User wants to publish a research paper,72,62,0,0.0,False,False,True,False,False,0.65,keep

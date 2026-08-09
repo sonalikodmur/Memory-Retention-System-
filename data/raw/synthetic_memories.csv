@@ -1,0 +1,521 @@
+memory_id,text,type,created_at,last_accessed_at,access_count,feedback
+74441738,User's favorite color is blue,fact,2026-05-19,2026-06-28,3,none
+85062df8,User watched a movie yesterday,event,2026-02-27,2026-04-12,0,negative
+207d997a,User watched a movie yesterday,event,2026-03-07,2026-06-09,1,negative
+f6c706ee,User has a cat named Whiskers,fact,2026-06-18,2026-07-02,0,none
+d1241c54,User is learning Spanish,goal,2026-07-05,2026-07-17,17,none
+d6fe3500,User wears glasses,fact,2026-04-02,2026-05-22,0,negative
+f498b08d,User visited the doctor last month,event,2026-04-27,2026-05-17,0,none
+ffffade6,User is learning Spanish,goal,2026-05-30,2026-06-04,1,none
+851f87f5,User wants to get better at DSA,goal,2026-04-25,2026-06-14,1,none
+94775d0c,User is left-handed,fact,2026-02-16,2026-06-16,1,negative
+2557006e,User attended a wedding last weekend,event,2026-02-03,2026-05-07,13,none
+2a906c43,Call the dentist to reschedule appointment,task,2026-07-12,2026-07-23,4,none
+d11c0f89,Renew driving license this month,task,2026-05-22,2026-07-12,3,negative
+10b3ed6a,User had a job interview last week,event,2026-03-01,2026-04-18,13,positive
+0e233997,Submit assignment by Monday,task,2026-07-16,2026-07-16,2,none
+e740ab68,Submit assignment by Monday,task,2026-04-21,2026-06-11,1,none
+5ef6cf79,User's mother tongue is Marathi,fact,2026-06-29,2026-07-08,4,positive
+e824b9b4,Renew driving license this month,task,2026-04-03,2026-07-29,4,none
+134b3842,User's hometown is Pune,fact,2026-02-18,2026-05-14,1,positive
+e2898f31,User watched a movie yesterday,event,2026-02-25,2026-05-08,0,none
+e92b0b43,User is preparing for interviews,goal,2026-07-14,2026-07-22,2,none
+edd13e8e,User visited the doctor last month,event,2026-06-26,2026-07-21,0,none
+3e7e47d9,User had a job interview last week,event,2026-06-04,2026-06-25,1,none
+9c4518fc,User wants to switch careers into AI,goal,2026-03-18,2026-04-05,1,none
+07c0bb92,User celebrated their birthday recently,event,2026-05-31,2026-06-22,0,none
+80781740,User likes concise answers,preference,2026-07-20,2026-07-24,1,none
+9553cd9c,User dislikes spicy food,preference,2026-06-25,2026-06-29,21,positive
+3c5dba34,User's mother tongue is Marathi,fact,2026-04-09,2026-06-14,1,none
+775fc81d,User's favorite color is blue,fact,2026-04-16,2026-04-27,1,positive
+6beb4284,Renew driving license this month,task,2026-04-11,2026-07-06,1,none
+794c33a4,Submit assignment by Monday,task,2026-07-16,2026-07-19,8,none
+e5fcb83c,User likes minimalist design,preference,2026-03-26,2026-05-29,18,positive
+06c38380,User has two younger siblings,fact,2026-05-22,2026-06-01,4,none
+53e9e885,User attended a college hackathon,event,2026-03-26,2026-07-10,1,positive
+f723b73c,User watched a movie yesterday,event,2026-05-09,2026-07-22,1,none
+769f5306,User attended a wedding last weekend,event,2026-07-14,2026-07-27,3,none
+25cf1bf2,User likes minimalist design,preference,2026-06-28,2026-07-14,0,none
+4edcafee,User celebrated their birthday recently,event,2026-05-09,2026-06-26,3,negative
+1e2ff62b,Renew driving license this month,task,2026-02-07,2026-02-14,1,none
+894a5e42,User's favorite color is blue,fact,2026-04-02,2026-05-11,2,none
+d55d38f0,User prefers tea over coffee,preference,2026-07-11,2026-07-22,0,none
+1a981dab,User is saving up to buy a house,goal,2026-02-11,2026-03-16,27,negative
+f3e9476f,User is vegetarian,fact,2026-06-24,2026-07-13,2,positive
+a0726afb,User is saving up to buy a house,goal,2026-06-05,2026-06-14,4,none
+5536edda,User had a job interview last week,event,2026-05-25,2026-07-23,1,negative
+25a65fb4,User is allergic to peanuts,fact,2026-06-25,2026-07-13,1,none
+fbb170ca,User watched a movie yesterday,event,2026-06-30,2026-07-27,0,none
+0168af5f,User attended a wedding last weekend,event,2026-04-09,2026-07-13,1,none
+1dcbfea2,User is vegetarian,fact,2026-04-28,2026-07-03,0,none
+753c40a6,Renew driving license this month,task,2026-05-29,2026-06-04,11,positive
+52531fd2,User plans to run a marathon next year,goal,2026-02-07,2026-05-27,4,positive
+e6bb5c8f,User's hometown is Pune,fact,2026-03-30,2026-07-01,1,none
+f39963a4,User dislikes long meetings,preference,2026-07-22,2026-07-26,1,positive
+b4c9ac38,User wants to run a marathon next year,goal,2026-02-14,2026-03-21,27,none
+1b89fefa,User lives in Solapur,fact,2026-05-23,2026-07-07,0,none
+2c9f7b24,User plans to run a marathon next year,goal,2026-02-23,2026-03-21,18,positive
+b4437b64,User wears glasses,fact,2026-04-08,2026-07-29,1,none
+9d71c67e,User is saving up to buy a house,goal,2026-05-09,2026-07-14,1,none
+51a8b76a,Call the dentist to reschedule appointment,task,2026-03-09,2026-06-27,3,none
+4b2f1ed6,User prefers written instructions over videos,preference,2026-03-05,2026-05-13,23,none
+9ba34759,User likes minimalist design,preference,2026-03-02,2026-05-08,1,negative
+6cd65eba,Renew driving license this month,task,2026-02-10,2026-07-08,4,none
+7f48dd01,User's hometown is Pune,fact,2026-05-29,2026-06-16,13,positive
+da87cbc1,User owns a dog named Max,fact,2026-03-29,2026-05-12,1,none
+c172ab31,User prefers Android over iOS,preference,2026-01-31,2026-04-22,1,none
+c94a0da5,User is vegetarian,fact,2026-07-01,2026-07-05,0,none
+65bb7788,User had a job interview last week,event,2026-07-16,2026-07-21,1,none
+de3530f1,User celebrated their birthday recently,event,2026-02-26,2026-05-09,25,none
+c15186ca,Return the library books by Thursday,task,2026-06-18,2026-06-29,5,none
+9eec160c,User wants to buy a house within five years,goal,2026-03-26,2026-05-10,1,none
+4f22c817,User prefers email over calls,preference,2026-05-04,2026-06-19,0,none
+f34f3728,User prefers Android over iOS,preference,2026-06-04,2026-07-25,1,none
+fa3cee6b,User owns a dog named Max,fact,2026-04-12,2026-06-10,2,none
+5ca25aa9,User wants to publish a research paper,goal,2026-04-20,2026-06-06,1,none
+e6cd2159,User has two younger siblings,fact,2026-05-03,2026-05-05,0,none
+cd9a009c,User prefers written instructions over videos,preference,2026-03-14,2026-07-23,5,positive
+4ad48cd3,Renew driving license this month,task,2026-04-01,2026-07-06,1,negative
+32065f8c,User wants to run a marathon next year,goal,2026-04-22,2026-06-24,14,none
+d2cf072e,User watched a movie yesterday,event,2026-04-30,2026-07-01,30,positive
+9caa752a,User owns a dog named Max,fact,2026-06-07,2026-07-28,0,none
+a0fab2f9,User attended a wedding last weekend,event,2026-03-31,2026-05-01,1,none
+05ab9288,User has a cat named Whiskers,fact,2026-06-17,2026-07-10,0,none
+ad940e10,Send the report to manager by end of day,task,2026-06-08,2026-07-25,3,none
+e2135277,User visited the doctor last month,event,2026-06-28,2026-07-27,1,none
+20baea7e,User attended a college hackathon,event,2026-05-02,2026-07-28,0,none
+6f0682af,Renew driving license this month,task,2026-04-08,2026-07-07,25,none
+0c0861a9,Return the library books by Thursday,task,2026-04-08,2026-04-15,16,none
+487ca89a,User studied at NK Orchid College,fact,2026-04-04,2026-06-28,5,none
+dbd29eca,User's phone number ends in 4471,fact,2026-05-06,2026-07-06,1,negative
+2cb82176,User is saving up to buy a house,goal,2026-01-30,2026-05-20,22,positive
+8533f1b7,Return the library books by Thursday,task,2026-03-08,2026-05-29,5,none
+137fcac5,User lives in Solapur,fact,2026-05-14,2026-07-01,1,none
+8186e4d1,User wants to switch careers into AI,goal,2026-03-09,2026-03-16,19,none
+9e975a6c,User wants to lose 5 kg,goal,2026-04-03,2026-06-25,1,none
+b8d70dc6,User is learning Spanish,goal,2026-03-13,2026-06-12,3,negative
+dbdce38b,User visited the doctor last month,event,2026-03-16,2026-05-18,1,none
+26c82340,User wants to learn Spanish,goal,2026-03-14,2026-06-27,7,none
+2de4adcf,User likes detailed explanations,preference,2026-03-25,2026-07-16,1,none
+cd8a521c,User wants to get better at DSA,goal,2026-07-15,2026-07-25,9,none
+baee182a,User is left-handed,fact,2026-02-17,2026-07-16,10,none
+558b36c0,User owns a dog named Max,fact,2026-06-28,2026-07-03,3,none
+67fd2313,Call the dentist to reschedule appointment,task,2026-02-28,2026-04-11,4,none
+5914319b,User has a cat named Whiskers,fact,2026-06-05,2026-06-19,3,positive
+c60267ef,User dislikes spicy food,preference,2026-07-09,2026-07-24,1,none
+ad473beb,User wants to learn Spanish,goal,2026-05-30,2026-07-11,28,positive
+6ab6a3ef,User prefers email over calls,preference,2026-02-18,2026-03-01,0,negative
+c6f1de99,User prefers email over calls,preference,2026-06-22,2026-07-25,2,none
+a9498b88,User went on a trip to Goa,event,2026-04-07,2026-07-14,1,none
+2f3e4751,User wants to buy a house within five years,goal,2026-03-12,2026-03-25,5,none
+df7feb93,User is saving up to buy a house,goal,2026-05-25,2026-07-26,13,none
+26d7b0f2,User celebrated their birthday recently,event,2026-07-23,2026-07-23,0,none
+a8033af9,Return the library books by Thursday,task,2026-05-18,2026-07-06,26,none
+4d96e6ae,Finish reading the assigned book by next week,task,2026-04-15,2026-06-17,0,positive
+d2d26016,Return the library books by Thursday,task,2026-05-16,2026-06-08,0,negative
+4cb754f6,User has a cat named Whiskers,fact,2026-04-16,2026-05-25,27,none
+21653e5c,User owns a dog named Max,fact,2026-03-18,2026-04-28,1,positive
+84a05005,User wants to buy a house within five years,goal,2026-06-25,2026-07-11,1,positive
+daabdefc,User visited the doctor last month,event,2026-05-28,2026-06-14,3,none
+1cbaec40,User owns a dog named Max,fact,2026-06-29,2026-07-15,26,none
+494724c9,User wants to buy a house within five years,goal,2026-05-20,2026-06-06,1,none
+2b8fc455,Book flight tickets before price increase,task,2026-02-25,2026-03-21,1,none
+ec6f1a0f,Finish reading the assigned book by next week,task,2026-03-21,2026-05-22,2,none
+0656aae5,User attended a college hackathon,event,2026-03-25,2026-04-10,3,none
+a936d261,User visited the doctor last month,event,2026-03-11,2026-04-24,16,none
+575d6e1a,User prefers written instructions over videos,preference,2026-04-21,2026-06-30,1,none
+109814e5,Send the report to manager by end of day,task,2026-02-09,2026-02-13,21,positive
+74103baf,User went on a trip to Goa,event,2026-07-03,2026-07-15,22,positive
+d7206669,User likes minimalist design,preference,2026-02-11,2026-06-20,2,negative
+ff8938d4,User attended a college hackathon,event,2026-04-18,2026-05-07,16,none
+e75f4509,Finish reading the assigned book by next week,task,2026-02-18,2026-03-27,0,none
+cbed258e,User is preparing for interviews,goal,2026-07-05,2026-07-16,2,none
+99bf8650,Renew driving license this month,task,2026-02-01,2026-05-14,1,positive
+a4e73793,User wants to run a marathon next year,goal,2026-04-09,2026-07-11,1,none
+fd1b94f9,User prefers Python over Java,preference,2026-06-14,2026-07-24,5,none
+91c9c883,User attended a wedding last weekend,event,2026-05-30,2026-06-30,1,positive
+1ca50c27,Call the dentist to reschedule appointment,task,2026-02-05,2026-03-12,1,none
+7542606e,User went on a trip to Goa,event,2026-02-15,2026-04-12,20,positive
+49090a42,Return the library books by Thursday,task,2026-07-01,2026-07-22,1,negative
+968809ef,User wants to learn Spanish,goal,2026-02-10,2026-04-19,4,none
+eedeb906,User is vegetarian,fact,2026-02-23,2026-03-24,4,none
+37d59e54,User is preparing for interviews,goal,2026-02-16,2026-06-11,4,none
+824a5aa7,User likes detailed explanations,preference,2026-07-04,2026-07-09,2,positive
+8dfc4d1d,User wants to lose 5 kg,goal,2026-06-25,2026-07-24,4,positive
+dc600190,User dislikes spicy food,preference,2026-04-26,2026-05-23,1,none
+3f3c0931,Call the dentist to reschedule appointment,task,2026-05-03,2026-07-15,0,none
+e49f58cf,Finish reading the assigned book by next week,task,2026-07-05,2026-07-17,2,none
+2fd7909a,User is saving up to buy a house,goal,2026-04-22,2026-05-09,4,none
+f3a6fdc5,User celebrated their birthday recently,event,2026-05-06,2026-05-12,0,none
+441ed5e5,User wants to learn guitar,goal,2026-04-15,2026-07-15,7,none
+3a6eb712,Submit assignment by Monday,task,2026-07-04,2026-07-22,1,none
+bc32b00e,User had a job interview last week,event,2026-02-28,2026-06-20,0,none
+b616a210,Call the dentist to reschedule appointment,task,2026-07-20,2026-07-24,1,negative
+b6999ced,User is learning Spanish,goal,2026-02-03,2026-04-26,1,positive
+cecc5d8c,User's hometown is Pune,fact,2026-04-03,2026-07-18,3,none
+4aec89dd,User has a cat named Whiskers,fact,2026-05-04,2026-06-28,1,none
+3688c6bc,User attended a wedding last weekend,event,2026-02-28,2026-06-04,3,none
+3deb0d2a,User watched a movie yesterday,event,2026-05-19,2026-07-11,1,positive
+8b6fdd80,User's birthday is in March,fact,2026-07-25,2026-07-27,1,positive
+49ff874c,User's birthday is in March,fact,2026-04-12,2026-05-23,0,none
+37b7e7bc,User wants to buy a house within five years,goal,2026-02-27,2026-07-02,1,none
+43887b5e,User went on a trip to Goa,event,2026-04-02,2026-05-08,7,none
+f8dd0590,Submit assignment by Monday,task,2026-03-25,2026-04-29,8,none
+bf384f3e,User likes concise answers,preference,2026-06-26,2026-07-12,18,none
+5a09c443,Send the report to manager by end of day,task,2026-07-03,2026-07-04,2,none
+d2c12f8d,User likes minimalist design,preference,2026-04-04,2026-04-07,1,none
+0f5bc53a,Submit assignment by Monday,task,2026-05-09,2026-06-05,1,none
+200269f7,Submit assignment by Monday,task,2026-07-05,2026-07-27,0,none
+0e4327e0,User dislikes spicy food,preference,2026-07-13,2026-07-19,1,none
+f4ebd814,Pay electricity bill by Friday,task,2026-05-16,2026-06-20,4,negative
+1fc945df,Book flight tickets before price increase,task,2026-07-01,2026-07-18,4,none
+896e09e8,Pay electricity bill by Friday,task,2026-02-23,2026-05-22,1,none
+becf1360,User wants to run a marathon next year,goal,2026-07-27,2026-07-29,3,positive
+52cb6248,User lives in Solapur,fact,2026-03-15,2026-06-04,1,positive
+d6dc0116,User wants to lose 5 kg,goal,2026-05-06,2026-05-18,0,none
+57883d79,User's mother tongue is Marathi,fact,2026-07-08,2026-07-21,1,none
+dda2a526,Call the dentist to reschedule appointment,task,2026-06-03,2026-06-11,1,negative
+f24bf7f4,User had a job interview last week,event,2026-03-16,2026-05-12,1,none
+10a796ed,User owns a dog named Max,fact,2026-05-12,2026-07-02,1,none
+4c0e9058,User's phone number ends in 4471,fact,2026-04-09,2026-07-07,3,negative
+e07ac285,User visited the doctor last month,event,2026-02-07,2026-04-30,18,positive
+0418cab1,User's phone number ends in 4471,fact,2026-07-09,2026-07-19,1,none
+60f5a377,User is learning Spanish,goal,2026-04-16,2026-07-27,11,none
+7b90ec32,User is learning Spanish,goal,2026-04-08,2026-04-12,1,none
+2b1be86f,User has two younger siblings,fact,2026-05-10,2026-06-16,3,positive
+a6bbc790,User works part-time at a bakery,fact,2026-03-20,2026-06-10,4,none
+770e2e2f,User dislikes long meetings,preference,2026-07-02,2026-07-25,0,positive
+ba30d7a9,User's birthday is in March,fact,2026-02-18,2026-03-25,5,none
+6580d06b,User attended a college hackathon,event,2026-02-16,2026-02-20,1,none
+667e0ad5,Return the library books by Thursday,task,2026-02-17,2026-05-13,0,none
+bce5414a,User wants to switch careers into AI,goal,2026-04-04,2026-07-25,17,positive
+384e3adc,User is left-handed,fact,2026-02-26,2026-03-22,5,none
+b78e39cc,User's phone number ends in 4471,fact,2026-03-04,2026-06-11,1,positive
+6b329388,User's phone number ends in 4471,fact,2026-07-02,2026-07-04,0,none
+3343be27,User owns a dog named Max,fact,2026-04-07,2026-06-03,1,negative
+2a49fdb8,Finish reading the assigned book by next week,task,2026-02-05,2026-02-26,2,positive
+f0766a08,User works part-time at a bakery,fact,2026-02-05,2026-04-22,4,none
+add0b066,User visited the doctor last month,event,2026-06-20,2026-07-08,2,none
+994f484e,User wants to learn guitar,goal,2026-01-31,2026-02-10,5,none
+9e3f5781,User wants to buy a house within five years,goal,2026-04-23,2026-05-08,4,none
+b92969dc,User watched a movie yesterday,event,2026-02-13,2026-04-12,1,positive
+8f7a0357,User prefers tea over coffee,preference,2026-03-26,2026-07-05,0,negative
+85862e0e,User works part-time at a bakery,fact,2026-03-12,2026-03-17,1,none
+7e5f2223,User prefers written instructions over videos,preference,2026-04-23,2026-07-10,11,none
+41aac133,User prefers Android over iOS,preference,2026-04-07,2026-07-24,5,negative
+af23e589,Call the dentist to reschedule appointment,task,2026-04-05,2026-06-30,15,none
+2adc8101,User prefers tea over coffee,preference,2026-02-05,2026-03-05,5,none
+0e6767c4,User celebrated their birthday recently,event,2026-04-12,2026-07-09,0,negative
+bd7c7919,Finish reading the assigned book by next week,task,2026-03-09,2026-07-03,0,positive
+de1277ab,Renew driving license this month,task,2026-04-08,2026-07-18,20,none
+87e45bb8,Pay electricity bill by Friday,task,2026-04-18,2026-05-26,1,positive
+2de43fdc,User prefers dark mode,preference,2026-05-08,2026-07-17,0,negative
+da2d5b5a,Renew driving license this month,task,2026-03-30,2026-06-02,0,negative
+88a1cdfb,User dislikes spicy food,preference,2026-02-23,2026-03-16,5,negative
+49ba86b0,User's favorite color is blue,fact,2026-05-28,2026-07-03,0,none
+8927115b,User celebrated their birthday recently,event,2026-07-24,2026-07-24,0,none
+7340520d,User went on a trip to Goa,event,2026-05-28,2026-06-23,5,positive
+72582d23,User is learning Spanish,goal,2026-03-16,2026-03-22,18,positive
+3068196e,Finish reading the assigned book by next week,task,2026-05-25,2026-07-27,1,none
+0353a51c,User has a cat named Whiskers,fact,2026-03-02,2026-05-05,1,none
+ce15b319,User likes detailed explanations,preference,2026-04-01,2026-05-01,0,positive
+b1afb9c0,Pay electricity bill by Friday,task,2026-05-14,2026-07-04,12,none
+0ab570d0,User wants to buy a house within five years,goal,2026-04-18,2026-05-21,0,none
+5814507a,User wants to run a marathon next year,goal,2026-07-16,2026-07-16,0,none
+2bfd52f3,Return the library books by Thursday,task,2026-04-21,2026-06-16,3,none
+c6624a8d,User went on a trip to Goa,event,2026-07-07,2026-07-16,2,none
+c055509a,User went on a trip to Goa,event,2026-05-07,2026-07-16,2,none
+c656db4c,User attended a college hackathon,event,2026-04-10,2026-07-08,1,none
+0de2cd34,User is saving up to buy a house,goal,2026-04-08,2026-06-24,2,none
+c36db2e0,User visited the doctor last month,event,2026-02-05,2026-06-19,10,none
+b3ef354c,Pay electricity bill by Friday,task,2026-06-26,2026-07-25,3,none
+54d81b10,User watched a movie yesterday,event,2026-02-24,2026-06-20,1,none
+06abcbe9,User attended a wedding last weekend,event,2026-03-15,2026-04-27,5,negative
+531422ce,User's favorite color is blue,fact,2026-06-11,2026-06-28,0,none
+f315824a,Book flight tickets before price increase,task,2026-02-22,2026-05-17,0,none
+897712ae,Renew driving license this month,task,2026-04-06,2026-07-18,1,positive
+7e2e21d1,User went on a trip to Goa,event,2026-05-13,2026-07-09,3,positive
+d0ea4222,User prefers Python over Java,preference,2026-05-29,2026-06-09,1,none
+9493deec,Renew driving license this month,task,2026-02-22,2026-07-07,1,none
+a02de0f8,Send the report to manager by end of day,task,2026-04-15,2026-04-15,10,none
+730f2c85,Return the library books by Thursday,task,2026-02-04,2026-03-19,10,none
+12a3088a,User attended a wedding last weekend,event,2026-06-25,2026-07-02,2,none
+d3a02f03,User prefers tea over coffee,preference,2026-06-01,2026-07-07,1,none
+4b4c932d,User went on a trip to Goa,event,2026-06-26,2026-07-10,2,none
+2c3c1a22,User attended a wedding last weekend,event,2026-06-15,2026-06-17,0,none
+19d8e438,User's favorite color is blue,fact,2026-02-14,2026-03-04,1,none
+5a42eb0d,User attended a college hackathon,event,2026-07-21,2026-07-22,26,none
+888dc10b,Call the dentist to reschedule appointment,task,2026-04-03,2026-07-20,1,none
+226b346c,User prefers tea over coffee,preference,2026-02-23,2026-06-23,1,none
+9244f526,User plans to run a marathon next year,goal,2026-06-25,2026-07-06,1,positive
+1d382622,Book flight tickets before price increase,task,2026-06-22,2026-07-23,15,none
+55181c38,Book flight tickets before price increase,task,2026-06-18,2026-07-09,4,none
+6d13d074,User had a job interview last week,event,2026-03-23,2026-05-12,0,none
+8b85ae23,Book flight tickets before price increase,task,2026-06-03,2026-06-22,0,none
+77df897d,Call the dentist to reschedule appointment,task,2026-03-13,2026-07-27,0,negative
+950be8f2,User plans to run a marathon next year,goal,2026-04-26,2026-07-24,5,positive
+7e8403ec,User went on a trip to Goa,event,2026-07-10,2026-07-17,5,none
+d9a54347,User attended a college hackathon,event,2026-02-22,2026-06-29,1,none
+1aea55d1,User wants to buy a house within five years,goal,2026-04-26,2026-07-11,3,none
+4022edc1,User's favorite color is blue,fact,2026-06-23,2026-07-08,1,none
+343b09f5,User attended a wedding last weekend,event,2026-05-06,2026-05-12,1,none
+d02188d0,User is saving up to buy a house,goal,2026-05-03,2026-05-26,5,none
+bb3369b5,User is allergic to peanuts,fact,2026-05-05,2026-07-15,1,none
+d9ae24c4,User is left-handed,fact,2026-03-29,2026-06-26,0,none
+c5ab4f56,User attended a college hackathon,event,2026-02-20,2026-04-23,1,none
+a6f4c8e5,User owns a dog named Max,fact,2026-07-24,2026-07-26,0,none
+002fb52b,Return the library books by Thursday,task,2026-07-13,2026-07-25,1,none
+a65469ad,User had a job interview last week,event,2026-05-09,2026-07-07,1,none
+cea7b65a,User is saving up to buy a house,goal,2026-03-27,2026-07-05,3,negative
+eab84704,User wants to publish a research paper,goal,2026-06-05,2026-06-15,1,none
+bd296fc7,User wants to publish a research paper,goal,2026-06-27,2026-07-05,17,none
+d1777110,User wants to learn Spanish,goal,2026-05-16,2026-07-19,4,none
+504934be,User dislikes long meetings,preference,2026-03-13,2026-05-21,0,none
+9f0f363a,User dislikes long meetings,preference,2026-07-16,2026-07-19,1,positive
+60f7e1bc,User wants to lose 5 kg,goal,2026-03-30,2026-07-17,6,none
+a3cedf40,User likes minimalist design,preference,2026-02-11,2026-03-30,0,none
+f8aa5e7f,User wants to publish a research paper,goal,2026-02-13,2026-07-14,2,none
+15746ba3,User is vegetarian,fact,2026-06-14,2026-07-03,7,none
+8eec690f,Renew driving license this month,task,2026-05-15,2026-07-25,2,positive
+cecd25e6,User wants to publish a research paper,goal,2026-04-03,2026-05-08,10,none
+28266264,User likes concise answers,preference,2026-05-05,2026-07-09,1,positive
+8bf541c2,User wants to publish a research paper,goal,2026-03-05,2026-06-10,25,none
+4d26f41f,Finish reading the assigned book by next week,task,2026-07-06,2026-07-17,11,none
+313cd196,User prefers dark mode,preference,2026-05-23,2026-06-10,3,none
+2765207b,User is saving up to buy a house,goal,2026-03-04,2026-07-27,1,negative
+3530c904,User's phone number ends in 4471,fact,2026-05-11,2026-07-09,5,none
+263c1d44,User wants to lose 5 kg,goal,2026-06-28,2026-07-11,1,none
+818f0743,Renew driving license this month,task,2026-04-03,2026-04-25,4,none
+5d7f7af9,User visited the doctor last month,event,2026-02-08,2026-06-04,3,none
+f2306bcf,User works part-time at a bakery,fact,2026-04-05,2026-05-23,8,positive
+5650ed9e,User celebrated their birthday recently,event,2026-06-07,2026-06-23,1,none
+3377500a,User's mother tongue is Marathi,fact,2026-06-06,2026-06-14,8,none
+107826c3,User's phone number ends in 4471,fact,2026-06-25,2026-06-27,5,none
+4502d783,User wants to lose 5 kg,goal,2026-07-23,2026-07-26,4,none
+37c581b7,User has two younger siblings,fact,2026-05-01,2026-05-01,23,none
+9564d78e,User is vegetarian,fact,2026-03-30,2026-07-25,0,positive
+646bbbd2,Finish reading the assigned book by next week,task,2026-04-22,2026-06-02,0,none
+dd1c3ea0,User attended a wedding last weekend,event,2026-02-11,2026-05-01,11,none
+843da452,User prefers Android over iOS,preference,2026-06-01,2026-06-06,0,negative
+26900cc3,User had a job interview last week,event,2026-03-14,2026-04-23,1,positive
+4d090da2,User prefers Android over iOS,preference,2026-06-30,2026-07-28,5,none
+94a0b1d9,User owns a dog named Max,fact,2026-06-06,2026-07-25,0,none
+218829c7,User owns a dog named Max,fact,2026-07-17,2026-07-23,5,none
+916c6cc5,User's birthday is in March,fact,2026-03-22,2026-05-16,3,none
+5cab550d,User is preparing for interviews,goal,2026-05-12,2026-07-11,1,positive
+d83f922e,User attended a college hackathon,event,2026-06-14,2026-06-19,1,none
+25b8fdc7,Finish reading the assigned book by next week,task,2026-01-31,2026-04-14,1,positive
+41032e66,User had a job interview last week,event,2026-05-28,2026-06-05,15,positive
+1044c928,Pay electricity bill by Friday,task,2026-03-07,2026-04-15,5,none
+543e4af9,User is preparing for interviews,goal,2026-05-05,2026-05-08,20,positive
+2f03e26c,User prefers dark mode,preference,2026-05-21,2026-06-11,0,none
+637cd333,User attended a wedding last weekend,event,2026-03-28,2026-07-03,15,positive
+67027776,User prefers Android over iOS,preference,2026-06-28,2026-06-29,3,negative
+7d9aca6d,User dislikes spicy food,preference,2026-05-07,2026-06-23,5,none
+aff0bbd6,User wants to run a marathon next year,goal,2026-03-19,2026-03-24,9,none
+2f5e0569,User is preparing for interviews,goal,2026-04-25,2026-06-19,5,negative
+cff09898,User prefers dark mode,preference,2026-05-23,2026-06-06,0,negative
+80a62c59,User visited the doctor last month,event,2026-05-27,2026-05-27,4,none
+580fbbe3,Return the library books by Thursday,task,2026-06-15,2026-07-07,3,none
+ebfadf4f,User attended a college hackathon,event,2026-07-13,2026-07-13,8,none
+455e08d0,User has two younger siblings,fact,2026-06-23,2026-07-15,0,negative
+9d73c75a,Finish reading the assigned book by next week,task,2026-07-13,2026-07-14,0,none
+59096ce8,User's favorite color is blue,fact,2026-03-15,2026-05-20,4,none
+88abfc67,Renew driving license this month,task,2026-07-01,2026-07-26,0,none
+bce33db2,User wants to publish a research paper,goal,2026-04-18,2026-07-19,1,negative
+9d3294fc,User prefers email over calls,preference,2026-02-03,2026-07-09,1,none
+3ebaa570,Pay electricity bill by Friday,task,2026-02-15,2026-07-27,1,none
+0ad693e1,User is saving up to buy a house,goal,2026-07-04,2026-07-13,1,none
+31f7e75e,User had a job interview last week,event,2026-05-20,2026-07-24,27,none
+fdea1135,User attended a college hackathon,event,2026-07-20,2026-07-27,6,none
+ef4f6afc,Submit assignment by Monday,task,2026-05-13,2026-07-09,24,none
+3288519e,User went on a trip to Goa,event,2026-04-21,2026-04-24,3,none
+4e13f94f,User wants to learn Spanish,goal,2026-07-03,2026-07-16,1,none
+7a822c10,User had a job interview last week,event,2026-05-06,2026-07-26,1,none
+eedfe29f,Send the report to manager by end of day,task,2026-06-11,2026-06-16,5,negative
+f99e4f4e,User prefers Android over iOS,preference,2026-07-10,2026-07-27,1,none
+e45765ba,User prefers Android over iOS,preference,2026-04-20,2026-06-19,0,none
+0c3c0d64,Finish reading the assigned book by next week,task,2026-05-20,2026-07-16,0,none
+56fca929,User celebrated their birthday recently,event,2026-04-15,2026-07-16,1,positive
+3691d3f1,User visited the doctor last month,event,2026-05-06,2026-06-10,1,none
+fcfa4251,User attended a wedding last weekend,event,2026-03-04,2026-03-18,1,positive
+df9949a0,User wants to publish a research paper,goal,2026-03-24,2026-06-22,1,none
+e3496285,Submit assignment by Monday,task,2026-04-27,2026-06-27,3,none
+afe4a970,User prefers working late at night,preference,2026-07-01,2026-07-25,6,none
+1b90f4e1,User had a job interview last week,event,2026-05-05,2026-06-03,19,none
+9a6307cc,User attended a wedding last weekend,event,2026-05-13,2026-06-18,1,none
+21acb647,User wants to publish a research paper,goal,2026-02-01,2026-02-17,5,none
+23ef94d5,User plans to run a marathon next year,goal,2026-04-26,2026-07-15,24,positive
+c7576ca9,User watched a movie yesterday,event,2026-04-01,2026-04-30,3,none
+1004f6a5,User's hometown is Pune,fact,2026-04-15,2026-05-04,5,negative
+bdb990ae,User prefers Android over iOS,preference,2026-04-11,2026-04-19,1,none
+35116ec5,User had a job interview last week,event,2026-03-14,2026-03-22,0,none
+397bc8ac,User celebrated their birthday recently,event,2026-02-15,2026-07-08,1,none
+2af9a005,User likes detailed explanations,preference,2026-02-22,2026-07-18,1,none
+67ee6579,User's favorite color is blue,fact,2026-07-03,2026-07-21,3,none
+6664231d,User attended a wedding last weekend,event,2026-04-05,2026-06-12,5,none
+c211d5ee,User attended a wedding last weekend,event,2026-05-01,2026-07-26,1,none
+1ab5716a,User lives in Solapur,fact,2026-06-22,2026-07-07,1,negative
+b752e76c,Finish reading the assigned book by next week,task,2026-03-29,2026-07-17,5,none
+278ae968,User wants to learn Spanish,goal,2026-06-29,2026-07-29,0,none
+68d24a97,User dislikes spicy food,preference,2026-06-14,2026-06-24,3,none
+e0ba045c,User likes minimalist design,preference,2026-02-17,2026-06-12,3,none
+0f6841a0,User attended a wedding last weekend,event,2026-04-04,2026-05-15,0,negative
+02aea195,User wants to lose 5 kg,goal,2026-07-12,2026-07-26,1,none
+bd998a6c,User wants to learn guitar,goal,2026-03-25,2026-05-23,1,none
+d3509f38,User is allergic to peanuts,fact,2026-04-29,2026-06-01,3,negative
+d9359c52,User celebrated their birthday recently,event,2026-07-07,2026-07-08,0,none
+be282063,User prefers tea over coffee,preference,2026-02-01,2026-06-23,5,none
+228c479e,Renew driving license this month,task,2026-03-26,2026-05-09,0,negative
+16249dcc,User prefers tea over coffee,preference,2026-04-04,2026-05-11,17,none
+caa31e00,User likes minimalist design,preference,2026-03-07,2026-03-22,5,none
+39db1873,Return the library books by Thursday,task,2026-06-16,2026-07-24,1,positive
+ea0c4642,User dislikes spicy food,preference,2026-05-16,2026-07-08,5,none
+0d6bad3d,User celebrated their birthday recently,event,2026-06-30,2026-07-11,2,none
+439f36e4,User wants to buy a house within five years,goal,2026-07-18,2026-07-18,1,none
+b639aa39,User prefers email over calls,preference,2026-07-20,2026-07-22,17,positive
+2b35dfa9,User has a cat named Whiskers,fact,2026-05-29,2026-07-16,4,none
+0160dc15,User attended a wedding last weekend,event,2026-06-06,2026-06-07,3,none
+08c2b0e5,User celebrated their birthday recently,event,2026-06-15,2026-07-09,4,none
+eb1392db,User attended a college hackathon,event,2026-07-04,2026-07-25,7,none
+efc9f4bc,User prefers Android over iOS,preference,2026-06-25,2026-07-14,1,negative
+8341a235,Return the library books by Thursday,task,2026-06-22,2026-06-23,1,none
+f2eb392e,User has two younger siblings,fact,2026-03-19,2026-05-19,20,none
+6aa8e5ca,User's hometown is Pune,fact,2026-07-05,2026-07-06,5,none
+a4b890e8,User has a cat named Whiskers,fact,2026-03-14,2026-04-19,19,none
+53fe6094,User wants to publish a research paper,goal,2026-05-03,2026-05-20,24,none
+667d5f10,User's favorite color is blue,fact,2026-07-03,2026-07-09,0,none
+171b4d9f,Return the library books by Thursday,task,2026-07-28,2026-07-28,28,none
+64dd5949,User wants to get better at DSA,goal,2026-05-19,2026-07-18,0,none
+4917fcdc,User prefers dark mode,preference,2026-04-18,2026-05-10,4,negative
+caf6cd7e,User wears glasses,fact,2026-07-04,2026-07-29,0,none
+693f1cd8,User attended a college hackathon,event,2026-04-06,2026-07-28,1,positive
+836675f7,Renew driving license this month,task,2026-03-28,2026-07-20,0,none
+30005714,User is allergic to peanuts,fact,2026-04-25,2026-06-21,3,none
+2196febf,User likes detailed explanations,preference,2026-02-05,2026-06-23,2,none
+aac6c84b,User prefers working late at night,preference,2026-04-30,2026-07-02,3,none
+575a176c,User likes concise answers,preference,2026-07-03,2026-07-25,2,none
+8059b6b3,Finish reading the assigned book by next week,task,2026-06-23,2026-07-14,0,none
+546b6d82,User attended a college hackathon,event,2026-02-23,2026-05-18,27,negative
+07ca1b1d,User celebrated their birthday recently,event,2026-06-10,2026-06-12,5,none
+048726c5,User prefers working late at night,preference,2026-04-21,2026-07-15,3,positive
+eec3fe24,User is allergic to peanuts,fact,2026-05-08,2026-07-13,1,none
+f7a19e9a,User prefers working late at night,preference,2026-07-10,2026-07-29,1,positive
+a63b6e1f,User has a cat named Whiskers,fact,2026-04-18,2026-05-26,4,none
+cf5bd5c6,Send the report to manager by end of day,task,2026-07-07,2026-07-09,0,positive
+6a971ed2,User prefers Python over Java,preference,2026-03-13,2026-05-07,5,none
+332c7c0a,User studied at NK Orchid College,fact,2026-01-31,2026-04-09,1,none
+5bf9fdac,User's phone number ends in 4471,fact,2026-02-22,2026-02-24,2,none
+b20e924b,User likes concise answers,preference,2026-07-25,2026-07-28,1,none
+140c9310,User visited the doctor last month,event,2026-05-23,2026-07-08,4,none
+fa02c8d2,User has a cat named Whiskers,fact,2026-07-21,2026-07-24,5,negative
+77da9730,User attended a college hackathon,event,2026-07-09,2026-07-14,1,none
+79cc3081,User attended a wedding last weekend,event,2026-04-25,2026-07-09,0,none
+1ead1f40,User owns a dog named Max,fact,2026-03-20,2026-07-29,1,none
+37c815ff,Renew driving license this month,task,2026-06-13,2026-07-27,1,none
+a888dcd2,User wants to publish a research paper,goal,2026-07-09,2026-07-11,4,none
+5c8d153e,User dislikes long meetings,preference,2026-03-18,2026-07-18,8,none
+16fbb6c6,User wants to run a marathon next year,goal,2026-07-06,2026-07-12,1,negative
+4cee1164,User wants to lose 5 kg,goal,2026-02-19,2026-05-28,5,none
+290e5bc0,User prefers Android over iOS,preference,2026-03-11,2026-05-28,6,positive
+b84f06c3,User went on a trip to Goa,event,2026-02-16,2026-07-27,4,none
+f5e41dc6,User is learning Spanish,goal,2026-06-06,2026-06-26,1,positive
+ea7268e9,User prefers Android over iOS,preference,2026-05-18,2026-07-18,13,none
+fa799c04,User wants to switch careers into AI,goal,2026-07-07,2026-07-11,0,none
+a4bc81e0,User is left-handed,fact,2026-03-05,2026-07-14,27,negative
+b5b33803,User wants to run a marathon next year,goal,2026-04-19,2026-05-01,1,negative
+4970031c,User prefers Python over Java,preference,2026-03-01,2026-07-02,0,none
+e84aad92,Submit assignment by Monday,task,2026-03-13,2026-04-29,1,negative
+51d2feff,User lives in Solapur,fact,2026-06-18,2026-07-10,12,none
+b70cf548,User wears glasses,fact,2026-05-26,2026-06-14,0,negative
+b198089d,User prefers dark mode,preference,2026-04-16,2026-06-02,1,none
+84762040,User likes concise answers,preference,2026-07-25,2026-07-29,0,none
+c9f514dd,User is left-handed,fact,2026-02-28,2026-05-24,6,positive
+8837ac3e,Renew driving license this month,task,2026-07-05,2026-07-19,7,positive
+ee1284ba,User had a job interview last week,event,2026-04-18,2026-05-27,2,positive
+85bf7adc,User prefers Python over Java,preference,2026-05-19,2026-06-24,0,none
+3e752ea1,User likes detailed explanations,preference,2026-05-14,2026-05-27,1,positive
+946dc15a,Renew driving license this month,task,2026-04-12,2026-07-04,26,none
+246c0470,User has two younger siblings,fact,2026-04-28,2026-05-29,17,none
+e98a4def,Call the dentist to reschedule appointment,task,2026-06-12,2026-07-28,1,none
+915f6d5e,User wants to learn Spanish,goal,2026-03-30,2026-05-23,4,negative
+939ebb8c,User likes concise answers,preference,2026-05-26,2026-06-29,23,none
+9977c58a,User has a cat named Whiskers,fact,2026-06-02,2026-06-23,17,none
+6665f8ff,User prefers Python over Java,preference,2026-05-29,2026-06-22,4,none
+5cb9c3bf,User wears glasses,fact,2026-01-30,2026-04-30,24,none
+c29d861e,Call the dentist to reschedule appointment,task,2026-06-14,2026-06-28,0,none
+7830b33a,User works part-time at a bakery,fact,2026-03-28,2026-07-29,1,positive
+88e02ad0,User prefers tea over coffee,preference,2026-07-13,2026-07-29,3,positive
+65f8536e,User's hometown is Pune,fact,2026-03-16,2026-04-27,2,none
+bbb626a5,User watched a movie yesterday,event,2026-05-03,2026-06-21,10,none
+922635fd,Return the library books by Thursday,task,2026-02-12,2026-05-09,28,none
+49ab1697,User visited the doctor last month,event,2026-04-28,2026-07-01,1,none
+4e731edb,User prefers Python over Java,preference,2026-07-28,2026-07-28,2,none
+bc842950,User attended a wedding last weekend,event,2026-02-15,2026-03-07,0,none
+dbe701ba,User prefers tea over coffee,preference,2026-05-08,2026-07-08,2,none
+c9bbff87,User wants to switch careers into AI,goal,2026-07-26,2026-07-27,3,none
+93b6173e,User wears glasses,fact,2026-07-28,2026-07-29,5,none
+eddc9e7c,Return the library books by Thursday,task,2026-04-23,2026-06-15,9,none
+5fc15854,User attended a college hackathon,event,2026-02-03,2026-06-02,0,none
+79d20568,User wants to learn Spanish,goal,2026-05-08,2026-06-26,1,none
+55e29ed0,User prefers Android over iOS,preference,2026-07-09,2026-07-12,2,none
+59ac304c,Pay electricity bill by Friday,task,2026-04-09,2026-05-07,25,positive
+d8045c02,User is allergic to peanuts,fact,2026-06-06,2026-07-17,5,none
+9c6f6087,User went on a trip to Goa,event,2026-02-09,2026-05-18,0,none
+fdb51fb0,User visited the doctor last month,event,2026-03-25,2026-07-10,0,positive
+9d71abaf,User had a job interview last week,event,2026-06-07,2026-07-23,0,negative
+35df1654,User's phone number ends in 4471,fact,2026-06-29,2026-07-20,1,none
+496fc241,User's mother tongue is Marathi,fact,2026-03-11,2026-04-21,17,none
+277322e6,Pay electricity bill by Friday,task,2026-05-22,2026-06-03,1,negative
+6439c4df,User's birthday is in March,fact,2026-01-31,2026-02-09,2,none
+029b0df8,Book flight tickets before price increase,task,2026-03-09,2026-07-14,1,none
+3618bac9,Book flight tickets before price increase,task,2026-03-29,2026-06-21,18,none
+4b86bea9,User celebrated their birthday recently,event,2026-03-18,2026-06-22,1,none
+37256e7c,User dislikes long meetings,preference,2026-06-09,2026-07-21,0,none
+8326b3f5,User likes detailed explanations,preference,2026-06-21,2026-06-21,16,none
+053677b9,User lives in Solapur,fact,2026-04-20,2026-05-19,1,negative
+763bcff9,Pay electricity bill by Friday,task,2026-01-30,2026-02-20,1,positive
+246439da,User celebrated their birthday recently,event,2026-07-03,2026-07-26,15,none
+7b7efd7c,Call the dentist to reschedule appointment,task,2026-04-21,2026-05-07,5,positive
+b3c098c1,User plans to run a marathon next year,goal,2026-06-22,2026-07-04,18,none
+fdf185ad,User prefers dark mode,preference,2026-03-29,2026-04-03,0,none
+8c6e9af1,User wants to publish a research paper,goal,2026-05-18,2026-05-28,0,none
+48ed37d5,Finish reading the assigned book by next week,task,2026-05-21,2026-06-06,1,none
+eb0e8148,Return the library books by Thursday,task,2026-03-18,2026-04-25,2,positive
+50a2c5e7,User had a job interview last week,event,2026-06-24,2026-06-26,0,none
+327882d9,User owns a dog named Max,fact,2026-07-20,2026-07-22,2,negative
+1ad98351,Send the report to manager by end of day,task,2026-02-16,2026-06-28,1,none
+5d5b73cf,User prefers working late at night,preference,2026-02-28,2026-03-10,0,none
+5ed255fb,User studied at NK Orchid College,fact,2026-07-21,2026-07-23,11,none
+3e3ca39c,User dislikes long meetings,preference,2026-02-13,2026-06-02,3,none
+7ff8b3df,User's phone number ends in 4471,fact,2026-06-25,2026-07-18,1,none
+24e14ebd,User wants to lose 5 kg,goal,2026-02-14,2026-05-20,18,none
+dc5cb98c,User prefers working late at night,preference,2026-05-12,2026-05-24,0,none
+a8a5111d,User wants to buy a house within five years,goal,2026-02-13,2026-02-27,4,none
+559b113b,User wants to publish a research paper,goal,2026-02-15,2026-05-07,4,none
+40b58cc9,User is preparing for interviews,goal,2026-06-20,2026-06-26,7,none
+09d6fb2e,User had a job interview last week,event,2026-02-09,2026-05-09,0,none
+9a1c1c6a,User wants to publish a research paper,goal,2026-04-12,2026-06-08,0,none
+43d0fdb6,User visited the doctor last month,event,2026-06-10,2026-07-08,3,none
+abbd0d84,User wants to buy a house within five years,goal,2026-05-13,2026-07-08,0,positive
+f3e14aa4,User wants to lose 5 kg,goal,2026-03-07,2026-06-13,0,none
+a22c5ef7,User prefers tea over coffee,preference,2026-05-13,2026-05-16,2,none
+f4200353,User prefers coffee over tea,preference,2026-05-23,2026-05-25,4,none
+fc3e066a,User prefers dark mode,preference,2026-05-31,2026-06-03,0,negative
+c3de3e18,User prefers light mode,preference,2026-06-04,2026-06-08,4,negative
+ff9f551a,User dislikes spicy food,preference,2026-06-25,2026-06-26,4,positive
+413ea2e7,User loves spicy food,preference,2026-07-11,2026-07-16,3,negative
+12fd44cb,User prefers Python over Java,preference,2026-06-10,2026-06-10,1,positive
+f27bb143,User prefers Java over Python,preference,2026-06-24,2026-06-25,2,none
+3767a190,User is vegetarian,fact,2026-05-24,2026-05-25,2,negative
+3208f889,User eats non-vegetarian food regularly,fact,2026-06-08,2026-06-09,0,none
+cd43eeb2,User is learning Spanish,goal,2026-05-09,2026-05-10,2,negative
+ab615db3,User is now fluent in Spanish,fact,2026-06-18,2026-06-18,0,none
+d6df0d8d,User wants to buy a house within five years,goal,2026-05-13,2026-05-14,4,positive
+2cf876e9,User bought a house,fact,2026-06-08,2026-06-11,0,positive
+bde0f553,User is preparing for interviews,goal,2026-04-21,2026-04-26,3,none
+e488428b,User got a new job after interviews,fact,2026-05-24,2026-05-27,3,none
+e15deab3,User wants to run a marathon next year,goal,2026-05-30,2026-06-03,1,negative
+0e32411b,User completed a marathon,fact,2026-06-20,2026-06-22,0,none
+5fdb9985,User is saving up to buy a house,goal,2026-04-12,2026-04-16,1,positive
+0e943f5f,User bought a house,fact,2026-05-28,2026-06-02,0,negative
