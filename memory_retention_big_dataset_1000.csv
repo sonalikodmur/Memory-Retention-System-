@@ -1,0 +1,1001 @@
+memory_id,memory_text,timestamp,frequency_of_use,recency,memory_type,user_feedback,retention_score,action
+1,User is interested in web development,2025-01-26 20:17:00,4,563,Preference,Positive,0.24,DELETE
+2,User wants to improve machine learning skills,2026-03-09 09:01:00,1,156,Goal,Positive,0.44,COMPRESS
+3,User wants help preparing trees,2026-03-06 12:28:00,11,159,Goal,Negative,0.44,MERGE
+4,User wants help preparing APIs,2025-12-15 13:09:00,3,240,Goal,Neutral,0.27,MERGE
+5,User is developing a exam preparation,2025-09-28 21:02:00,15,318,Goal,Positive,0.64,COMPRESS
+6,User wants to improve Git skills,2026-01-06 18:12:00,14,218,Goal,Positive,0.62,COMPRESS
+7,User is working on a chatbot project,2025-04-14 15:17:00,8,485,Goal,None,0.24,MERGE
+8,User is interested in Node.js,2025-03-15 18:40:00,2,515,Preference,Neutral,0.13,MERGE
+9,User wants graphs remembered across conversations,2025-08-13 19:20:00,19,364,Goal,Neutral,0.53,KEEP
+10,User is developing a computer networks,2025-10-02 10:13:00,22,314,Goal,Positive,0.73,KEEP
+11,User discussed a computer networks assignment,2026-04-15 11:16:00,2,119,Fact,Neutral,0.42,MERGE
+12,User frequently asks about competitive programming,2026-02-13 14:14:00,29,180,Fact,Positive,0.83,KEEP
+13,User is building a web development system,2025-06-06 19:10:00,17,432,Goal,Positive,0.53,COMPRESS
+14,User discussed a linked lists assignment,2025-09-15 17:55:00,23,331,Fact,Neutral,0.57,DELETE
+15,User prefers Node.js instructions,2025-12-15 10:18:00,7,240,Preference,Positive,0.53,DELETE
+16,User prefers regular expressions answers,2025-07-02 17:58:00,1,406,Preference,Neutral,0.19,DELETE
+17,User wants to learn databases,2026-01-18 21:10:00,10,206,Goal,Neutral,0.51,KEEP
+18,User is developing a deep learning,2025-01-20 10:59:00,6,569,Goal,None,0.27,MERGE
+19,User wants to learn dynamic programming,2025-03-22 10:46:00,8,508,Goal,Positive,0.41,MERGE
+20,User prefers NumPy explanations,2026-07-17 11:16:00,9,26,Preference,Positive,0.78,COMPRESS
+21,User prefers cloud computing instructions,2025-11-16 15:42:00,12,269,Preference,Positive,0.56,KEEP
+22,User wants to learn data science,2025-12-13 09:37:00,10,242,Goal,Positive,0.48,MERGE
+23,User prefers chatbot for programming,2025-03-11 09:55:00,5,519,Preference,Positive,0.29,DELETE
+24,User wants to improve cybersecurity skills,2026-08-08 18:30:00,4,4,Goal,Positive,0.63,KEEP
+25,User is interested in APIs,2025-12-29 15:26:00,8,226,Preference,Neutral,0.46,DELETE
+26,User is working on a JavaScript project,2026-02-17 20:21:00,17,176,Goal,Positive,0.73,KEEP
+27,User prefers APIs explanations,2025-07-07 13:29:00,4,401,Preference,None,0.18,DELETE
+28,User wants to improve artificial intelligence skills,2025-02-21 19:34:00,18,537,Goal,None,0.56,MERGE
+29,User prefers projects explanations,2026-05-13 16:13:00,19,91,Preference,None,0.75,KEEP
+30,User frequently asks about React,2026-04-11 13:27:00,14,123,Fact,Neutral,0.71,KEEP
+31,User discussed a databases assignment,2025-07-14 13:13:00,25,394,Fact,Positive,0.66,MERGE
+32,User prefers JavaScript for programming,2026-05-04 17:58:00,19,100,Preference,Positive,0.94,KEEP
+33,User prefers data science explanations,2025-03-11 19:55:00,3,519,Preference,Positive,0.31,MERGE
+34,User frequently asks for C++ ideas,2025-03-25 15:42:00,11,505,Preference,Positive,0.5,COMPRESS
+35,User wants help preparing college,2025-09-02 13:25:00,2,344,Goal,Neutral,0.19,DELETE
+36,User wants data science remembered across conversations,2025-01-10 16:39:00,30,579,Goal,None,0.5,COMPRESS
+37,User prefers cybersecurity answers,2025-12-24 10:56:00,4,231,Preference,Positive,0.41,COMPRESS
+38,User prefers linked lists answers,2025-01-09 19:52:00,10,580,Preference,None,0.28,DELETE
+39,User prefers web development answers,2025-04-20 20:35:00,2,479,Preference,Positive,0.21,MERGE
+40,User is interested in React,2026-06-02 16:16:00,21,71,Preference,None,0.78,KEEP
+41,User prefers C++ answers,2025-01-04 14:49:00,2,585,Preference,None,0.1,DELETE
+42,User wants help preparing APIs,2026-07-29 09:07:00,1,14,Goal,None,0.51,COMPRESS
+43,User is building a software engineering system,2026-07-20 11:27:00,2,23,Goal,Positive,0.62,MERGE
+44,User is building a C++ system,2026-01-02 12:43:00,4,222,Goal,Positive,0.46,DELETE
+45,User frequently asks about databases,2025-08-31 11:51:00,17,346,Fact,None,0.44,MERGE
+46,User is developing a projects,2025-09-12 13:10:00,16,334,Goal,Positive,0.63,DELETE
+47,User wants to learn cloud computing,2026-04-17 14:19:00,18,117,Goal,None,0.71,KEEP
+48,User frequently asks about presentations,2025-10-13 10:49:00,4,303,Fact,Neutral,0.27,DELETE
+49,User wants to improve presentations skills,2025-01-29 10:56:00,26,560,Goal,Positive,0.71,KEEP
+50,User is working on a APIs project,2025-12-20 20:50:00,5,235,Goal,Positive,0.44,COMPRESS
+51,User frequently asks for cloud computing ideas,2025-09-18 09:45:00,7,328,Preference,Positive,0.43,MERGE
+52,User wants help preparing cloud computing,2026-01-08 15:04:00,24,216,Goal,None,0.71,KEEP
+53,User is working on a GitHub project,2026-06-04 13:42:00,7,69,Goal,Positive,0.62,KEEP
+54,User frequently asks about operating systems,2025-06-28 18:36:00,5,410,Fact,Positive,0.25,MERGE
+55,User frequently asks about competitive programming,2025-11-26 16:28:00,7,259,Fact,Positive,0.46,DELETE
+56,User prefers SQL instructions,2025-03-28 13:32:00,13,502,Preference,Positive,0.44,DELETE
+57,User wants to learn GitHub,2025-08-19 21:12:00,2,358,Goal,Positive,0.31,DELETE
+58,User prefers data science instructions,2026-04-12 15:56:00,12,122,Preference,Positive,0.73,KEEP
+59,User wants to learn databases,2025-01-06 21:55:00,16,583,Goal,Positive,0.55,KEEP
+60,User wants help preparing linked lists,2026-04-21 09:35:00,4,113,Goal,None,0.43,MERGE
+61,User is interested in linked lists,2026-07-27 18:20:00,24,16,Preference,None,0.9,KEEP
+62,User wants to improve APIs skills,2026-07-16 16:57:00,2,27,Goal,None,0.46,MERGE
+63,User is building a Node.js system,2026-06-18 16:40:00,4,55,Goal,Positive,0.61,COMPRESS
+64,User is developing a college,2026-07-08 10:08:00,2,35,Goal,Positive,0.52,COMPRESS
+65,User frequently asks about projects,2025-12-05 17:29:00,7,250,Fact,Positive,0.46,DELETE
+66,User frequently asks for Java ideas,2026-08-13 15:30:00,0,0,Preference,Positive,0.58,DELETE
+67,User is building a projects system,2026-07-06 20:47:00,10,37,Goal,Positive,0.71,KEEP
+68,User frequently asks about deep learning,2025-01-30 15:21:00,13,559,Fact,Negative,0.37,DELETE
+69,User wants cybersecurity remembered across conversations,2026-07-01 09:58:00,6,42,Goal,Positive,0.59,COMPRESS
+70,User prefers pandas explanations,2025-07-06 09:16:00,6,402,Preference,Positive,0.31,DELETE
+71,User frequently asks about Node.js,2026-03-08 13:53:00,1,157,Fact,Positive,0.43,DELETE
+72,User is developing a chatbot,2025-03-12 21:41:00,0,518,Goal,Positive,0.17,DELETE
+73,User frequently asks for databases ideas,2025-09-02 11:30:00,13,344,Preference,Positive,0.48,MERGE
+74,User prefers software engineering instructions,2025-06-21 18:38:00,25,417,Preference,Neutral,0.61,KEEP
+75,User prefers artificial intelligence answers,2025-01-27 13:36:00,13,562,Preference,None,0.38,DELETE
+76,User is working on a competitive programming project,2025-09-06 10:44:00,16,340,Goal,None,0.5,KEEP
+77,User frequently asks for C++ ideas,2025-12-22 17:27:00,13,233,Preference,Positive,0.64,KEEP
+78,User frequently asks about deep learning,2025-04-19 15:23:00,12,480,Fact,Negative,0.34,DELETE
+79,User wants help preparing linked lists,2025-10-04 18:51:00,22,312,Goal,Neutral,0.63,MERGE
+80,User frequently asks for Node.js ideas,2025-11-27 12:53:00,23,258,Preference,Positive,0.75,KEEP
+81,User frequently asks for operating systems ideas,2025-12-11 09:31:00,19,244,Preference,Positive,0.71,COMPRESS
+82,User is developing a Node.js,2025-10-10 17:00:00,9,306,Goal,Positive,0.43,COMPRESS
+83,User wants to improve mobile application skills,2026-05-03 19:45:00,9,101,Goal,Negative,0.46,COMPRESS
+84,User wants help preparing mobile application,2025-11-10 19:37:00,6,275,Goal,Positive,0.4,DELETE
+85,User wants to improve presentations skills,2025-12-27 20:29:00,4,228,Goal,Positive,0.38,COMPRESS
+86,User is working on a trees project,2025-07-09 12:13:00,15,399,Goal,Positive,0.55,MERGE
+87,User frequently asks for Git ideas,2025-04-13 12:18:00,3,486,Preference,Positive,0.21,DELETE
+88,User prefers C++ answers,2025-02-25 17:18:00,14,533,Preference,Positive,0.56,COMPRESS
+89,User is building a Python system,2026-08-11 13:30:00,8,1,Goal,Positive,0.78,KEEP
+90,User is building a NumPy system,2025-04-27 10:25:00,9,472,Goal,Positive,0.42,KEEP
+91,User prefers dynamic programming instructions,2025-11-08 10:15:00,1,277,Preference,Neutral,0.25,DELETE
+92,User wants to learn linked lists,2026-01-25 16:58:00,7,199,Goal,None,0.48,COMPRESS
+93,User frequently asks for JavaScript ideas,2025-04-12 21:13:00,12,487,Preference,Positive,0.42,COMPRESS
+94,User wants to improve data science skills,2025-06-10 09:26:00,8,428,Goal,Positive,0.35,MERGE
+95,User wants help preparing Git,2026-04-10 10:43:00,3,124,Goal,Positive,0.53,COMPRESS
+96,User prefers cloud computing instructions,2026-03-12 10:34:00,3,153,Preference,Positive,0.44,KEEP
+97,User prefers SQL for programming,2025-11-11 18:47:00,18,274,Preference,None,0.58,COMPRESS
+98,User prefers computer networks answers,2025-10-06 17:34:00,9,310,Preference,Positive,0.4,COMPRESS
+99,User is developing a React,2025-01-27 10:14:00,25,562,Goal,None,0.56,DELETE
+100,User prefers Node.js instructions,2026-08-14 09:48:00,15,0,Preference,Positive,0.91,COMPRESS
+101,User prefers competitive programming explanations,2026-03-23 19:52:00,9,142,Preference,Positive,0.6,COMPRESS
+102,User is interested in artificial intelligence,2025-06-14 14:26:00,14,424,Preference,Positive,0.57,MERGE
+103,User wants to improve C++ skills,2026-04-11 10:20:00,4,123,Goal,Positive,0.55,DELETE
+104,User is building a Python system,2026-07-10 16:26:00,0,33,Goal,Positive,0.53,COMPRESS
+105,User discussed a JavaScript assignment,2025-07-28 13:35:00,2,380,Fact,Positive,0.29,DELETE
+106,User prefers mobile application for programming,2025-06-12 13:35:00,0,426,Preference,Positive,0.17,DELETE
+107,User is working on a pandas project,2025-05-01 19:53:00,2,468,Goal,None,0.12,DELETE
+108,User frequently asks about NumPy,2026-04-29 12:29:00,10,105,Fact,Positive,0.72,KEEP
+109,User wants cybersecurity remembered across conversations,2025-03-13 13:49:00,17,517,Goal,Positive,0.63,COMPRESS
+110,User is building a Python system,2025-10-17 20:19:00,18,299,Goal,Positive,0.69,DELETE
+111,User discussed a trees assignment,2026-05-11 14:21:00,10,93,Fact,Positive,0.68,COMPRESS
+112,User wants to learn mobile application,2026-08-09 15:14:00,19,3,Goal,Positive,0.95,KEEP
+113,User wants operating systems remembered across conversations,2026-01-31 19:50:00,18,193,Goal,None,0.67,KEEP
+114,User wants to improve competitive programming skills,2025-12-06 10:55:00,19,249,Goal,Positive,0.79,KEEP
+115,User prefers projects explanations,2025-06-08 10:30:00,16,430,Preference,Positive,0.57,COMPRESS
+116,User is working on a presentations project,2026-07-01 15:20:00,12,42,Goal,None,0.68,COMPRESS
+117,User frequently asks for data science ideas,2025-08-29 19:43:00,22,348,Preference,None,0.6,COMPRESS
+118,User is working on a artificial intelligence project,2026-03-31 11:44:00,5,134,Goal,Positive,0.51,KEEP
+119,User is developing a software engineering,2026-03-18 11:15:00,9,147,Goal,Positive,0.65,KEEP
+120,User is working on a operating systems project,2025-09-04 16:58:00,11,342,Goal,Positive,0.49,COMPRESS
+121,User is interested in Python,2026-04-22 13:43:00,10,112,Preference,Positive,0.72,MERGE
+122,User prefers APIs answers,2025-09-14 16:54:00,5,332,Preference,None,0.29,COMPRESS
+123,User frequently asks about dynamic programming,2026-01-03 18:18:00,28,221,Fact,Positive,0.85,KEEP
+124,User prefers Python answers,2026-08-03 19:49:00,15,9,Preference,Positive,0.89,KEEP
+125,User wants Git remembered across conversations,2025-08-24 18:51:00,6,353,Goal,Neutral,0.29,DELETE
+126,User wants help preparing cybersecurity,2025-04-10 19:41:00,0,489,Goal,Negative,0.01,MERGE
+127,User prefers machine learning explanations,2025-10-30 14:47:00,7,286,Preference,Positive,0.47,DELETE
+128,User is developing a linked lists,2026-05-29 13:53:00,2,75,Goal,None,0.48,DELETE
+129,User prefers presentations answers,2025-04-28 16:04:00,2,471,Preference,None,0.19,DELETE
+130,User frequently asks about graphs,2026-01-10 10:50:00,6,214,Fact,Positive,0.43,COMPRESS
+131,User wants help preparing React,2026-01-26 19:23:00,1,198,Goal,Positive,0.33,DELETE
+132,User wants to improve college skills,2025-08-15 19:04:00,12,362,Goal,Positive,0.5,COMPRESS
+133,User is working on a cybersecurity project,2025-02-16 09:19:00,29,542,Goal,Positive,0.62,COMPRESS
+134,User frequently asks about pandas,2026-01-15 19:47:00,14,209,Fact,Positive,0.68,MERGE
+135,User wants projects remembered across conversations,2025-04-12 16:39:00,7,487,Goal,None,0.2,MERGE
+136,User discussed a data analysis assignment,2025-08-30 14:06:00,27,347,Fact,Positive,0.72,KEEP
+137,User prefers computer networks for programming,2025-10-10 12:07:00,24,306,Preference,Negative,0.51,COMPRESS
+138,User is interested in Java,2025-02-21 21:21:00,4,537,Preference,Positive,0.3,COMPRESS
+139,User prefers graphs instructions,2025-08-01 18:13:00,17,376,Preference,Positive,0.62,MERGE
+140,User frequently asks for Python ideas,2025-10-11 11:08:00,10,305,Preference,Negative,0.29,DELETE
+141,User prefers Python explanations,2026-01-02 21:50:00,4,222,Preference,Positive,0.39,COMPRESS
+142,User wants help preparing projects,2026-06-23 10:47:00,1,50,Goal,Positive,0.51,COMPRESS
+143,User discussed a regular expressions assignment,2025-08-15 18:02:00,15,362,Fact,None,0.46,COMPRESS
+144,User is interested in Java,2025-03-04 16:54:00,7,526,Preference,Neutral,0.29,DELETE
+145,User is working on a machine learning project,2025-11-26 18:09:00,1,259,Goal,Positive,0.34,DELETE
+146,User is developing a operating systems,2026-06-28 13:29:00,9,45,Goal,Positive,0.74,KEEP
+147,User is interested in graphs,2025-08-09 15:28:00,20,368,Preference,Positive,0.69,COMPRESS
+148,User wants help preparing artificial intelligence,2025-11-17 15:20:00,13,268,Goal,Positive,0.54,DELETE
+149,User is working on a machine learning project,2025-03-29 10:27:00,1,501,Goal,Neutral,0.19,DELETE
+150,User frequently asks for graphs ideas,2026-07-30 14:42:00,1,13,Preference,Positive,0.58,MERGE
+151,User is building a JavaScript system,2025-10-22 18:19:00,6,294,Goal,Positive,0.37,DELETE
+152,User wants to learn artificial intelligence,2025-12-25 17:23:00,1,230,Goal,Positive,0.32,DELETE
+153,User wants to improve graphs skills,2025-01-27 18:59:00,13,562,Goal,Neutral,0.37,MERGE
+154,User prefers GitHub instructions,2025-12-14 14:00:00,2,241,Preference,Positive,0.38,COMPRESS
+155,User wants help preparing Java,2025-04-04 20:33:00,3,495,Goal,Positive,0.25,MERGE
+156,User wants help preparing college,2026-08-05 18:05:00,20,7,Goal,Positive,0.99,KEEP
+157,User is working on a Node.js project,2026-03-30 19:27:00,8,135,Goal,Positive,0.57,MERGE
+158,User is working on a exam preparation project,2026-03-17 10:18:00,13,148,Goal,Positive,0.7,KEEP
+159,User wants to learn computer networks,2025-02-26 09:13:00,5,532,Goal,Positive,0.27,MERGE
+160,User is developing a web development,2025-01-08 16:47:00,7,581,Goal,Positive,0.36,MERGE
+161,User wants to improve exam preparation skills,2025-03-15 15:55:00,15,515,Goal,Positive,0.53,KEEP
+162,User is developing a dynamic programming,2026-03-16 18:25:00,14,149,Goal,Positive,0.68,KEEP
+163,User is developing a SQL,2026-04-17 20:58:00,6,117,Goal,Positive,0.53,COMPRESS
+164,User frequently asks about linked lists,2025-03-22 15:55:00,5,508,Fact,Positive,0.29,COMPRESS
+165,User wants to improve web development skills,2026-06-28 17:12:00,21,45,Goal,Positive,0.98,COMPRESS
+166,User is building a databases system,2025-08-30 10:09:00,4,347,Goal,Positive,0.27,DELETE
+167,User is working on a DSA project,2026-05-21 16:48:00,10,83,Goal,Positive,0.72,COMPRESS
+168,User is interested in college,2025-11-20 11:28:00,1,265,Preference,Positive,0.29,MERGE
+169,User prefers exam preparation for programming,2026-06-04 10:19:00,8,69,Preference,Positive,0.65,COMPRESS
+170,User is interested in machine learning,2026-06-04 15:29:00,11,69,Preference,None,0.66,KEEP
+171,User wants dynamic programming remembered across conversations,2025-07-12 14:38:00,8,396,Goal,Positive,0.33,COMPRESS
+172,User wants presentations remembered across conversations,2025-03-28 17:41:00,2,502,Goal,Positive,0.24,DELETE
+173,User wants to improve SQL skills,2026-01-08 14:58:00,4,216,Goal,Positive,0.41,COMPRESS
+174,User prefers presentations instructions,2025-03-09 14:06:00,10,521,Preference,Positive,0.4,DELETE
+175,User wants databases remembered across conversations,2025-12-08 10:37:00,13,247,Goal,None,0.48,MERGE
+176,User is interested in computer networks,2025-05-13 18:45:00,23,456,Preference,Positive,0.64,MERGE
+177,User is building a cybersecurity system,2026-06-24 10:41:00,13,49,Goal,Positive,0.74,KEEP
+178,User wants to learn presentations,2026-05-13 12:14:00,30,91,Goal,Positive,0.89,COMPRESS
+179,User wants to improve trees skills,2026-06-24 09:42:00,5,49,Goal,Neutral,0.5,COMPRESS
+180,User prefers DSA explanations,2025-06-19 20:28:00,0,419,Preference,Positive,0.23,DELETE
+181,User frequently asks for Git ideas,2026-04-05 12:34:00,4,129,Preference,None,0.45,DELETE
+182,User wants to learn software engineering,2026-08-08 16:29:00,16,4,Goal,Neutral,0.84,KEEP
+183,User prefers cloud computing explanations,2025-05-22 13:03:00,12,447,Preference,None,0.38,COMPRESS
+184,User is building a linked lists system,2025-05-08 13:05:00,16,461,Goal,Positive,0.61,KEEP
+185,User frequently asks about machine learning,2025-08-16 16:56:00,6,361,Fact,Positive,0.29,DELETE
+186,User wants to learn operating systems,2025-03-25 14:14:00,0,505,Goal,None,0.14,DELETE
+187,User prefers databases instructions,2025-05-21 09:18:00,22,448,Preference,Positive,0.69,MERGE
+188,User discussed a data analysis assignment,2025-01-06 10:01:00,4,583,Fact,None,0.2,DELETE
+189,User wants to improve APIs skills,2025-04-24 21:18:00,3,475,Goal,Positive,0.24,DELETE
+190,User frequently asks for pandas ideas,2025-03-06 10:53:00,21,524,Preference,Positive,0.59,COMPRESS
+191,User wants to learn databases,2025-10-26 15:00:00,11,290,Goal,Positive,0.51,MERGE
+192,User is working on a linked lists project,2026-01-05 10:33:00,10,219,Goal,Negative,0.42,KEEP
+193,User is building a NumPy system,2025-02-14 19:24:00,27,544,Goal,Positive,0.59,MERGE
+194,User is developing a mobile application,2025-04-17 21:37:00,15,482,Goal,Positive,0.48,COMPRESS
+195,User is building a DSA system,2026-04-21 20:30:00,12,113,Goal,Negative,0.51,MERGE
+196,User discussed a C++ assignment,2025-10-28 12:02:00,17,288,Fact,None,0.53,COMPRESS
+197,User frequently asks about trees,2026-04-30 13:02:00,15,104,Fact,Positive,0.77,COMPRESS
+198,User is building a presentations system,2025-10-07 10:51:00,6,309,Goal,None,0.32,DELETE
+199,User frequently asks about presentations,2025-07-11 16:44:00,9,397,Fact,None,0.3,DELETE
+200,User wants help preparing APIs,2025-03-22 15:38:00,29,508,Goal,Positive,0.63,KEEP
+201,User is developing a Git,2025-11-10 16:38:00,14,275,Goal,Positive,0.59,COMPRESS
+202,User wants help preparing exam preparation,2026-03-22 13:40:00,27,143,Goal,None,0.71,KEEP
+203,User is developing a regular expressions,2025-06-13 09:09:00,19,425,Goal,Neutral,0.55,KEEP
+204,User wants to learn software engineering,2026-01-06 15:36:00,0,218,Goal,Positive,0.33,MERGE
+205,User discussed a data science assignment,2026-08-11 11:33:00,6,1,Fact,Positive,0.66,DELETE
+206,User prefers DSA for programming,2026-05-27 17:24:00,22,77,Preference,Positive,0.96,KEEP
+207,User wants to learn Git,2026-05-18 12:07:00,2,86,Goal,Positive,0.47,MERGE
+208,User is working on a college project,2025-12-22 20:04:00,10,233,Goal,Positive,0.53,KEEP
+209,User wants help preparing DSA,2026-01-06 17:14:00,1,218,Goal,Positive,0.32,DELETE
+210,User prefers software engineering for programming,2026-07-22 18:23:00,8,21,Preference,None,0.57,DELETE
+211,User is working on a GitHub project,2026-02-12 20:46:00,8,181,Goal,Positive,0.55,COMPRESS
+212,User prefers college explanations,2025-03-17 16:29:00,13,513,Preference,Positive,0.54,MERGE
+213,User is interested in competitive programming,2025-07-06 21:08:00,7,402,Preference,None,0.2,COMPRESS
+214,User prefers GitHub explanations,2025-06-18 11:20:00,23,420,Preference,Positive,0.7,KEEP
+215,User prefers machine learning answers,2025-09-14 12:40:00,24,332,Preference,Positive,0.7,KEEP
+216,User is working on a regular expressions project,2025-06-22 18:37:00,2,416,Goal,Neutral,0.2,DELETE
+217,User is building a dynamic programming system,2025-02-12 09:05:00,0,546,Goal,Neutral,0.14,DELETE
+218,User prefers dynamic programming instructions,2026-03-03 18:40:00,0,162,Preference,None,0.3,DELETE
+219,User prefers NumPy answers,2025-09-08 21:51:00,13,338,Preference,Positive,0.47,KEEP
+220,User discussed a projects assignment,2026-05-11 16:13:00,5,93,Fact,Positive,0.62,COMPRESS
+221,User is building a exam preparation system,2026-02-13 11:48:00,6,180,Goal,Positive,0.49,COMPRESS
+222,User prefers data analysis answers,2025-09-11 11:06:00,0,335,Preference,None,0.17,DELETE
+223,User is building a SQL system,2025-12-02 18:46:00,5,253,Goal,Neutral,0.35,DELETE
+224,User discussed a GitHub assignment,2026-05-25 09:05:00,24,79,Fact,Positive,0.98,KEEP
+225,User is developing a JavaScript,2025-02-21 13:31:00,11,537,Goal,None,0.37,MERGE
+226,User prefers artificial intelligence for programming,2026-03-18 11:56:00,4,147,Preference,Positive,0.49,KEEP
+227,User prefers dynamic programming for programming,2026-07-30 12:23:00,10,13,Preference,Positive,0.76,KEEP
+228,User prefers web development answers,2025-05-12 10:25:00,6,457,Preference,None,0.24,MERGE
+229,User prefers cloud computing explanations,2026-06-06 15:32:00,0,67,Preference,Positive,0.51,MERGE
+230,User wants to improve pandas skills,2025-06-02 18:57:00,9,436,Goal,Positive,0.42,KEEP
+231,User frequently asks for GitHub ideas,2025-12-11 17:53:00,9,244,Preference,Positive,0.53,COMPRESS
+232,User prefers software engineering for programming,2025-12-06 19:07:00,27,249,Preference,Positive,0.8,KEEP
+233,User wants help preparing Java,2026-05-01 13:41:00,16,103,Goal,Neutral,0.75,KEEP
+234,User frequently asks for NumPy ideas,2025-06-24 17:40:00,14,414,Preference,Neutral,0.43,MERGE
+235,User wants to learn C++,2026-08-10 20:07:00,3,2,Goal,Positive,0.61,COMPRESS
+236,User wants to learn projects,2026-05-29 21:39:00,22,75,Goal,None,0.86,KEEP
+237,User prefers linked lists explanations,2025-08-01 17:20:00,30,376,Preference,Positive,0.64,DELETE
+238,User discussed a trees assignment,2025-12-17 17:22:00,13,238,Fact,None,0.54,MERGE
+239,User prefers NumPy answers,2025-07-16 12:17:00,10,392,Preference,Positive,0.48,COMPRESS
+240,User prefers NLP answers,2026-05-16 14:30:00,6,88,Preference,None,0.54,COMPRESS
+241,User is working on a dynamic programming project,2026-07-11 15:57:00,27,32,Goal,Negative,0.87,COMPRESS
+242,User prefers C++ answers,2025-10-22 20:05:00,6,294,Preference,Positive,0.37,DELETE
+243,User wants to learn trees,2025-10-05 17:44:00,4,311,Goal,Positive,0.37,MERGE
+244,User prefers linked lists for programming,2025-08-20 19:14:00,0,357,Preference,Positive,0.23,COMPRESS
+245,User prefers cybersecurity instructions,2025-01-06 17:59:00,2,583,Preference,Neutral,0.22,DELETE
+246,User is interested in cloud computing,2025-10-22 14:18:00,12,294,Preference,None,0.39,DELETE
+247,User wants to improve C++ skills,2025-06-29 15:56:00,18,409,Goal,None,0.45,MERGE
+248,User prefers deep learning instructions,2025-07-10 20:55:00,22,398,Preference,None,0.49,COMPRESS
+249,User is working on a presentations project,2025-10-19 16:41:00,10,297,Goal,Positive,0.54,DELETE
+250,User discussed a Node.js assignment,2025-07-17 21:07:00,5,391,Fact,Neutral,0.26,DELETE
+251,User prefers presentations for programming,2025-10-30 18:43:00,15,286,Preference,Positive,0.66,DELETE
+252,User is building a APIs system,2026-06-12 14:05:00,7,61,Goal,Positive,0.71,KEEP
+253,User wants mobile application remembered across conversations,2025-01-07 13:24:00,3,582,Goal,Neutral,0.25,MERGE
+254,User wants help preparing dynamic programming,2025-01-12 13:41:00,6,577,Goal,Positive,0.36,DELETE
+255,User prefers computer networks explanations,2026-05-30 20:49:00,5,74,Preference,Positive,0.64,COMPRESS
+256,User frequently asks for chatbot ideas,2025-08-13 11:30:00,2,364,Preference,Neutral,0.19,DELETE
+257,User wants to improve NumPy skills,2026-07-05 21:42:00,18,38,Goal,Neutral,0.87,KEEP
+258,User prefers machine learning instructions,2026-06-23 16:33:00,14,50,Preference,Positive,0.82,KEEP
+259,User wants to improve regular expressions skills,2025-07-27 18:34:00,2,381,Goal,Positive,0.25,COMPRESS
+260,User wants to learn competitive programming,2026-05-16 10:57:00,9,88,Goal,Negative,0.51,COMPRESS
+261,User discussed a dynamic programming assignment,2025-03-01 17:29:00,13,529,Fact,Positive,0.44,COMPRESS
+262,User prefers NLP for programming,2025-03-16 09:27:00,5,514,Preference,Positive,0.37,DELETE
+263,User is working on a NumPy project,2025-02-02 13:26:00,2,556,Goal,Positive,0.26,DELETE
+264,User frequently asks about software engineering,2026-01-27 16:55:00,22,197,Fact,Positive,0.76,MERGE
+265,User is building a trees system,2025-05-17 19:55:00,6,452,Goal,Positive,0.34,DELETE
+266,User wants help preparing chatbot,2025-01-04 21:01:00,26,585,Goal,Positive,0.68,COMPRESS
+267,User frequently asks about chatbot,2025-09-11 16:22:00,2,335,Fact,Positive,0.32,DELETE
+268,User prefers projects for programming,2025-01-17 12:13:00,1,572,Preference,Positive,0.22,DELETE
+269,User is building a JavaScript system,2025-09-08 20:02:00,7,338,Goal,Positive,0.35,DELETE
+270,User prefers cybersecurity for programming,2026-05-31 13:14:00,17,73,Preference,Neutral,0.77,KEEP
+271,User is interested in college,2025-08-31 13:56:00,2,346,Preference,Neutral,0.16,MERGE
+272,User prefers graphs for programming,2025-06-29 19:43:00,7,409,Preference,Positive,0.41,DELETE
+273,User is interested in operating systems,2026-06-22 14:44:00,7,51,Preference,Positive,0.64,MERGE
+274,User discussed a mobile application assignment,2025-08-19 13:54:00,14,358,Fact,Negative,0.42,COMPRESS
+275,User frequently asks about graphs,2026-06-27 11:24:00,4,46,Fact,Positive,0.61,DELETE
+276,User is building a software engineering system,2025-04-05 17:46:00,18,494,Goal,Positive,0.59,COMPRESS
+277,User prefers data science for programming,2025-07-12 21:48:00,11,396,Preference,Neutral,0.34,MERGE
+278,User wants presentations remembered across conversations,2025-11-07 09:13:00,23,278,Goal,None,0.59,DELETE
+279,User discussed a mobile application assignment,2025-07-29 15:58:00,4,379,Fact,Positive,0.26,DELETE
+280,User is interested in exam preparation,2025-11-12 13:23:00,9,273,Preference,Positive,0.44,DELETE
+281,User discussed a college assignment,2025-07-28 14:20:00,7,380,Fact,Positive,0.32,COMPRESS
+282,User prefers graphs answers,2026-03-04 13:09:00,3,161,Preference,Positive,0.47,COMPRESS
+283,User wants to improve presentations skills,2025-09-21 21:52:00,8,325,Goal,Neutral,0.38,DELETE
+284,User wants help preparing exam preparation,2025-06-23 11:46:00,10,415,Goal,Positive,0.47,DELETE
+285,User prefers linked lists for programming,2025-02-04 10:52:00,13,554,Preference,Neutral,0.41,MERGE
+286,User wants to learn data science,2025-06-04 09:13:00,9,434,Goal,Positive,0.42,MERGE
+287,User frequently asks for NumPy ideas,2026-05-15 09:00:00,9,89,Preference,Positive,0.61,MERGE
+288,User wants to improve Git skills,2025-01-18 17:52:00,14,571,Goal,Positive,0.57,KEEP
+289,User wants artificial intelligence remembered across conversations,2026-06-21 11:15:00,3,52,Goal,Positive,0.61,COMPRESS
+290,User frequently asks about machine learning,2026-01-18 15:29:00,10,206,Fact,None,0.44,MERGE
+291,User is building a machine learning system,2025-02-02 10:25:00,6,556,Goal,Positive,0.28,COMPRESS
+292,User prefers machine learning explanations,2026-05-27 15:41:00,16,77,Preference,Positive,0.88,KEEP
+293,User wants to improve C++ skills,2025-08-24 12:57:00,20,353,Goal,None,0.56,KEEP
+294,User is working on a Node.js project,2026-07-11 18:42:00,0,32,Goal,None,0.4,DELETE
+295,User frequently asks for databases ideas,2026-02-12 10:19:00,2,181,Preference,Positive,0.46,COMPRESS
+296,User wants trees remembered across conversations,2025-12-06 15:48:00,15,249,Goal,Negative,0.52,KEEP
+297,User wants help preparing exam preparation,2025-02-24 10:27:00,3,534,Goal,Positive,0.28,DELETE
+298,User frequently asks for computer networks ideas,2025-12-01 09:40:00,4,254,Preference,None,0.3,MERGE
+299,User frequently asks about APIs,2025-07-10 19:37:00,13,398,Fact,Positive,0.51,MERGE
+300,User wants help preparing data science,2025-03-26 13:09:00,6,504,Goal,Negative,0.14,MERGE
+301,User is developing a artificial intelligence,2025-04-04 09:19:00,8,495,Goal,Neutral,0.26,COMPRESS
+302,User frequently asks about data analysis,2026-07-25 17:32:00,7,18,Fact,Positive,0.67,KEEP
+303,User frequently asks for college ideas,2026-01-30 09:18:00,7,194,Preference,Neutral,0.48,COMPRESS
+304,User wants to learn dynamic programming,2026-06-18 11:43:00,6,55,Goal,Positive,0.61,COMPRESS
+305,User is working on a SQL project,2026-03-22 13:26:00,5,143,Goal,Negative,0.36,DELETE
+306,User wants help preparing deep learning,2025-07-20 16:06:00,2,388,Goal,Positive,0.23,DELETE
+307,User frequently asks about presentations,2026-03-27 14:27:00,17,138,Fact,None,0.76,KEEP
+308,User is developing a cloud computing,2026-05-06 14:11:00,25,98,Goal,None,0.78,KEEP
+309,User discussed a dynamic programming assignment,2025-09-06 14:24:00,4,340,Fact,Negative,0.15,DELETE
+310,User wants to learn competitive programming,2026-07-13 11:43:00,16,30,Goal,Positive,0.91,MERGE
+311,User wants to learn data analysis,2025-10-26 20:04:00,18,290,Goal,Negative,0.52,COMPRESS
+312,User is interested in GitHub,2025-09-05 13:42:00,2,341,Preference,Positive,0.25,DELETE
+313,User frequently asks for NumPy ideas,2026-02-15 17:32:00,22,178,Preference,None,0.72,KEEP
+314,User is developing a trees,2025-03-29 10:49:00,4,501,Goal,Neutral,0.18,DELETE
+315,User frequently asks for computer networks ideas,2025-12-06 21:27:00,1,249,Preference,Positive,0.3,DELETE
+316,User wants to improve competitive programming skills,2026-08-13 12:28:00,6,0,Goal,Positive,0.71,KEEP
+317,User prefers exam preparation explanations,2025-01-26 16:06:00,5,563,Preference,None,0.16,DELETE
+318,User wants help preparing databases,2025-12-23 13:21:00,8,232,Goal,Positive,0.51,COMPRESS
+319,User discussed a data analysis assignment,2025-11-23 10:19:00,0,262,Fact,Neutral,0.17,MERGE
+320,User is working on a SQL project,2025-09-07 17:11:00,10,339,Goal,Positive,0.44,COMPRESS
+321,User prefers computer networks instructions,2025-07-08 11:40:00,13,400,Preference,Positive,0.52,DELETE
+322,User discussed a competitive programming assignment,2026-03-16 15:00:00,14,149,Fact,Positive,0.75,COMPRESS
+323,User is working on a dynamic programming project,2025-04-15 21:55:00,10,484,Goal,Positive,0.39,COMPRESS
+324,User is interested in deep learning,2026-06-25 19:20:00,11,48,Preference,Positive,0.76,KEEP
+325,User is building a pandas system,2025-06-26 19:45:00,17,412,Goal,None,0.49,MERGE
+326,User is developing a web development,2025-09-02 13:07:00,3,344,Goal,Neutral,0.22,DELETE
+327,User prefers dynamic programming explanations,2026-01-28 15:11:00,8,196,Preference,Positive,0.59,DELETE
+328,User prefers graphs explanations,2025-06-20 16:18:00,2,418,Preference,Positive,0.24,COMPRESS
+329,User is developing a Python,2026-05-12 11:12:00,17,92,Goal,None,0.74,KEEP
+330,User is interested in deep learning,2026-03-02 20:53:00,8,163,Preference,Positive,0.58,MERGE
+331,User wants to learn Git,2025-02-03 13:14:00,10,555,Goal,Positive,0.42,MERGE
+332,User prefers deep learning instructions,2026-07-17 17:07:00,10,26,Preference,Positive,0.76,MERGE
+333,User wants to improve C++ skills,2026-03-28 17:13:00,28,137,Goal,Positive,0.91,KEEP
+334,User prefers C++ answers,2026-04-06 13:22:00,19,128,Preference,Positive,0.9,KEEP
+335,User prefers mobile application instructions,2025-08-03 21:47:00,11,374,Preference,Positive,0.47,COMPRESS
+336,User prefers cybersecurity explanations,2025-07-31 12:51:00,0,377,Preference,Positive,0.17,DELETE
+337,User is developing a Git,2025-10-24 18:17:00,24,292,Goal,Positive,0.77,COMPRESS
+338,User prefers projects explanations,2025-03-02 13:55:00,13,528,Preference,Neutral,0.38,COMPRESS
+339,User is developing a mobile application,2026-02-07 16:09:00,11,186,Goal,Positive,0.61,COMPRESS
+340,User is interested in machine learning,2026-02-17 17:47:00,4,176,Preference,None,0.36,DELETE
+341,User is developing a competitive programming,2025-01-03 21:54:00,15,586,Goal,Neutral,0.46,MERGE
+342,User is developing a data science,2026-07-02 15:13:00,25,41,Goal,Negative,0.81,KEEP
+343,User prefers presentations answers,2026-07-15 18:08:00,10,28,Preference,Positive,0.73,KEEP
+344,User prefers C++ for programming,2025-04-12 19:50:00,18,487,Preference,Positive,0.66,KEEP
+345,User discussed a Python assignment,2026-03-15 12:44:00,22,150,Fact,None,0.73,COMPRESS
+346,User wants Node.js remembered across conversations,2025-04-06 19:23:00,4,493,Goal,Positive,0.34,COMPRESS
+347,User frequently asks about GitHub,2025-08-28 15:41:00,1,349,Fact,Positive,0.2,COMPRESS
+348,User frequently asks for chatbot ideas,2026-06-16 19:28:00,0,57,Preference,Neutral,0.46,DELETE
+349,User frequently asks about cybersecurity,2026-05-05 10:14:00,6,99,Fact,Neutral,0.47,COMPRESS
+350,User wants GitHub remembered across conversations,2025-05-21 15:49:00,17,448,Goal,None,0.5,MERGE
+351,User is working on a linked lists project,2026-07-31 09:39:00,12,12,Goal,Positive,0.84,KEEP
+352,User prefers projects explanations,2026-03-30 12:05:00,21,135,Preference,Positive,0.83,KEEP
+353,User is developing a APIs,2025-11-19 21:08:00,4,266,Goal,Neutral,0.28,DELETE
+354,User wants help preparing Git,2025-01-28 19:56:00,5,561,Goal,Positive,0.31,DELETE
+355,User prefers JavaScript answers,2025-09-03 16:24:00,1,343,Preference,Positive,0.25,DELETE
+356,User prefers software engineering for programming,2025-11-21 11:24:00,19,264,Preference,Positive,0.71,KEEP
+357,User prefers NumPy instructions,2025-03-16 09:37:00,1,514,Preference,Positive,0.17,COMPRESS
+358,User prefers computer networks instructions,2026-06-03 13:40:00,14,70,Preference,Neutral,0.72,KEEP
+359,User is interested in trees,2026-07-05 18:09:00,4,38,Preference,Positive,0.6,COMPRESS
+360,User prefers databases instructions,2026-07-04 14:25:00,11,39,Preference,Neutral,0.71,KEEP
+361,User prefers APIs answers,2025-09-02 09:15:00,1,344,Preference,Positive,0.24,DELETE
+362,User prefers DSA answers,2025-05-03 09:45:00,2,466,Preference,Positive,0.24,MERGE
+363,User wants to improve React skills,2025-06-20 14:08:00,15,418,Goal,None,0.47,KEEP
+364,User wants Java remembered across conversations,2025-12-10 21:27:00,4,245,Goal,Positive,0.43,COMPRESS
+365,User is working on a deep learning project,2026-04-12 17:23:00,0,122,Goal,None,0.29,COMPRESS
+366,User prefers artificial intelligence instructions,2026-08-11 19:46:00,1,1,Preference,Neutral,0.44,DELETE
+367,User prefers mobile application for programming,2025-02-17 16:23:00,6,541,Preference,Positive,0.39,DELETE
+368,User wants to improve projects skills,2025-08-18 14:15:00,7,359,Goal,Neutral,0.27,COMPRESS
+369,User is developing a web development,2026-05-30 19:57:00,0,74,Goal,Positive,0.48,KEEP
+370,User frequently asks about data science,2026-04-22 13:49:00,19,112,Fact,Positive,0.88,KEEP
+371,User wants to learn Git,2026-08-01 21:19:00,15,11,Goal,Positive,0.86,MERGE
+372,User prefers cloud computing instructions,2026-07-14 21:50:00,4,29,Preference,Positive,0.6,COMPRESS
+373,User is developing a Python,2025-12-10 09:48:00,13,245,Goal,None,0.53,KEEP
+374,User wants to improve mobile application skills,2026-03-06 16:03:00,26,159,Goal,Positive,0.82,KEEP
+375,User wants to learn linked lists,2026-02-27 20:57:00,6,166,Goal,None,0.38,COMPRESS
+376,User prefers computer networks explanations,2025-03-18 18:36:00,0,512,Preference,Neutral,0.09,MERGE
+377,User is building a college system,2026-02-07 20:53:00,15,186,Goal,Positive,0.68,KEEP
+378,User wants to learn cybersecurity,2025-04-22 11:06:00,2,477,Goal,Positive,0.23,DELETE
+379,User prefers NLP instructions,2026-04-08 13:29:00,4,126,Preference,Positive,0.48,MERGE
+380,User is building a C++ system,2025-08-09 14:09:00,1,368,Goal,Positive,0.21,DELETE
+381,User is interested in GitHub,2025-09-24 11:01:00,24,322,Preference,None,0.6,COMPRESS
+382,User is working on a pandas project,2025-04-15 21:50:00,2,484,Goal,Positive,0.28,DELETE
+383,User prefers cloud computing explanations,2026-02-15 14:43:00,12,178,Preference,Neutral,0.59,COMPRESS
+384,User is building a data science system,2025-01-23 10:12:00,21,566,Goal,Positive,0.61,DELETE
+385,User is building a presentations system,2025-05-06 09:29:00,0,463,Goal,None,0.09,DELETE
+386,User discussed a Java assignment,2026-01-27 19:27:00,2,197,Fact,Positive,0.37,MERGE
+387,User wants databases remembered across conversations,2025-02-05 18:39:00,12,553,Goal,Neutral,0.4,DELETE
+388,User discussed a JavaScript assignment,2025-03-31 13:24:00,2,499,Fact,Positive,0.29,DELETE
+389,User is interested in trees,2025-01-20 15:50:00,14,569,Preference,Positive,0.55,COMPRESS
+390,User frequently asks for regular expressions ideas,2025-11-26 15:17:00,2,259,Preference,Positive,0.31,DELETE
+391,User prefers Node.js instructions,2025-03-01 21:30:00,9,529,Preference,Neutral,0.39,DELETE
+392,User is working on a mobile application project,2025-09-04 13:34:00,17,342,Goal,None,0.45,DELETE
+393,User wants to learn dynamic programming,2026-02-02 14:59:00,18,191,Goal,None,0.63,COMPRESS
+394,User prefers exam preparation instructions,2025-01-29 20:44:00,6,560,Preference,Positive,0.29,DELETE
+395,User is building a deep learning system,2026-07-10 13:11:00,9,33,Goal,Positive,0.69,COMPRESS
+396,User wants to improve NumPy skills,2025-01-01 14:58:00,11,588,Goal,Negative,0.28,COMPRESS
+397,User prefers college instructions,2025-03-02 09:09:00,11,528,Preference,None,0.38,DELETE
+398,User is building a software engineering system,2025-03-16 14:45:00,23,514,Goal,Positive,0.6,COMPRESS
+399,User prefers SQL explanations,2026-03-24 21:40:00,25,141,Preference,Neutral,0.76,MERGE
+400,User wants help preparing exam preparation,2025-08-17 19:37:00,17,360,Goal,Positive,0.62,COMPRESS
+401,User prefers Python explanations,2026-08-10 15:54:00,29,2,Preference,None,0.84,KEEP
+402,User wants chatbot remembered across conversations,2026-08-03 10:59:00,9,9,Goal,Positive,0.69,COMPRESS
+403,User is developing a SQL,2025-04-01 20:42:00,12,498,Goal,None,0.36,MERGE
+404,User wants to learn data science,2025-12-25 13:50:00,1,230,Goal,Positive,0.34,DELETE
+405,User prefers projects explanations,2026-05-20 15:22:00,10,84,Preference,Positive,0.69,DELETE
+406,User is interested in chatbot,2025-06-16 16:04:00,17,422,Preference,Positive,0.52,COMPRESS
+407,User is working on a data science project,2025-12-17 11:56:00,6,238,Goal,Neutral,0.39,DELETE
+408,User is working on a presentations project,2026-05-10 20:01:00,7,94,Goal,Neutral,0.56,COMPRESS
+409,User prefers artificial intelligence for programming,2025-12-06 12:12:00,7,249,Preference,Positive,0.52,COMPRESS
+410,User is interested in Git,2025-11-01 12:06:00,0,284,Preference,Positive,0.32,COMPRESS
+411,User is developing a Python,2026-03-14 10:18:00,18,151,Goal,Neutral,0.74,KEEP
+412,User wants to learn SQL,2025-10-26 10:30:00,19,290,Goal,Positive,0.69,COMPRESS
+413,User is interested in React,2025-04-04 19:34:00,6,495,Preference,Positive,0.32,COMPRESS
+414,User prefers React for programming,2026-03-27 16:16:00,3,138,Preference,Positive,0.43,MERGE
+415,User is interested in artificial intelligence,2025-03-29 19:22:00,17,501,Preference,Positive,0.61,COMPRESS
+416,User prefers operating systems for programming,2026-06-20 15:34:00,13,53,Preference,None,0.7,KEEP
+417,User prefers machine learning answers,2026-02-09 20:02:00,9,184,Preference,None,0.51,MERGE
+418,User frequently asks for databases ideas,2025-05-04 21:28:00,2,465,Preference,None,0.2,DELETE
+419,User prefers C++ explanations,2026-03-10 10:43:00,7,155,Preference,None,0.47,MERGE
+420,User prefers college answers,2025-03-10 10:24:00,10,520,Preference,Positive,0.47,COMPRESS
+421,User wants Python remembered across conversations,2026-06-20 21:26:00,1,53,Goal,Positive,0.53,COMPRESS
+422,User is working on a artificial intelligence project,2026-07-31 21:06:00,16,12,Goal,None,0.84,COMPRESS
+423,User prefers operating systems answers,2026-05-13 18:38:00,8,91,Preference,Positive,0.63,COMPRESS
+424,User is interested in computer networks,2025-02-09 15:56:00,20,549,Preference,Neutral,0.53,COMPRESS
+425,User prefers software engineering answers,2025-01-21 14:52:00,17,568,Preference,Positive,0.62,DELETE
+426,User is interested in artificial intelligence,2025-08-22 11:19:00,26,355,Preference,Positive,0.7,KEEP
+427,User frequently asks about machine learning,2025-07-12 16:13:00,22,396,Fact,Positive,0.65,COMPRESS
+428,User is developing a JavaScript,2026-06-12 21:10:00,1,61,Goal,Neutral,0.43,MERGE
+429,User wants to improve dynamic programming skills,2025-01-30 11:12:00,20,559,Goal,Positive,0.6,KEEP
+430,User prefers software engineering for programming,2025-07-23 13:23:00,18,385,Preference,Positive,0.62,KEEP
+431,User prefers mobile application for programming,2026-01-17 16:38:00,8,207,Preference,None,0.43,COMPRESS
+432,User is developing a SQL,2025-09-22 20:53:00,13,324,Goal,Positive,0.52,KEEP
+433,User frequently asks for NLP ideas,2025-08-15 19:14:00,13,362,Preference,Positive,0.48,KEEP
+434,User prefers Python instructions,2026-05-01 11:41:00,2,103,Preference,Negative,0.31,DELETE
+435,User prefers Node.js answers,2026-03-10 15:54:00,6,155,Preference,Positive,0.53,MERGE
+436,User is building a computer networks system,2025-04-15 09:32:00,30,484,Goal,None,0.59,COMPRESS
+437,User frequently asks for Git ideas,2025-11-02 19:06:00,8,283,Preference,Positive,0.43,COMPRESS
+438,User prefers React answers,2025-11-02 12:09:00,9,283,Preference,Positive,0.43,DELETE
+439,User prefers computer networks instructions,2025-11-24 19:08:00,14,261,Preference,Neutral,0.6,COMPRESS
+440,User frequently asks about computer networks,2026-02-02 20:02:00,11,191,Fact,None,0.55,COMPRESS
+441,User wants help preparing chatbot,2026-07-02 19:50:00,8,41,Goal,None,0.57,COMPRESS
+442,User prefers graphs explanations,2025-07-05 13:06:00,8,403,Preference,Neutral,0.34,DELETE
+443,User wants DSA remembered across conversations,2025-12-10 19:05:00,3,245,Goal,Positive,0.43,COMPRESS
+444,User wants presentations remembered across conversations,2026-01-16 13:37:00,5,208,Goal,None,0.36,DELETE
+445,User frequently asks for competitive programming ideas,2025-03-14 16:56:00,3,516,Preference,Positive,0.29,DELETE
+446,User frequently asks about JavaScript,2025-06-04 11:12:00,5,434,Fact,None,0.26,DELETE
+447,User prefers college explanations,2025-07-04 21:05:00,8,404,Preference,Neutral,0.27,DELETE
+448,User prefers data analysis for programming,2025-10-08 12:48:00,16,308,Preference,Positive,0.57,MERGE
+449,User prefers machine learning instructions,2025-05-13 18:27:00,12,456,Preference,Positive,0.53,COMPRESS
+450,User prefers trees for programming,2025-07-24 20:23:00,24,384,Preference,None,0.58,COMPRESS
+451,User prefers Python for programming,2025-09-12 12:44:00,20,334,Preference,Positive,0.63,COMPRESS
+452,User prefers SQL answers,2025-03-08 09:19:00,24,522,Preference,Positive,0.65,COMPRESS
+453,User frequently asks about cybersecurity,2025-12-17 16:22:00,15,238,Fact,Positive,0.71,COMPRESS
+454,User prefers chatbot for programming,2025-08-18 20:08:00,3,359,Preference,Positive,0.27,COMPRESS
+455,User wants help preparing C++,2026-01-20 19:16:00,16,204,Goal,Neutral,0.66,KEEP
+456,User is working on a Java project,2025-02-19 20:07:00,7,539,Goal,Positive,0.36,DELETE
+457,User prefers NLP explanations,2025-01-10 13:26:00,13,579,Preference,Neutral,0.39,DELETE
+458,User prefers projects explanations,2025-04-18 17:46:00,12,481,Preference,Positive,0.5,COMPRESS
+459,User frequently asks for cloud computing ideas,2025-09-27 17:12:00,6,319,Preference,Positive,0.34,DELETE
+460,User wants NLP remembered across conversations,2026-05-08 14:15:00,0,96,Goal,Neutral,0.44,MERGE
+461,User is interested in deep learning,2025-06-02 10:49:00,9,436,Preference,Neutral,0.28,MERGE
+462,User wants to learn pandas,2025-10-31 13:29:00,0,285,Goal,Negative,0.17,DELETE
+463,User is developing a college,2026-03-13 20:07:00,1,152,Goal,Neutral,0.3,DELETE
+464,User is interested in SQL,2025-12-03 14:57:00,7,252,Preference,Neutral,0.44,KEEP
+465,User is building a presentations system,2025-07-07 10:25:00,7,401,Goal,Positive,0.4,MERGE
+466,User discussed a projects assignment,2025-06-20 10:08:00,14,418,Fact,Positive,0.57,KEEP
+467,User frequently asks about competitive programming,2026-05-10 21:36:00,13,94,Fact,Positive,0.74,KEEP
+468,User prefers cybersecurity for programming,2026-05-10 16:07:00,20,94,Preference,Positive,0.86,KEEP
+469,User prefers linked lists for programming,2026-08-14 20:36:00,3,0,Preference,None,0.56,COMPRESS
+470,User wants help preparing artificial intelligence,2026-03-20 19:46:00,4,145,Goal,Positive,0.52,COMPRESS
+471,User is building a graphs system,2025-02-25 09:41:00,23,533,Goal,Positive,0.65,COMPRESS
+472,User prefers data science explanations,2026-05-19 14:15:00,5,85,Preference,Positive,0.58,COMPRESS
+473,User frequently asks about computer networks,2025-08-29 10:29:00,8,348,Fact,Positive,0.35,DELETE
+474,User is developing a web development,2026-05-25 20:41:00,0,79,Goal,Positive,0.42,COMPRESS
+475,User is building a machine learning system,2025-11-08 17:35:00,3,277,Goal,Neutral,0.34,MERGE
+476,User prefers chatbot for programming,2026-04-11 14:35:00,16,123,Preference,Positive,0.82,KEEP
+477,User discussed a web development assignment,2025-04-10 21:42:00,3,489,Fact,Positive,0.31,DELETE
+478,User prefers graphs answers,2026-06-19 14:44:00,1,54,Preference,None,0.42,MERGE
+479,User wants help preparing projects,2025-04-20 13:39:00,3,479,Goal,Positive,0.31,MERGE
+480,User is building a cloud computing system,2025-12-13 10:48:00,7,242,Goal,None,0.42,COMPRESS
+481,User prefers data analysis instructions,2026-04-14 19:37:00,24,120,Preference,Positive,0.88,KEEP
+482,User prefers graphs for programming,2026-03-20 18:30:00,22,145,Preference,Negative,0.76,KEEP
+483,User prefers cybersecurity explanations,2025-04-17 15:42:00,11,482,Preference,None,0.35,MERGE
+484,User frequently asks for mobile application ideas,2025-10-08 15:21:00,26,308,Preference,Positive,0.66,COMPRESS
+485,User wants help preparing regular expressions,2025-11-03 20:35:00,19,282,Goal,Neutral,0.69,COMPRESS
+486,User wants to learn NLP,2025-10-25 19:22:00,22,291,Goal,Positive,0.75,MERGE
+487,User prefers regular expressions explanations,2026-07-10 20:40:00,5,33,Preference,Positive,0.61,COMPRESS
+488,User frequently asks for projects ideas,2026-07-01 13:56:00,19,42,Preference,Negative,0.79,KEEP
+489,User prefers JavaScript explanations,2025-02-27 12:17:00,15,531,Preference,Positive,0.51,COMPRESS
+490,User is building a JavaScript system,2025-10-30 12:48:00,10,286,Goal,Positive,0.5,COMPRESS
+491,User is interested in graphs,2025-08-18 20:41:00,10,359,Preference,Positive,0.46,MERGE
+492,User prefers JavaScript answers,2026-01-26 15:26:00,24,198,Preference,None,0.69,COMPRESS
+493,User prefers React for programming,2025-07-27 18:55:00,16,381,Preference,None,0.5,DELETE
+494,User wants help preparing software engineering,2026-07-14 20:38:00,3,29,Goal,Neutral,0.48,COMPRESS
+495,User is interested in data science,2025-07-11 11:47:00,9,397,Preference,Positive,0.39,DELETE
+496,User prefers SQL explanations,2025-09-19 09:21:00,8,327,Preference,None,0.26,DELETE
+497,User frequently asks for JavaScript ideas,2025-11-05 16:50:00,10,280,Preference,Positive,0.54,COMPRESS
+498,User wants to learn DSA,2026-06-18 10:50:00,9,55,Goal,Positive,0.7,KEEP
+499,User wants to learn NLP,2025-12-06 14:23:00,5,249,Goal,None,0.34,DELETE
+500,User wants to improve Python skills,2025-04-28 19:22:00,8,471,Goal,None,0.29,DELETE
+501,User prefers college for programming,2026-01-26 21:07:00,6,198,Preference,Positive,0.47,DELETE
+502,User is building a software engineering system,2026-06-11 21:32:00,8,62,Goal,Positive,0.72,KEEP
+503,User wants to improve machine learning skills,2025-04-09 11:49:00,10,490,Goal,Positive,0.37,DELETE
+504,User prefers NLP instructions,2026-03-11 10:13:00,10,154,Preference,Neutral,0.61,MERGE
+505,User is interested in data science,2025-06-07 09:29:00,14,431,Preference,Positive,0.46,KEEP
+506,User prefers graphs answers,2025-03-14 18:52:00,3,516,Preference,Positive,0.25,DELETE
+507,User frequently asks about college,2025-01-18 15:43:00,1,571,Fact,Positive,0.25,COMPRESS
+508,User wants help preparing competitive programming,2025-02-16 20:54:00,1,542,Goal,None,0.08,DELETE
+509,User prefers machine learning answers,2025-10-16 21:59:00,7,300,Preference,Positive,0.44,COMPRESS
+510,User wants to improve chatbot skills,2025-05-20 20:25:00,17,449,Goal,None,0.46,COMPRESS
+511,User prefers software engineering answers,2025-01-12 17:55:00,10,577,Preference,Positive,0.37,DELETE
+512,User wants to improve graphs skills,2025-03-29 13:13:00,15,501,Goal,None,0.42,COMPRESS
+513,User is interested in regular expressions,2025-05-26 11:11:00,3,443,Preference,None,0.13,COMPRESS
+514,User prefers dynamic programming instructions,2025-02-25 21:59:00,28,533,Preference,Positive,0.67,KEEP
+515,User is interested in data science,2025-09-14 10:12:00,14,332,Preference,Positive,0.53,KEEP
+516,User is interested in mobile application,2025-04-13 13:39:00,1,486,Preference,Positive,0.22,MERGE
+517,User is interested in GitHub,2025-06-06 18:36:00,6,432,Preference,Positive,0.33,COMPRESS
+518,User wants to learn chatbot,2026-03-23 13:53:00,6,142,Goal,Neutral,0.46,COMPRESS
+519,User discussed a exam preparation assignment,2025-11-09 16:35:00,1,276,Fact,Neutral,0.19,MERGE
+520,User is building a cybersecurity system,2026-07-06 12:16:00,15,37,Goal,Neutral,0.81,COMPRESS
+521,User is building a regular expressions system,2025-02-01 18:37:00,7,557,Goal,Positive,0.41,COMPRESS
+522,User wants to improve trees skills,2026-04-29 19:49:00,2,105,Goal,Positive,0.54,COMPRESS
+523,User is building a Git system,2025-05-18 16:32:00,9,451,Goal,Positive,0.4,MERGE
+524,User is building a SQL system,2026-06-11 11:28:00,2,62,Goal,Positive,0.54,DELETE
+525,User prefers NumPy explanations,2026-01-03 09:14:00,16,221,Preference,Positive,0.67,COMPRESS
+526,User is interested in NLP,2026-06-15 21:23:00,6,58,Preference,None,0.58,KEEP
+527,User is interested in college,2025-04-16 20:33:00,12,483,Preference,Positive,0.5,COMPRESS
+528,User frequently asks for DSA ideas,2026-01-21 19:24:00,6,203,Preference,Neutral,0.46,COMPRESS
+529,User frequently asks about chatbot,2026-06-13 15:22:00,18,60,Fact,Positive,0.93,COMPRESS
+530,User prefers regular expressions for programming,2025-05-23 16:10:00,3,446,Preference,Positive,0.24,COMPRESS
+531,User prefers software engineering explanations,2025-05-02 19:14:00,7,467,Preference,Positive,0.31,DELETE
+532,User discussed a NLP assignment,2025-06-15 19:53:00,7,423,Fact,Positive,0.31,DELETE
+533,User prefers regular expressions explanations,2025-02-10 18:09:00,0,548,Preference,Positive,0.16,DELETE
+534,User frequently asks for dynamic programming ideas,2025-01-20 20:46:00,13,569,Preference,Positive,0.44,COMPRESS
+535,User discussed a NumPy assignment,2025-06-24 12:53:00,7,414,Fact,Positive,0.37,DELETE
+536,User frequently asks for regular expressions ideas,2025-09-28 11:46:00,13,318,Preference,None,0.45,KEEP
+537,User frequently asks about operating systems,2025-05-16 10:01:00,3,453,Fact,None,0.17,DELETE
+538,User prefers artificial intelligence explanations,2025-07-01 16:57:00,11,407,Preference,Positive,0.48,COMPRESS
+539,User is working on a machine learning project,2026-05-09 19:08:00,21,95,Goal,Positive,0.85,MERGE
+540,User is interested in APIs,2026-06-19 15:23:00,20,54,Preference,Neutral,0.87,MERGE
+541,User discussed a operating systems assignment,2025-12-25 18:51:00,15,230,Fact,Neutral,0.62,KEEP
+542,User prefers React explanations,2026-05-04 21:14:00,22,100,Preference,Positive,0.92,KEEP
+543,User prefers cloud computing answers,2025-01-06 20:47:00,17,583,Preference,Positive,0.54,KEEP
+544,User is interested in NLP,2025-11-20 15:23:00,1,265,Preference,Positive,0.33,MERGE
+545,User wants to improve APIs skills,2026-08-02 14:39:00,4,10,Goal,Neutral,0.59,COMPRESS
+546,User prefers graphs instructions,2026-05-10 11:23:00,10,94,Preference,Positive,0.74,KEEP
+547,User prefers computer networks instructions,2025-05-22 19:07:00,15,447,Preference,Positive,0.56,KEEP
+548,User wants to learn regular expressions,2026-02-15 21:21:00,17,178,Goal,Positive,0.78,KEEP
+549,User frequently asks about Python,2025-04-04 11:30:00,22,495,Fact,Positive,0.6,COMPRESS
+550,User is working on a C++ project,2026-01-29 15:39:00,13,195,Goal,Positive,0.71,KEEP
+551,User prefers DSA instructions,2026-05-22 16:00:00,3,82,Preference,Neutral,0.51,COMPRESS
+552,User prefers regular expressions for programming,2026-06-13 20:14:00,11,60,Preference,Neutral,0.65,MERGE
+553,User prefers machine learning explanations,2025-10-10 21:25:00,6,306,Preference,Positive,0.4,COMPRESS
+554,User wants help preparing data science,2025-04-03 17:18:00,15,496,Goal,Positive,0.55,COMPRESS
+555,User is building a Node.js system,2025-08-20 18:12:00,8,357,Goal,Positive,0.33,COMPRESS
+556,User wants to improve artificial intelligence skills,2026-07-27 10:32:00,5,16,Goal,None,0.58,DELETE
+557,User wants trees remembered across conversations,2026-08-12 13:44:00,7,0,Goal,Positive,0.71,KEEP
+558,User is developing a pandas,2026-04-17 18:55:00,0,117,Goal,Positive,0.39,DELETE
+559,User wants to learn chatbot,2025-11-20 15:22:00,9,265,Goal,Positive,0.54,COMPRESS
+560,User is working on a computer networks project,2025-12-17 10:35:00,23,238,Goal,Positive,0.75,COMPRESS
+561,User prefers DSA answers,2025-07-14 16:47:00,3,394,Preference,Neutral,0.24,MERGE
+562,User wants to learn mobile application,2025-12-31 11:49:00,1,224,Goal,None,0.28,DELETE
+563,User frequently asks for Python ideas,2026-07-09 09:54:00,8,34,Preference,Neutral,0.63,DELETE
+564,User wants dynamic programming remembered across conversations,2025-10-09 16:11:00,27,307,Goal,None,0.58,COMPRESS
+565,User frequently asks for cybersecurity ideas,2025-02-25 17:51:00,7,533,Preference,None,0.2,MERGE
+566,User is building a DSA system,2026-04-14 10:44:00,9,120,Goal,Positive,0.58,MERGE
+567,User frequently asks about competitive programming,2025-04-14 14:23:00,11,485,Fact,Positive,0.45,COMPRESS
+568,User discussed a presentations assignment,2026-01-10 11:31:00,7,214,Fact,Positive,0.53,COMPRESS
+569,User frequently asks about Node.js,2026-04-07 11:36:00,2,127,Fact,Positive,0.44,KEEP
+570,User prefers mobile application answers,2026-07-23 15:54:00,6,20,Preference,Positive,0.72,KEEP
+571,User prefers Python instructions,2025-06-30 15:31:00,2,408,Preference,None,0.16,DELETE
+572,User is developing a deep learning,2025-11-04 13:35:00,19,281,Goal,Positive,0.66,KEEP
+573,User wants to learn React,2026-05-03 19:06:00,8,101,Goal,Positive,0.62,COMPRESS
+574,User wants React remembered across conversations,2025-12-19 09:26:00,1,236,Goal,None,0.3,COMPRESS
+575,User frequently asks for trees ideas,2025-06-28 21:18:00,6,410,Preference,Neutral,0.26,DELETE
+576,User wants machine learning remembered across conversations,2026-01-26 18:18:00,8,198,Goal,None,0.48,COMPRESS
+577,User wants presentations remembered across conversations,2026-03-08 19:39:00,10,157,Goal,None,0.47,KEEP
+578,User wants to learn college,2025-11-21 19:18:00,14,264,Goal,Positive,0.6,DELETE
+579,User prefers software engineering instructions,2026-06-18 16:26:00,2,55,Preference,None,0.4,COMPRESS
+580,User prefers machine learning answers,2025-08-04 11:25:00,1,373,Preference,Positive,0.27,DELETE
+581,User prefers computer networks for programming,2026-06-21 21:05:00,1,52,Preference,Positive,0.47,DELETE
+582,User frequently asks about GitHub,2025-08-23 12:47:00,4,354,Fact,Neutral,0.19,DELETE
+583,User prefers C++ for programming,2026-01-01 14:55:00,8,223,Preference,None,0.42,COMPRESS
+584,User discussed a cybersecurity assignment,2026-07-07 11:37:00,11,36,Fact,Neutral,0.71,KEEP
+585,User wants to improve trees skills,2025-11-14 14:30:00,10,271,Goal,Negative,0.36,MERGE
+586,User prefers databases answers,2025-11-07 09:00:00,9,278,Preference,Neutral,0.37,MERGE
+587,User wants to improve Python skills,2026-05-19 21:30:00,5,85,Goal,Neutral,0.55,COMPRESS
+588,User prefers Python instructions,2026-07-16 14:12:00,7,27,Preference,Positive,0.67,KEEP
+589,User wants help preparing operating systems,2026-01-23 12:16:00,1,201,Goal,Neutral,0.31,DELETE
+590,User frequently asks for Node.js ideas,2025-10-19 19:47:00,9,297,Preference,Positive,0.43,KEEP
+591,User prefers Git explanations,2025-04-24 19:29:00,12,475,Preference,Positive,0.48,KEEP
+592,User prefers databases for programming,2025-02-20 17:01:00,3,538,Preference,Positive,0.24,DELETE
+593,User wants help preparing Python,2025-08-27 10:09:00,0,350,Goal,Positive,0.2,DELETE
+594,User discussed a software engineering assignment,2026-04-20 20:50:00,0,114,Fact,Positive,0.47,KEEP
+595,User prefers computer networks answers,2025-03-15 17:30:00,3,515,Preference,None,0.14,MERGE
+596,User prefers web development for programming,2025-09-12 15:49:00,26,334,Preference,Positive,0.74,KEEP
+597,User wants help preparing artificial intelligence,2026-06-18 19:13:00,8,55,Goal,Neutral,0.58,COMPRESS
+598,User is interested in C++,2026-07-17 17:07:00,4,26,Preference,Neutral,0.51,DELETE
+599,User is building a NLP system,2025-04-26 12:40:00,7,473,Goal,Positive,0.39,DELETE
+600,User frequently asks about mobile application,2025-01-10 09:37:00,16,579,Fact,Positive,0.57,COMPRESS
+601,User is working on a mobile application project,2025-06-11 16:05:00,13,427,Goal,Positive,0.55,MERGE
+602,User prefers JavaScript for programming,2025-12-31 19:09:00,14,224,Preference,Negative,0.46,COMPRESS
+603,User wants to improve exam preparation skills,2026-03-26 20:12:00,0,139,Goal,Positive,0.44,COMPRESS
+604,User prefers deep learning for programming,2026-03-25 17:18:00,10,140,Preference,Positive,0.65,COMPRESS
+605,User is developing a pandas,2025-10-09 18:58:00,19,307,Goal,Positive,0.69,COMPRESS
+606,User is building a React system,2026-07-09 14:29:00,0,34,Goal,Neutral,0.43,KEEP
+607,User prefers software engineering for programming,2025-09-02 14:46:00,1,344,Preference,None,0.18,COMPRESS
+608,User is interested in deep learning,2026-07-19 11:39:00,4,24,Preference,Positive,0.6,KEEP
+609,User is interested in data science,2025-02-14 11:11:00,20,544,Preference,Positive,0.65,KEEP
+610,User frequently asks for operating systems ideas,2026-05-17 17:39:00,14,87,Preference,Positive,0.77,KEEP
+611,User is working on a Python project,2025-08-02 19:31:00,23,375,Goal,None,0.55,COMPRESS
+612,User is developing a graphs,2026-03-02 14:50:00,14,163,Goal,Negative,0.53,KEEP
+613,User is working on a GitHub project,2025-03-21 12:33:00,1,509,Goal,Neutral,0.16,COMPRESS
+614,User wants to improve mobile application skills,2026-08-07 19:11:00,10,5,Goal,Positive,0.8,KEEP
+615,User frequently asks for exam preparation ideas,2026-04-15 20:42:00,7,119,Preference,Positive,0.63,COMPRESS
+616,User wants to improve presentations skills,2025-06-11 17:38:00,7,427,Goal,Positive,0.34,DELETE
+617,User is developing a software engineering,2026-02-27 21:40:00,7,166,Goal,Neutral,0.49,COMPRESS
+618,User wants to learn operating systems,2026-07-18 20:16:00,6,25,Goal,Positive,0.72,KEEP
+619,User prefers Git for programming,2025-01-17 17:08:00,28,572,Preference,Positive,0.63,COMPRESS
+620,User is building a college system,2025-01-23 21:52:00,23,566,Goal,Negative,0.55,COMPRESS
+621,User frequently asks for dynamic programming ideas,2025-06-08 10:02:00,8,430,Preference,Positive,0.35,DELETE
+622,User wants to learn chatbot,2025-09-20 21:19:00,1,326,Goal,Positive,0.31,DELETE
+623,User wants help preparing college,2026-05-10 11:31:00,18,94,Goal,Neutral,0.8,COMPRESS
+624,User frequently asks for GitHub ideas,2025-02-08 20:51:00,10,550,Preference,Positive,0.37,DELETE
+625,User is developing a APIs,2026-03-03 10:55:00,16,162,Goal,Neutral,0.73,COMPRESS
+626,User is interested in operating systems,2025-02-25 13:33:00,0,533,Preference,Positive,0.16,DELETE
+627,User wants to learn databases,2025-02-21 19:46:00,29,537,Goal,None,0.58,COMPRESS
+628,User is working on a chatbot project,2026-03-19 13:50:00,6,146,Goal,Positive,0.49,COMPRESS
+629,User prefers graphs for programming,2026-02-13 13:05:00,7,180,Preference,Positive,0.56,MERGE
+630,User discussed a graphs assignment,2025-07-22 16:25:00,12,386,Fact,Positive,0.48,MERGE
+631,User wants to learn mobile application,2025-03-15 13:49:00,7,515,Goal,Neutral,0.3,COMPRESS
+632,User frequently asks about APIs,2026-01-10 14:12:00,5,214,Fact,Positive,0.4,COMPRESS
+633,User is developing a data analysis,2025-05-30 16:02:00,22,439,Goal,Positive,0.67,KEEP
+634,User wants help preparing machine learning,2025-04-26 20:03:00,4,473,Goal,Neutral,0.18,DELETE
+635,User prefers Python answers,2025-12-18 20:51:00,1,237,Preference,Positive,0.29,MERGE
+636,User wants to improve NLP skills,2025-07-28 17:33:00,15,380,Goal,Positive,0.55,DELETE
+637,User wants help preparing Java,2026-01-21 18:57:00,13,203,Goal,Positive,0.61,COMPRESS
+638,User prefers Node.js instructions,2025-02-24 16:41:00,24,534,Preference,Positive,0.67,MERGE
+639,User wants software engineering remembered across conversations,2025-04-21 09:18:00,20,478,Goal,Neutral,0.55,COMPRESS
+640,User wants help preparing artificial intelligence,2025-11-20 16:55:00,11,265,Goal,Positive,0.51,DELETE
+641,User wants to improve Java skills,2025-02-10 12:59:00,9,548,Goal,Positive,0.39,COMPRESS
+642,User is developing a exam preparation,2025-12-30 19:19:00,3,225,Goal,None,0.3,DELETE
+643,User is interested in React,2026-02-01 09:35:00,24,192,Preference,Positive,0.8,KEEP
+644,User prefers machine learning explanations,2026-01-27 17:43:00,11,197,Preference,Neutral,0.51,COMPRESS
+645,User prefers APIs explanations,2025-11-16 18:21:00,8,269,Preference,Positive,0.49,COMPRESS
+646,User is interested in cloud computing,2025-05-22 13:44:00,14,447,Preference,Positive,0.47,DELETE
+647,User prefers databases instructions,2026-08-02 11:20:00,1,10,Preference,Positive,0.59,KEEP
+648,User is building a databases system,2025-01-31 21:20:00,20,558,Goal,Positive,0.64,COMPRESS
+649,User wants Node.js remembered across conversations,2025-06-05 21:12:00,1,433,Goal,Positive,0.25,DELETE
+650,User prefers dynamic programming answers,2025-08-25 18:14:00,3,352,Preference,Positive,0.23,DELETE
+651,User prefers regular expressions explanations,2026-04-26 20:41:00,6,108,Preference,None,0.48,KEEP
+652,User wants to learn chatbot,2025-02-03 15:48:00,25,555,Goal,None,0.6,COMPRESS
+653,User is interested in cloud computing,2025-07-29 10:11:00,22,379,Preference,None,0.59,COMPRESS
+654,User is developing a pandas,2025-09-10 15:25:00,16,336,Goal,Positive,0.63,MERGE
+655,User frequently asks about dynamic programming,2026-07-04 17:41:00,20,39,Fact,Negative,0.82,KEEP
+656,User is building a C++ system,2025-09-09 17:34:00,7,337,Goal,Neutral,0.32,DELETE
+657,User is interested in JavaScript,2025-07-14 13:28:00,7,394,Preference,Positive,0.4,COMPRESS
+658,User frequently asks about Git,2025-02-25 20:33:00,21,533,Fact,Positive,0.67,KEEP
+659,User wants to improve web development skills,2025-07-04 21:37:00,23,404,Goal,Neutral,0.54,COMPRESS
+660,User discussed a Java assignment,2025-07-03 16:37:00,21,405,Fact,None,0.6,KEEP
+661,User is developing a SQL,2025-05-07 10:07:00,14,462,Goal,Neutral,0.4,MERGE
+662,User wants help preparing regular expressions,2025-06-13 15:35:00,6,425,Goal,Neutral,0.31,DELETE
+663,User is interested in databases,2025-06-16 11:11:00,16,422,Preference,Positive,0.54,MERGE
+664,User discussed a Git assignment,2025-07-05 10:57:00,2,403,Fact,Positive,0.26,MERGE
+665,User discussed a deep learning assignment,2026-05-26 17:51:00,0,78,Fact,None,0.34,DELETE
+666,User discussed a pandas assignment,2026-02-24 16:05:00,11,169,Fact,Positive,0.68,COMPRESS
+667,User is interested in graphs,2025-08-01 09:11:00,2,376,Preference,Neutral,0.12,DELETE
+668,User is interested in dynamic programming,2025-11-02 14:58:00,1,283,Preference,Positive,0.36,COMPRESS
+669,User prefers dynamic programming answers,2026-07-30 11:29:00,15,13,Preference,Positive,0.82,KEEP
+670,User is developing a software engineering,2026-01-24 10:48:00,7,200,Goal,Positive,0.49,KEEP
+671,User wants help preparing Node.js,2025-12-04 17:26:00,9,251,Goal,Neutral,0.46,KEEP
+672,User wants help preparing linked lists,2025-03-31 16:46:00,13,499,Goal,None,0.45,COMPRESS
+673,User frequently asks for college ideas,2025-09-23 17:36:00,29,323,Preference,Positive,0.65,COMPRESS
+674,User wants to improve deep learning skills,2026-05-20 21:11:00,20,84,Goal,Positive,0.89,KEEP
+675,User is working on a Java project,2026-04-22 19:50:00,1,112,Goal,None,0.4,DELETE
+676,User frequently asks about C++,2025-12-08 14:35:00,17,247,Fact,Positive,0.71,KEEP
+677,User prefers data science answers,2025-11-12 13:32:00,10,273,Preference,Neutral,0.4,COMPRESS
+678,User frequently asks about dynamic programming,2025-01-30 11:12:00,5,559,Fact,Positive,0.33,DELETE
+679,User prefers C++ instructions,2025-05-20 16:09:00,12,449,Preference,None,0.37,MERGE
+680,User prefers projects instructions,2025-02-27 17:19:00,10,531,Preference,Neutral,0.36,COMPRESS
+681,User frequently asks for presentations ideas,2025-12-29 10:09:00,4,226,Preference,Positive,0.48,COMPRESS
+682,User is building a SQL system,2026-08-08 18:24:00,3,4,Goal,Positive,0.65,COMPRESS
+683,User is building a college system,2025-02-02 13:26:00,1,556,Goal,None,0.11,DELETE
+684,User prefers NLP answers,2026-06-22 13:11:00,1,51,Preference,Negative,0.41,DELETE
+685,User discussed a regular expressions assignment,2025-01-26 21:30:00,21,563,Fact,Positive,0.63,COMPRESS
+686,User is building a linked lists system,2025-11-14 21:20:00,2,271,Goal,None,0.27,DELETE
+687,User is interested in cybersecurity,2025-07-30 20:02:00,8,378,Preference,Neutral,0.31,COMPRESS
+688,User wants C++ remembered across conversations,2025-03-31 14:29:00,21,499,Goal,Positive,0.68,MERGE
+689,User prefers dynamic programming for programming,2025-11-16 19:57:00,3,269,Preference,Positive,0.33,DELETE
+690,User prefers data analysis instructions,2025-05-01 13:09:00,2,468,Preference,Positive,0.3,DELETE
+691,User is working on a NLP project,2026-07-10 14:35:00,5,33,Goal,Positive,0.66,COMPRESS
+692,User wants to learn SQL,2025-03-14 13:39:00,21,516,Goal,Positive,0.6,KEEP
+693,User wants JavaScript remembered across conversations,2025-04-19 15:03:00,1,480,Goal,Positive,0.25,DELETE
+694,User is interested in data analysis,2025-12-31 13:21:00,18,224,Preference,Neutral,0.69,COMPRESS
+695,User wants pandas remembered across conversations,2026-08-05 11:05:00,17,7,Goal,None,0.82,KEEP
+696,User is interested in pandas,2026-04-27 12:14:00,2,107,Preference,None,0.36,MERGE
+697,User prefers presentations explanations,2025-11-29 16:31:00,0,256,Preference,Positive,0.29,DELETE
+698,User prefers Git explanations,2025-12-23 18:36:00,2,232,Preference,Positive,0.41,MERGE
+699,User is developing a graphs,2025-03-14 21:19:00,9,516,Goal,Positive,0.39,DELETE
+700,User wants to improve SQL skills,2026-05-09 15:04:00,5,95,Goal,Negative,0.43,MERGE
+701,User frequently asks about dynamic programming,2025-12-17 17:44:00,3,238,Fact,Neutral,0.27,DELETE
+702,User frequently asks for deep learning ideas,2025-04-28 18:38:00,8,471,Preference,Positive,0.42,KEEP
+703,User frequently asks about data science,2025-04-22 19:52:00,11,477,Fact,Negative,0.28,DELETE
+704,User prefers machine learning for programming,2025-08-11 11:56:00,11,366,Preference,Neutral,0.41,MERGE
+705,User is interested in databases,2026-04-09 17:18:00,6,125,Preference,Positive,0.53,MERGE
+706,User is developing a GitHub,2026-08-07 21:58:00,13,5,Goal,None,0.79,KEEP
+707,User wants exam preparation remembered across conversations,2025-04-02 18:00:00,11,497,Goal,Positive,0.49,DELETE
+708,User prefers software engineering for programming,2026-07-17 09:00:00,14,26,Preference,Negative,0.67,DELETE
+709,User is building a Java system,2025-08-29 15:44:00,11,348,Goal,Neutral,0.42,COMPRESS
+710,User frequently asks about trees,2025-08-05 19:11:00,8,372,Fact,Positive,0.37,DELETE
+711,User is building a projects system,2025-06-07 13:55:00,13,431,Goal,Positive,0.44,KEEP
+712,User wants help preparing deep learning,2026-03-24 11:05:00,2,141,Goal,Negative,0.35,DELETE
+713,User wants help preparing APIs,2025-07-04 16:32:00,7,404,Goal,Negative,0.19,MERGE
+714,User frequently asks about Python,2026-05-26 20:15:00,14,78,Fact,Positive,0.84,KEEP
+715,User prefers C++ for programming,2026-08-05 16:45:00,6,7,Preference,Positive,0.73,KEEP
+716,User wants help preparing linked lists,2025-10-14 16:33:00,1,302,Goal,None,0.13,DELETE
+717,User wants help preparing data science,2026-07-07 21:37:00,5,36,Goal,Positive,0.61,MERGE
+718,User discussed a pandas assignment,2026-06-09 16:36:00,15,64,Fact,Positive,0.88,COMPRESS
+719,User prefers SQL answers,2025-02-06 20:59:00,11,552,Preference,Positive,0.48,COMPRESS
+720,User is interested in NumPy,2025-06-23 18:03:00,13,415,Preference,Positive,0.52,KEEP
+721,User discussed a machine learning assignment,2025-05-10 17:04:00,19,459,Fact,Positive,0.58,COMPRESS
+722,User is building a React system,2025-01-15 20:07:00,11,574,Goal,None,0.38,DELETE
+723,User is developing a DSA,2025-09-25 21:44:00,3,321,Goal,Positive,0.31,COMPRESS
+724,User is working on a databases project,2025-06-07 16:48:00,28,431,Goal,Neutral,0.55,COMPRESS
+725,User is interested in SQL,2025-08-04 18:46:00,18,373,Preference,Positive,0.58,MERGE
+726,User prefers SQL for programming,2026-04-21 15:30:00,5,113,Preference,Neutral,0.51,COMPRESS
+727,User frequently asks about operating systems,2026-05-01 13:09:00,9,103,Fact,Positive,0.63,MERGE
+728,User frequently asks about college,2026-06-27 19:02:00,1,46,Fact,Positive,0.51,MERGE
+729,User frequently asks for Node.js ideas,2025-12-10 13:17:00,17,245,Preference,Positive,0.71,KEEP
+730,User is interested in mobile application,2025-07-19 17:21:00,13,389,Preference,None,0.37,COMPRESS
+731,User prefers data science for programming,2025-01-13 15:06:00,9,576,Preference,Neutral,0.31,DELETE
+732,User prefers cloud computing answers,2025-02-04 09:39:00,1,554,Preference,None,0.14,DELETE
+733,User frequently asks for web development ideas,2025-05-03 10:54:00,11,466,Preference,Positive,0.48,COMPRESS
+734,User prefers DSA instructions,2025-04-24 20:11:00,4,475,Preference,Positive,0.34,DELETE
+735,User wants Node.js remembered across conversations,2026-03-14 20:57:00,13,151,Goal,Neutral,0.6,MERGE
+736,User prefers JavaScript answers,2026-01-27 15:21:00,29,197,Preference,Positive,0.85,KEEP
+737,User is working on a deep learning project,2025-07-25 18:25:00,2,383,Goal,Positive,0.2,DELETE
+738,User wants to learn artificial intelligence,2026-03-29 20:16:00,1,136,Goal,Positive,0.45,COMPRESS
+739,User discussed a Java assignment,2026-05-25 11:41:00,12,79,Fact,None,0.66,COMPRESS
+740,User wants help preparing presentations,2026-02-05 18:00:00,9,188,Goal,None,0.47,COMPRESS
+741,User is building a data science system,2026-07-08 12:00:00,6,35,Goal,Neutral,0.62,KEEP
+742,User wants to improve exam preparation skills,2025-12-08 19:19:00,7,247,Goal,Neutral,0.46,KEEP
+743,User wants to improve presentations skills,2025-03-24 16:48:00,16,506,Goal,Neutral,0.45,KEEP
+744,User frequently asks about cloud computing,2025-11-03 20:24:00,21,282,Fact,Neutral,0.64,KEEP
+745,User is interested in data analysis,2025-07-14 11:02:00,3,394,Preference,Neutral,0.21,DELETE
+746,User is working on a trees project,2025-11-12 16:34:00,25,273,Goal,Negative,0.64,KEEP
+747,User is developing a JavaScript,2025-12-12 21:46:00,0,243,Goal,Positive,0.35,DELETE
+748,User discussed a trees assignment,2025-06-02 20:37:00,3,436,Fact,Positive,0.3,DELETE
+749,User prefers NumPy for programming,2025-02-16 12:44:00,12,542,Preference,Positive,0.49,DELETE
+750,User is building a artificial intelligence system,2026-04-13 18:10:00,18,121,Goal,Positive,0.88,KEEP
+751,User frequently asks for chatbot ideas,2025-03-06 21:12:00,7,524,Preference,Negative,0.27,DELETE
+752,User is developing a web development,2026-08-13 17:08:00,5,0,Goal,None,0.53,KEEP
+753,User prefers presentations explanations,2025-03-06 10:17:00,2,524,Preference,Positive,0.27,DELETE
+754,User discussed a mobile application assignment,2025-02-11 11:06:00,17,547,Fact,Neutral,0.5,KEEP
+755,User wants deep learning remembered across conversations,2025-03-24 09:00:00,2,506,Goal,Positive,0.26,DELETE
+756,User frequently asks about NumPy,2025-05-10 12:09:00,12,459,Fact,Positive,0.46,DELETE
+757,User frequently asks for C++ ideas,2025-07-04 20:31:00,11,404,Preference,Positive,0.49,COMPRESS
+758,User frequently asks about Python,2026-07-26 12:12:00,1,17,Fact,Positive,0.51,COMPRESS
+759,User prefers trees instructions,2026-06-04 12:29:00,16,69,Preference,Neutral,0.75,KEEP
+760,User prefers databases instructions,2026-05-01 16:11:00,2,103,Preference,None,0.34,MERGE
+761,User wants to learn APIs,2025-09-15 14:39:00,17,331,Goal,Neutral,0.49,MERGE
+762,User wants trees remembered across conversations,2025-06-30 11:50:00,0,408,Goal,Positive,0.15,MERGE
+763,User discussed a competitive programming assignment,2025-11-30 15:12:00,15,255,Fact,None,0.51,KEEP
+764,User wants to learn artificial intelligence,2025-08-31 20:26:00,20,346,Goal,Positive,0.63,COMPRESS
+765,User discussed a JavaScript assignment,2026-03-23 11:13:00,23,142,Fact,Positive,0.85,KEEP
+766,User wants help preparing cloud computing,2026-01-03 13:12:00,5,221,Goal,Positive,0.46,COMPRESS
+767,User is working on a pandas project,2026-04-15 15:10:00,16,119,Goal,Positive,0.77,KEEP
+768,User prefers SQL instructions,2026-07-21 12:05:00,7,22,Preference,Positive,0.73,KEEP
+769,User discussed a pandas assignment,2025-10-13 09:46:00,7,303,Fact,None,0.29,DELETE
+770,User wants to learn competitive programming,2025-06-02 18:57:00,0,436,Goal,None,0.04,DELETE
+771,User prefers regular expressions instructions,2025-02-04 15:33:00,6,554,Preference,Negative,0.21,COMPRESS
+772,User discussed a mobile application assignment,2025-03-27 17:48:00,0,503,Fact,Neutral,0.18,COMPRESS
+773,User prefers mobile application answers,2025-04-03 09:30:00,13,496,Preference,Positive,0.49,COMPRESS
+774,User frequently asks for Java ideas,2026-04-11 16:49:00,2,123,Preference,Neutral,0.37,DELETE
+775,User is interested in pandas,2025-01-02 19:04:00,6,587,Preference,Neutral,0.27,MERGE
+776,User prefers Node.js instructions,2026-07-10 18:50:00,3,33,Preference,Neutral,0.53,COMPRESS
+777,User wants JavaScript remembered across conversations,2026-06-12 19:23:00,20,61,Goal,Positive,0.93,KEEP
+778,User is developing a software engineering,2025-06-29 19:35:00,14,409,Goal,Positive,0.55,KEEP
+779,User is developing a mobile application,2026-07-07 10:41:00,8,36,Goal,None,0.61,DELETE
+780,User wants to learn chatbot,2025-11-25 14:57:00,4,260,Goal,Neutral,0.29,COMPRESS
+781,User is developing a data analysis,2026-05-13 17:33:00,18,91,Goal,Positive,0.87,COMPRESS
+782,User wants Git remembered across conversations,2026-04-08 18:23:00,17,126,Goal,None,0.75,MERGE
+783,User is working on a cloud computing project,2026-04-14 10:05:00,6,120,Goal,Positive,0.62,KEEP
+784,User prefers Node.js explanations,2025-04-25 20:09:00,9,474,Preference,None,0.3,DELETE
+785,User prefers projects answers,2026-07-09 11:30:00,6,34,Preference,Positive,0.67,COMPRESS
+786,User is working on a Java project,2025-08-26 17:41:00,5,351,Goal,Positive,0.34,DELETE
+787,User discussed a competitive programming assignment,2026-06-27 17:28:00,8,46,Fact,Positive,0.73,KEEP
+788,User prefers React instructions,2025-08-21 16:23:00,26,356,Preference,Neutral,0.53,COMPRESS
+789,User discussed a SQL assignment,2025-06-14 20:34:00,4,424,Fact,None,0.23,DELETE
+790,User is interested in databases,2025-06-15 12:07:00,0,423,Preference,Positive,0.16,MERGE
+791,User prefers NLP explanations,2026-07-30 20:02:00,13,13,Preference,None,0.69,COMPRESS
+792,User prefers trees explanations,2025-11-05 10:58:00,0,280,Preference,None,0.21,DELETE
+793,User wants college remembered across conversations,2025-06-09 09:47:00,10,429,Goal,Positive,0.44,COMPRESS
+794,User wants Git remembered across conversations,2026-08-11 19:09:00,17,1,Goal,Neutral,0.91,KEEP
+795,User is working on a NumPy project,2025-02-11 11:43:00,10,547,Goal,Positive,0.41,MERGE
+796,User discussed a exam preparation assignment,2025-04-05 14:03:00,11,494,Fact,Positive,0.45,MERGE
+797,User prefers Node.js instructions,2025-07-20 09:05:00,10,388,Preference,Positive,0.45,KEEP
+798,User wants to improve computer networks skills,2025-07-19 16:20:00,11,389,Goal,Positive,0.39,DELETE
+799,User frequently asks about databases,2026-03-14 14:24:00,6,151,Fact,Positive,0.52,DELETE
+800,User is building a graphs system,2025-03-31 12:46:00,20,499,Goal,Neutral,0.57,COMPRESS
+801,User prefers APIs explanations,2026-03-01 11:53:00,11,164,Preference,Positive,0.61,COMPRESS
+802,User is building a linked lists system,2025-12-10 10:59:00,25,245,Goal,Neutral,0.65,COMPRESS
+803,User wants Node.js remembered across conversations,2026-03-01 11:35:00,8,164,Goal,Positive,0.62,KEEP
+804,User is building a operating systems system,2025-10-24 17:31:00,0,292,Goal,Negative,0.16,MERGE
+805,User wants to improve pandas skills,2025-08-18 09:50:00,0,359,Goal,Positive,0.26,DELETE
+806,User discussed a web development assignment,2025-10-22 15:11:00,9,294,Fact,Neutral,0.37,COMPRESS
+807,User prefers deep learning answers,2025-03-10 18:47:00,6,520,Preference,Positive,0.33,MERGE
+808,User is interested in NumPy,2025-05-03 14:32:00,15,466,Preference,Positive,0.51,COMPRESS
+809,User prefers college explanations,2026-04-18 20:08:00,6,116,Preference,Positive,0.56,COMPRESS
+810,User is developing a JavaScript,2025-10-24 13:33:00,12,292,Goal,Positive,0.5,COMPRESS
+811,User prefers artificial intelligence instructions,2025-06-21 17:20:00,20,417,Preference,Negative,0.52,COMPRESS
+812,User is interested in software engineering,2025-04-09 17:37:00,6,490,Preference,Positive,0.29,MERGE
+813,User prefers deep learning instructions,2026-02-26 14:58:00,22,167,Preference,Positive,0.8,KEEP
+814,User wants to learn graphs,2026-06-23 17:45:00,10,50,Goal,Neutral,0.61,COMPRESS
+815,User is working on a web development project,2025-05-15 09:30:00,6,454,Goal,Neutral,0.22,DELETE
+816,User frequently asks for linked lists ideas,2025-12-17 11:45:00,5,238,Preference,Neutral,0.32,COMPRESS
+817,User wants help preparing databases,2025-08-21 13:08:00,3,356,Goal,None,0.17,DELETE
+818,User is working on a data science project,2025-01-20 21:30:00,15,569,Goal,Positive,0.49,MERGE
+819,User wants to improve competitive programming skills,2025-03-02 16:07:00,21,528,Goal,Positive,0.63,KEEP
+820,User is working on a web development project,2025-07-30 18:57:00,3,378,Goal,Neutral,0.14,COMPRESS
+821,User wants help preparing Node.js,2025-12-23 14:10:00,19,232,Goal,Negative,0.62,COMPRESS
+822,User is working on a artificial intelligence project,2025-01-15 17:13:00,14,574,Goal,None,0.38,DELETE
+823,User prefers artificial intelligence for programming,2025-08-08 17:54:00,14,369,Preference,Positive,0.53,COMPRESS
+824,User is working on a DSA project,2025-12-30 15:27:00,3,225,Goal,Positive,0.36,DELETE
+825,User is working on a pandas project,2025-04-23 17:08:00,9,476,Goal,Positive,0.38,DELETE
+826,User is working on a college project,2026-05-21 10:24:00,4,83,Goal,Positive,0.54,DELETE
+827,User discussed a chatbot assignment,2026-07-22 15:18:00,27,21,Fact,Positive,0.99,COMPRESS
+828,User prefers NumPy instructions,2026-01-12 11:00:00,30,212,Preference,Positive,0.75,KEEP
+829,User is interested in machine learning,2025-05-03 11:25:00,7,466,Preference,Positive,0.31,DELETE
+830,User prefers data science explanations,2026-01-08 12:21:00,3,216,Preference,None,0.3,MERGE
+831,User frequently asks about deep learning,2025-10-13 21:45:00,16,303,Fact,Positive,0.65,MERGE
+832,User frequently asks about exam preparation,2026-05-03 19:38:00,24,101,Fact,None,0.8,KEEP
+833,User discussed a artificial intelligence assignment,2025-05-06 13:31:00,9,463,Fact,Neutral,0.29,COMPRESS
+834,User prefers data science for programming,2026-05-26 19:01:00,26,78,Preference,Positive,0.95,KEEP
+835,User frequently asks for artificial intelligence ideas,2025-03-20 19:48:00,9,510,Preference,Positive,0.4,COMPRESS
+836,User discussed a deep learning assignment,2026-06-01 13:34:00,5,72,Fact,None,0.5,DELETE
+837,User prefers APIs for programming,2025-05-02 15:28:00,5,467,Preference,Positive,0.31,COMPRESS
+838,User wants to improve GitHub skills,2025-06-18 16:27:00,2,420,Goal,Neutral,0.17,COMPRESS
+839,User is interested in deep learning,2026-07-22 19:34:00,10,21,Preference,Positive,0.8,KEEP
+840,User frequently asks about React,2026-05-22 18:24:00,12,82,Fact,Positive,0.8,KEEP
+841,User prefers competitive programming for programming,2025-02-16 11:53:00,6,542,Preference,Negative,0.2,DELETE
+842,User is interested in presentations,2026-01-25 10:27:00,6,199,Preference,Positive,0.48,MERGE
+843,User wants to learn mobile application,2025-11-16 18:05:00,22,269,Goal,Positive,0.72,KEEP
+844,User prefers trees for programming,2025-11-30 09:29:00,13,255,Preference,Positive,0.6,COMPRESS
+845,User prefers NumPy for programming,2025-01-23 14:24:00,10,566,Preference,Positive,0.38,DELETE
+846,User wants help preparing NLP,2025-12-11 16:32:00,17,244,Goal,Neutral,0.59,COMPRESS
+847,User frequently asks about cloud computing,2026-05-24 19:54:00,26,80,Fact,Positive,0.97,KEEP
+848,User prefers JavaScript answers,2025-11-01 18:25:00,17,284,Preference,Neutral,0.65,MERGE
+849,User frequently asks for artificial intelligence ideas,2025-12-11 13:04:00,10,244,Preference,Positive,0.53,COMPRESS
+850,User is working on a GitHub project,2026-06-01 21:19:00,7,72,Goal,Positive,0.6,COMPRESS
+851,User frequently asks for regular expressions ideas,2026-04-10 19:48:00,10,124,Preference,None,0.57,COMPRESS
+852,User prefers dynamic programming explanations,2026-05-27 12:42:00,25,77,Preference,Neutral,0.85,MERGE
+853,User wants to improve APIs skills,2026-08-03 20:40:00,0,9,Goal,Positive,0.54,COMPRESS
+854,User wants help preparing GitHub,2026-03-22 15:20:00,19,143,Goal,None,0.76,COMPRESS
+855,User prefers Git answers,2025-06-14 13:43:00,11,424,Preference,Positive,0.4,KEEP
+856,User wants to learn GitHub,2026-04-21 16:35:00,28,113,Goal,Positive,0.94,KEEP
+857,User prefers cybersecurity answers,2025-01-30 13:50:00,17,559,Preference,Neutral,0.47,DELETE
+858,User wants help preparing deep learning,2025-01-21 09:55:00,21,568,Goal,Positive,0.63,KEEP
+859,User frequently asks about software engineering,2025-04-03 15:53:00,14,496,Fact,Positive,0.47,MERGE
+860,User wants web development remembered across conversations,2026-06-19 19:53:00,11,54,Goal,Neutral,0.68,COMPRESS
+861,User is working on a mobile application project,2025-05-06 21:51:00,5,463,Goal,None,0.24,DELETE
+862,User wants help preparing mobile application,2026-03-10 12:09:00,1,155,Goal,Positive,0.4,COMPRESS
+863,User is building a competitive programming system,2025-02-27 16:34:00,6,531,Goal,None,0.21,DELETE
+864,User is interested in mobile application,2025-10-12 21:59:00,2,304,Preference,Positive,0.29,MERGE
+865,User is interested in C++,2025-02-25 20:58:00,17,533,Preference,Positive,0.59,COMPRESS
+866,User wants help preparing software engineering,2025-05-05 17:55:00,3,464,Goal,Positive,0.21,DELETE
+867,User wants React remembered across conversations,2025-11-05 10:59:00,18,280,Goal,Positive,0.65,DELETE
+868,User wants data analysis remembered across conversations,2025-11-21 21:49:00,12,264,Goal,Negative,0.39,COMPRESS
+869,User prefers deep learning instructions,2026-04-28 20:26:00,22,106,Preference,Positive,0.89,COMPRESS
+870,User is working on a SQL project,2025-09-25 17:04:00,6,321,Goal,Positive,0.41,MERGE
+871,User discussed a Java assignment,2025-02-23 19:41:00,3,535,Fact,Positive,0.28,COMPRESS
+872,User wants to learn GitHub,2025-11-18 18:05:00,1,267,Goal,Positive,0.34,DELETE
+873,User is interested in cybersecurity,2026-02-25 21:20:00,8,168,Preference,None,0.42,KEEP
+874,User frequently asks for college ideas,2025-10-16 12:05:00,7,300,Preference,Positive,0.46,DELETE
+875,User wants dynamic programming remembered across conversations,2025-08-18 09:01:00,22,359,Goal,Neutral,0.6,DELETE
+876,User discussed a cloud computing assignment,2025-09-26 20:54:00,2,320,Fact,Positive,0.28,MERGE
+877,User is working on a software engineering project,2025-06-24 18:07:00,0,414,Goal,Positive,0.23,DELETE
+878,User is building a deep learning system,2025-05-02 12:45:00,3,467,Goal,None,0.21,MERGE
+879,User wants help preparing deep learning,2026-01-27 11:27:00,19,197,Goal,Positive,0.85,KEEP
+880,User is interested in cloud computing,2026-03-05 11:26:00,17,160,Preference,Positive,0.84,KEEP
+881,User discussed a mobile application assignment,2026-01-14 18:43:00,12,210,Fact,Positive,0.61,DELETE
+882,User wants help preparing computer networks,2025-08-06 20:24:00,14,371,Goal,Neutral,0.42,KEEP
+883,User prefers JavaScript for programming,2025-12-07 12:30:00,21,248,Preference,None,0.71,MERGE
+884,User frequently asks for C++ ideas,2025-01-06 13:32:00,12,583,Preference,Positive,0.46,COMPRESS
+885,User wants graphs remembered across conversations,2025-02-12 18:11:00,4,546,Goal,Positive,0.34,DELETE
+886,User prefers machine learning explanations,2025-11-21 20:33:00,7,264,Preference,Positive,0.43,DELETE
+887,User discussed a Node.js assignment,2026-01-05 15:18:00,21,219,Fact,Positive,0.83,COMPRESS
+888,User wants to improve college skills,2026-03-23 11:20:00,15,142,Goal,Positive,0.81,KEEP
+889,User wants data analysis remembered across conversations,2025-02-24 12:09:00,0,534,Goal,Positive,0.2,COMPRESS
+890,User discussed a APIs assignment,2025-04-29 16:02:00,7,470,Fact,None,0.26,DELETE
+891,User is working on a databases project,2025-05-07 14:05:00,3,462,Goal,Positive,0.31,DELETE
+892,User is building a Node.js system,2026-07-31 19:37:00,3,12,Goal,None,0.45,MERGE
+893,User prefers projects explanations,2025-03-20 12:49:00,9,510,Preference,Positive,0.38,MERGE
+894,User is interested in web development,2026-02-08 14:37:00,23,185,Preference,Positive,0.8,KEEP
+895,User discussed a NumPy assignment,2026-04-10 19:17:00,11,124,Fact,Positive,0.73,KEEP
+896,User discussed a college assignment,2026-08-06 11:13:00,19,6,Fact,Negative,0.8,COMPRESS
+897,User wants help preparing data science,2026-07-15 18:24:00,1,28,Goal,Positive,0.51,MERGE
+898,User frequently asks about machine learning,2025-01-22 12:10:00,6,567,Fact,Positive,0.35,DELETE
+899,User prefers web development explanations,2025-11-02 16:51:00,7,283,Preference,Negative,0.26,DELETE
+900,User prefers exam preparation explanations,2025-04-09 14:32:00,3,490,Preference,Positive,0.25,MERGE
+901,User frequently asks for APIs ideas,2025-04-03 21:27:00,17,496,Preference,Positive,0.57,COMPRESS
+902,User prefers regular expressions for programming,2025-12-16 16:43:00,3,239,Preference,Neutral,0.28,DELETE
+903,User is interested in linked lists,2025-03-27 13:29:00,7,503,Preference,None,0.25,COMPRESS
+904,User prefers GitHub explanations,2025-09-12 17:27:00,5,334,Preference,Positive,0.29,COMPRESS
+905,User is working on a regular expressions project,2026-03-12 15:06:00,8,153,Goal,Neutral,0.55,COMPRESS
+906,User frequently asks for machine learning ideas,2026-05-31 09:07:00,15,73,Preference,Positive,0.85,COMPRESS
+907,User prefers machine learning for programming,2026-03-03 20:19:00,5,162,Preference,Neutral,0.47,COMPRESS
+908,User prefers React instructions,2025-12-16 21:11:00,3,239,Preference,Positive,0.45,COMPRESS
+909,User is interested in artificial intelligence,2026-03-21 17:01:00,0,144,Preference,Positive,0.37,DELETE
+910,User wants help preparing computer networks,2026-05-14 13:39:00,17,90,Goal,Positive,0.87,MERGE
+911,User is interested in computer networks,2025-11-06 10:08:00,2,279,Preference,Positive,0.37,DELETE
+912,User wants to learn Java,2025-08-03 16:41:00,2,374,Goal,Positive,0.29,DELETE
+913,User wants to improve cloud computing skills,2025-03-30 13:49:00,8,500,Goal,Positive,0.32,COMPRESS
+914,User prefers data analysis explanations,2026-05-12 16:01:00,19,92,Preference,Positive,0.85,KEEP
+915,User is building a computer networks system,2025-02-22 14:00:00,1,536,Goal,None,0.11,DELETE
+916,User discussed a competitive programming assignment,2026-07-22 13:02:00,8,21,Fact,Positive,0.72,KEEP
+917,User is interested in deep learning,2025-08-26 20:03:00,9,351,Preference,Positive,0.39,COMPRESS
+918,User wants projects remembered across conversations,2026-04-30 10:31:00,12,104,Goal,Neutral,0.64,COMPRESS
+919,User prefers Git explanations,2025-07-16 16:22:00,7,392,Preference,Positive,0.37,DELETE
+920,User wants pandas remembered across conversations,2025-05-15 13:46:00,14,454,Goal,None,0.45,MERGE
+921,User wants help preparing software engineering,2026-04-29 21:54:00,2,105,Goal,Positive,0.52,KEEP
+922,User discussed a cybersecurity assignment,2025-06-27 12:10:00,11,411,Fact,Positive,0.44,DELETE
+923,User prefers mobile application answers,2025-08-03 17:03:00,30,374,Preference,Positive,0.62,MERGE
+924,User prefers regular expressions explanations,2025-02-02 21:04:00,5,556,Preference,Positive,0.28,DELETE
+925,User discussed a React assignment,2025-12-15 21:22:00,16,240,Fact,Neutral,0.62,DELETE
+926,User is building a regular expressions system,2025-04-17 20:03:00,22,482,Goal,Positive,0.64,MERGE
+927,User is working on a artificial intelligence project,2025-04-15 17:02:00,9,484,Goal,Positive,0.36,MERGE
+928,User is developing a SQL,2025-10-27 20:28:00,16,289,Goal,Positive,0.68,KEEP
+929,User is developing a presentations,2025-05-22 10:54:00,3,447,Goal,None,0.2,COMPRESS
+930,User is building a NumPy system,2025-12-16 13:32:00,2,239,Goal,Positive,0.39,DELETE
+931,User is interested in mobile application,2025-06-05 21:48:00,9,433,Preference,Negative,0.21,DELETE
+932,User wants projects remembered across conversations,2026-04-15 17:50:00,13,119,Goal,None,0.62,MERGE
+933,User wants help preparing linked lists,2025-03-13 10:21:00,5,517,Goal,None,0.17,COMPRESS
+934,User prefers C++ instructions,2025-06-04 18:03:00,26,434,Preference,None,0.59,DELETE
+935,User prefers projects answers,2026-02-16 19:44:00,10,177,Preference,Positive,0.63,DELETE
+936,User prefers Node.js for programming,2026-06-25 18:58:00,2,48,Preference,Positive,0.57,DELETE
+937,User frequently asks for data analysis ideas,2025-12-20 21:50:00,12,235,Preference,Neutral,0.57,KEEP
+938,User wants to improve presentations skills,2026-02-04 20:46:00,15,189,Goal,Positive,0.77,KEEP
+939,User is working on a regular expressions project,2026-07-20 13:33:00,5,23,Goal,Neutral,0.51,DELETE
+940,User wants to improve competitive programming skills,2025-09-22 12:53:00,16,324,Goal,Neutral,0.59,KEEP
+941,User prefers software engineering for programming,2025-09-23 19:32:00,6,323,Preference,Positive,0.39,COMPRESS
+942,User prefers dynamic programming answers,2025-01-06 16:21:00,27,583,Preference,Negative,0.56,COMPRESS
+943,User wants trees remembered across conversations,2025-08-28 14:19:00,4,349,Goal,Negative,0.18,DELETE
+944,User wants help preparing operating systems,2026-06-17 20:15:00,1,56,Goal,Positive,0.48,MERGE
+945,User discussed a artificial intelligence assignment,2025-05-31 20:27:00,18,438,Fact,Positive,0.55,DELETE
+946,User discussed a NLP assignment,2026-04-02 10:23:00,13,132,Fact,Positive,0.72,KEEP
+947,User is building a React system,2026-05-26 19:27:00,29,78,Goal,Neutral,0.91,KEEP
+948,User frequently asks about SQL,2025-05-28 17:08:00,8,441,Fact,Positive,0.44,COMPRESS
+949,User wants to improve web development skills,2025-08-06 16:30:00,0,371,Goal,Positive,0.21,DELETE
+950,User is working on a projects project,2025-04-23 10:23:00,10,476,Goal,Positive,0.38,MERGE
+951,User is developing a GitHub,2025-10-29 16:01:00,17,287,Goal,Positive,0.67,KEEP
+952,User wants GitHub remembered across conversations,2025-10-18 12:11:00,18,298,Goal,Positive,0.62,COMPRESS
+953,User is building a C++ system,2026-03-04 16:36:00,5,161,Goal,Positive,0.49,COMPRESS
+954,User is building a cybersecurity system,2025-05-22 17:40:00,8,447,Goal,Positive,0.37,DELETE
+955,User is developing a machine learning,2026-02-24 15:14:00,21,169,Goal,Positive,0.78,KEEP
+956,User discussed a Node.js assignment,2025-04-01 11:45:00,0,498,Fact,Neutral,0.16,MERGE
+957,User is interested in web development,2026-07-27 10:12:00,24,16,Preference,Positive,0.99,MERGE
+958,User wants to improve cloud computing skills,2026-05-03 17:57:00,0,101,Goal,Neutral,0.39,DELETE
+959,User prefers NLP answers,2025-09-09 20:53:00,20,337,Preference,Positive,0.71,KEEP
+960,User frequently asks about competitive programming,2025-02-16 16:55:00,23,542,Fact,Positive,0.61,KEEP
+961,User wants to improve college skills,2026-01-27 13:05:00,1,197,Goal,Positive,0.34,COMPRESS
+962,User prefers machine learning answers,2025-06-07 13:26:00,13,431,Preference,Positive,0.55,KEEP
+963,User wants help preparing JavaScript,2025-11-02 15:06:00,5,283,Goal,Positive,0.37,MERGE
+964,User is building a web development system,2025-02-23 12:15:00,15,535,Goal,Positive,0.54,MERGE
+965,User frequently asks about web development,2025-10-03 09:20:00,8,313,Fact,Positive,0.43,COMPRESS
+966,User wants to learn Java,2025-10-03 17:37:00,13,313,Goal,Positive,0.55,MERGE
+967,User prefers dynamic programming answers,2026-02-21 16:05:00,19,172,Preference,Positive,0.85,KEEP
+968,User wants to improve SQL skills,2025-09-09 17:27:00,25,337,Goal,Positive,0.62,MERGE
+969,User is building a Git system,2025-06-21 09:03:00,23,417,Goal,Positive,0.66,MERGE
+970,User frequently asks about exam preparation,2025-08-06 18:53:00,9,371,Fact,Positive,0.43,COMPRESS
+971,User prefers machine learning answers,2026-02-09 20:07:00,18,184,Preference,Neutral,0.77,COMPRESS
+972,User wants to learn regular expressions,2025-11-22 19:21:00,12,263,Goal,None,0.49,COMPRESS
+973,User is interested in college,2025-12-16 12:29:00,25,239,Preference,Positive,0.82,KEEP
+974,User wants Python remembered across conversations,2026-05-03 09:57:00,0,101,Goal,Positive,0.46,MERGE
+975,User discussed a computer networks assignment,2026-07-06 10:50:00,20,37,Fact,Neutral,0.9,COMPRESS
+976,User is building a data analysis system,2025-05-07 14:52:00,6,462,Goal,Positive,0.32,DELETE
+977,User prefers Python instructions,2025-05-08 16:23:00,23,461,Preference,Positive,0.62,KEEP
+978,User prefers exam preparation answers,2025-07-16 10:52:00,11,392,Preference,Positive,0.47,COMPRESS
+979,User discussed a software engineering assignment,2025-02-07 13:31:00,21,551,Fact,Neutral,0.55,KEEP
+980,User is building a computer networks system,2025-04-24 13:36:00,9,475,Goal,Positive,0.37,DELETE
+981,User is interested in dynamic programming,2025-06-29 10:37:00,2,409,Preference,Positive,0.22,DELETE
+982,User wants to learn linked lists,2025-10-08 12:54:00,13,308,Goal,None,0.47,COMPRESS
+983,User prefers graphs answers,2026-04-10 09:27:00,12,124,Preference,None,0.55,DELETE
+984,User frequently asks about projects,2025-10-08 10:43:00,9,308,Fact,Positive,0.46,KEEP
+985,User wants help preparing chatbot,2025-02-18 13:58:00,7,540,Goal,Positive,0.3,COMPRESS
+986,User is working on a dynamic programming project,2025-01-26 20:14:00,26,563,Goal,Positive,0.6,COMPRESS
+987,User prefers presentations explanations,2025-11-15 10:40:00,12,270,Preference,Positive,0.55,KEEP
+988,User prefers presentations instructions,2025-09-14 12:06:00,8,332,Preference,None,0.35,DELETE
+989,User wants to improve mobile application skills,2025-03-16 21:38:00,12,514,Goal,Neutral,0.42,COMPRESS
+990,User is working on a JavaScript project,2025-02-04 15:20:00,21,554,Goal,Neutral,0.61,KEEP
+991,User prefers data analysis instructions,2025-02-26 13:39:00,12,532,Preference,Positive,0.49,COMPRESS
+992,User prefers operating systems answers,2026-02-16 10:39:00,15,177,Preference,Positive,0.73,KEEP
+993,User prefers pandas for programming,2026-01-29 16:50:00,7,195,Preference,Neutral,0.4,MERGE
+994,User is interested in Java,2026-04-10 17:21:00,11,124,Preference,Positive,0.62,MERGE
+995,User frequently asks for cloud computing ideas,2026-08-10 11:40:00,9,2,Preference,Positive,0.75,KEEP
+996,User prefers mobile application explanations,2025-05-21 21:02:00,0,448,Preference,Positive,0.19,DELETE
+997,User prefers exam preparation instructions,2025-11-15 18:56:00,10,270,Preference,Positive,0.51,COMPRESS
+998,User prefers software engineering answers,2025-01-09 17:37:00,13,580,Preference,Positive,0.46,MERGE
+999,User wants to improve JavaScript skills,2026-03-09 14:12:00,26,156,Goal,Neutral,0.74,KEEP
+1000,User wants to learn NumPy,2026-04-24 18:44:00,5,110,Goal,Positive,0.61,COMPRESS
